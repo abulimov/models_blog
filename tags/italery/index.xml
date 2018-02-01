@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Italery on Alexander Bulimov&#39;s Models</title>
-    <link>models.bulimov.ru/tags/italery/</link>
+    <link>//models.bulimov.ru/tags/italery/</link>
     <description>Recent content in Italery on Alexander Bulimov&#39;s Models</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
@@ -11,15 +11,15 @@
         &lt;/small&gt;</copyright>
     <lastBuildDate>Sat, 20 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="models.bulimov.ru/tags/italery/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//models.bulimov.ru/tags/italery/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>[WIP] HMS Hood, 1/720, Italery/Zvezda, 2017</title>
-      <link>models.bulimov.ru/models/zvezda-hood/</link>
+      <link>//models.bulimov.ru/models/zvezda-hood/</link>
       <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>models.bulimov.ru/models/zvezda-hood/</guid>
+      <guid>//models.bulimov.ru/models/zvezda-hood/</guid>
       <description>Italery kit from 1978, which explains strange 1&amp;frasl;720 scale.
 I&amp;rsquo;ve got Zvezda version just because it was a present. Interesting fact - Zvezda is not allowed to sell this kit outside of ex-USSR because it&amp;rsquo;s just cheaper in it&amp;rsquo;s version.
 Model quality The kit is surprisingly good given it&amp;rsquo;s age. It&amp;rsquo;s pretty detailed, and the part quality is really nice. The only thing that surprised me was total lack of decals.</description>
