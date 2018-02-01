@@ -1,7 +1,7 @@
 baseurl         = "/"
 theme           = "casper-two"
 languageCode    = "en-US"
-disqusShortname = ""
+disqusShortname = "models-bulimov-ru"
 paginate        = 6
 #SectionPagesMenu = "main"
 
@@ -13,7 +13,7 @@ paginate        = 6
 
   description = "Just a small collection of scale models I've built."
   metaDescription = ""
-  googleAnalytics = ""
+  googleAnalytics = "UA-113451260-1"
   customCSS = []
   RSSLink = ""
 
