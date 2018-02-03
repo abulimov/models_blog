@@ -1,9 +1,9 @@
 ---
-title: "[WIP] Bedford MWD, 1/48, Airfix, 2017"
+title: "[WIP] Bedford MWD, 1/48, Airfix, 2018"
 slug: airfix-beford-mwd
-date: 2018-01-21
+date: 2018-02-03
 tags: [Airfix, 1/48]
-image: images/models/bedford-mwd/scratched_2_1920.jpg
+image: images/models/bedford-mwd/filters_and_washes_1_1920.jpg
 categories: [vehicles]
 ---
 
@@ -39,6 +39,11 @@ Applied decals over gloss coat:
 ![decals 1](/images/models/bedford-mwd/bedford_mwd_decals_1_1920.jpg)
 ![decals 2](/images/models/bedford-mwd/bedford_mwd_decals_2_1920.jpg)
 ![decals 3](/images/models/bedford-mwd/bedford_mwd_decals_3_1920.jpg)
-![decals 4](/images/models/bedford-mwd/bedford_mwd_decals_4_1920.jpg)
+
+
+Matte coat, oil filters, then satin coat and black enamel wash:
+
+![filters_and_washes_1](/images/models/bedford-mwd/filters_and_washes_1_1920.jpg)
+![filters_and_washes_7](/images/models/bedford-mwd/filters_and_washes_7_1920.jpg)
 
 **To be continued...**
