@@ -1,5 +1,5 @@
 ---
-title: "Harbour Tug boat 'Lucky IX', 1/108, Revell, 2016"
+title: "Harbour Tug boat 'Lucky XI', 1/108, Revell, 2016"
 slug: revell-harbour-tug
 date: 2017-07-28
 tags: [Revell, 1/108]
@@ -28,7 +28,6 @@ Once I was done with assembly I was kind of tired of this endless fixing, so I'v
 As I've quickly finished I-4 I've got back to this kit, fixed minor problems with base paint, covered everything with Humbrol Clear and applied decals.
 Honestly I was quite relieved at this point, the model looked really nice once painted.
 
-Сделал weathering нижней части корпуса, и смывку верхней:
 Weathered the lower part of the hull, applied was on the top part, deck and bridge:
 
 ![wip 1](/images/models/harbour-tug/tug_1_1920.jpg)
