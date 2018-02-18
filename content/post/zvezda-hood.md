@@ -1,9 +1,9 @@
 ---
-title: "[WIP] HMS Hood, 1/720, Italery/Zvezda, 2017"
-date: 2018-01-20
+title: "[WIP] HMS Hood, 1/720, Italery/Zvezda, 2018"
+date: 2018-02-18
 slug: zvezda-hood
 tags: [Zvezda, Italery, 1/720, WIP]
-image: images/models/hms-hood/hood_wip_4_1920.jpg
+image: images/models/hms-hood/assembly_finished_3_1920.jpg
 categories: [ships]
 ---
 
@@ -38,5 +38,18 @@ Before and after PE railings:
 
 Added more PE on the superstructure, looks much better with it:
 ![hood superstructure PE](/images/models/hms-hood/hood_wip_5_1920.jpg)
+
+Had some spare PE inclined ladders from **Tom's Modelworks**, decided to replace plastic ones after quick comparison.
+
+PE ladders vs plastic:
+![ladders_comparison](/images/models/hms-hood/ladders_comparison_1920.jpg)
+
+Spent whole weekend adding PE railings, I think the result is definitely worth it.
+
+Fully assembled model, needs only matte coat and weathering:
+
+![assembly_finished_1](/images/models/hms-hood/assembly_finished_1_1920.jpg)
+![assembly_finished_2](/images/models/hms-hood/assembly_finished_2_1920.jpg)
+![assembly_finished_3](/images/models/hms-hood/assembly_finished_3_1920.jpg)
 
 **To be continued...**
