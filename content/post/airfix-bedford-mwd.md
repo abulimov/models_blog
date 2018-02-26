@@ -1,16 +1,23 @@
 ---
-title: "[WIP] Bedford MWD, 1/48, Airfix, 2018"
+title: "Bedford MWD, 1/48, Airfix, 2018"
 slug: airfix-beford-mwd
-date: 2018-02-03
+date: 2018-02-26
 tags: [Airfix, 1/48]
-image: images/models/bedford-mwd/filters_and_washes_1_1920.jpg
+image: images/models/bedford-mwd/finished_05_1920.jpg
 categories: [vehicles]
 ---
 
 Nice little model from **Battle of Britain: Ready For Battle** set.
 
 The whole kit is fantastic - it's 'new tool', so perfect quality and level of details.
-I've decided to start with truck just to get back to painting vehicles and try some new techniques.
+I've decided to start with truck just to learn how to paint vehicles and try some new techniques.
+It's the first model I've painted after I read awesome **Adam's Armour** book by **Adam Wilder**,
+so I've tried to apply knowledge I've got from the book.
+
+## The Bedford MWD truck
+
+This 4x2 truck was a workhorse of the British army and RAF transportation for the whole WW2.
+More than 200 000 were produced, and it remained in service till late 1950s.
 
 ## Model quality
 
@@ -20,7 +27,7 @@ And the instructions are just great - everything is clear, all new parts in each
 ## Build notes
 The build was straightforward, no fit issues at all.
 
-I've started with base coat of A.MIG-044 Chipping paint, then a coat of MIG chipping fluid, and then Ammo Mig Khaki Green #3 (AMIG-113).
+I've started with base coat of A.MIG-044 Chipping paint, then a coat of MIG chipping fluid, and then Ammo Mig Khaki Green #3 (A.MIG-113).
 
 Here is the model before the actual chipping:
 
@@ -46,4 +53,14 @@ Matte coat, oil filters, then satin coat and black enamel wash:
 ![filters_and_washes_1](/images/models/bedford-mwd/filters_and_washes_1_1920.jpg)
 ![filters_and_washes_7](/images/models/bedford-mwd/filters_and_washes_7_1920.jpg)
 
-**To be continued...**
+Painted the wheels, applied Earth wash on them.
+As I plan to use this model in future BOB airfield diorama, I decided that it shouldn't be too dusty and dirty, so just applied more earth wash and called it a day.
+
+## Gallery
+
+![finished 05](/images/models/bedford-mwd/finished_05_1920.jpg)
+![finished 07](/images/models/bedford-mwd/finished_07_1920.jpg)
+![finished 08](/images/models/bedford-mwd/finished_08_1920.jpg)
+![finished 09](/images/models/bedford-mwd/finished_09_1920.jpg)
+![finished 10](/images/models/bedford-mwd/finished_10_1920.jpg)
+![finished 13](/images/models/bedford-mwd/finished_13_1920.jpg)
