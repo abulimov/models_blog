@@ -1,15 +1,19 @@
 ---
-title: "[WIP] HMS Hood, 1/720, Italery/Zvezda, 2018"
-date: 2018-02-18
+title: "HMS Hood, 1/720, Italery/Zvezda, 2018"
+date: 2018-03-02
 slug: zvezda-hood
-tags: [Zvezda, Italery, 1/720, WIP]
-image: images/models/hms-hood/assembly_finished_3_1920.jpg
+tags: [Zvezda, Italery, 1/720]
+image: images/models/hms-hood/finished_05_1920.jpg
 categories: [ships]
 ---
 
 Italery kit from 1978, which explains strange **1/720** scale.
 
 I've got Zvezda version just because it was a present. Interesting fact - Zvezda is not allowed to sell this kit outside of ex-USSR because it's just cheaper in it's version.
+
+## The Mighty HMS Hood
+
+Built in 1918, the only ship in her class, this battlecruiser remained the largest and most powerful warship for 20 years. She tragically sank during the Battle of the Denmark Strait with the loss of all but 3 of her crew of 1418 men. If you want to know more, Wikipedia has a [great article](https://en.wikipedia.org/wiki/HMS_Hood).
 
 ## Model quality
 
@@ -52,4 +56,23 @@ Fully assembled model, needs only matte coat and weathering:
 ![assembly_finished_2](/images/models/hms-hood/assembly_finished_2_1920.jpg)
 ![assembly_finished_3](/images/models/hms-hood/assembly_finished_3_1920.jpg)
 
-**To be continued...**
+Applied red-brown wash on the deck, rigged with EZ-line, and weathered with oil paint.
+
+## Conclusion
+
+Really good model despite its age, the subject is interesting, and I learned a lot while building it.
+Especially I liked enhancing the look of it with PhotoEtch. While it's definitely tedious, it's so worth it!
+
+## Gallery
+
+![finished_2](/images/models/hms-hood/finished_02_1920.jpg)
+![finished_3](/images/models/hms-hood/finished_03_1920.jpg)
+![finished_4](/images/models/hms-hood/finished_04_1920.jpg)
+![finished_5](/images/models/hms-hood/finished_05_1920.jpg)
+![finished_6](/images/models/hms-hood/finished_06_1920.jpg)
+![finished_7](/images/models/hms-hood/finished_07_1920.jpg)
+![finished_8](/images/models/hms-hood/finished_08_1920.jpg)
+![finished_9](/images/models/hms-hood/finished_09_1920.jpg)
+![finished_10](/images/models/hms-hood/finished_10_1920.jpg)
+![finished_11](/images/models/hms-hood/finished_11_1920.jpg)
+![finished_1](/images/models/hms-hood/finished_01_1920.jpg)
