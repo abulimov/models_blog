@@ -56,6 +56,11 @@ Matte coat, oil filters, then satin coat and black enamel wash:
 Painted the wheels, applied Earth wash on them.
 As I plan to use this model in future BOB airfield diorama, I decided that it shouldn't be too dusty and dirty, so just applied more earth wash and called it a day.
 
+## Conclusion
+
+Awesome modern kit, really enjoyed building it, and **Adam's Armour** book definitely helped when I got to the weathering.
+Looking forward to using it on a diorama with Hurricane.
+
 ## Gallery
 
 ![finished 05](/images/models/bedford-mwd/finished_05_1920.jpg)
