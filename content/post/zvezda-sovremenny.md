@@ -1,8 +1,8 @@
 ---
-title: "Sovremenny (Современный), 1/700, Zvezda, 2018"
+title: "[WIP] Sovremenny (Современный), 1/700, Zvezda, 2018"
 date: 2018-03-25T23:39:58+01:00
 slug: zvezda-sovremenny
-tags: [Zvezda, 1/700]
+tags: [Zvezda, 1/700, WIP]
 image: images/models/zvezda-sovremenny/primed_3_1920.jpg
 categories: [ships]
 ---
