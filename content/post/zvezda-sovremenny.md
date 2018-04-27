@@ -1,9 +1,9 @@
 ---
-title: "[WIP] Sovremenny (Современный), 1/700, Zvezda, 2018"
-date: 2018-03-25T23:39:58+01:00
+title: "[WIP] Sovremenny (Современный) Russian Destroyer, 1/700, Zvezda, 2018"
+date: 2018-04-27
 slug: zvezda-sovremenny
 tags: [Zvezda, 1/700, WIP]
-image: images/models/zvezda-sovremenny/primed_3_1920.jpg
+image: images/models/zvezda-sovremenny/painted_1_1920.jpg
 categories: [ships]
 ---
 
@@ -30,5 +30,14 @@ Primed with **Mr. Surfacer 1200** rattlecan.
 ![wip 2](/images/models/zvezda-sovremenny/primed_2_1920.jpg)
 ![wip 3](/images/models/zvezda-sovremenny/primed_3_1920.jpg)
 
+
+Painted with **AK Interactive** paints, and have to admit that I prefer **Tamiya** paints, they have much better adhesion and are just easier to work with.
+Added PE railings from **Tom's Modelworks**.
+
+![painted_1](/images/models/zvezda-sovremenny/painted_1_1920.jpg)
+![painted_2](/images/models/zvezda-sovremenny/painted_2_1920.jpg)
+
+Next steps are: glass coat -> decals -> satin coat -> filters and weathering with oil paints.
+And obviously helicopter and 3 boats.
 
 **To be continued..**
