@@ -1,9 +1,9 @@
 ---
-title: "[WIP] Sovremenny (Современный) Russian Destroyer, 1/700, Zvezda, 2018"
-date: 2018-04-27
+title: "Sovremenny (Современный) Russian Destroyer, 1/700, Zvezda, 2018"
+date: 2018-05-05
 slug: zvezda-sovremenny
-tags: [Zvezda, 1/700, WIP]
-image: images/models/zvezda-sovremenny/painted_1_1920.jpg
+tags: [Zvezda, 1/700]
+image: images/models/zvezda-sovremenny/finished_03_1920.jpg
 categories: [ships]
 ---
 
@@ -37,7 +37,19 @@ Added PE railings from **Tom's Modelworks**.
 ![painted_1](/images/models/zvezda-sovremenny/painted_1_1920.jpg)
 ![painted_2](/images/models/zvezda-sovremenny/painted_2_1920.jpg)
 
-Next steps are: glass coat -> decals -> satin coat -> filters and weathering with oil paints.
-And obviously helicopter and 3 boats.
+Then I did gloss coat -> decals -> matt coat -> filters and weathering with oil paints.
 
-**To be continued..**
+
+## Conclusion
+
+Really good modern kit, very quick and easy to build, zero problems and lots of fun.
+
+## Gallery
+
+![finished_1](/images/models/zvezda-sovremenny/finished_01_1920.jpg)
+![finished_2](/images/models/zvezda-sovremenny/finished_02_1920.jpg)
+![finished_3](/images/models/zvezda-sovremenny/finished_03_1920.jpg)
+![finished_4](/images/models/zvezda-sovremenny/finished_04_1920.jpg)
+![finished_5](/images/models/zvezda-sovremenny/finished_05_1920.jpg)
+![finished_7](/images/models/zvezda-sovremenny/finished_07_1920.jpg)
+
