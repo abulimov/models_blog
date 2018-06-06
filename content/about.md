@@ -23,7 +23,7 @@ If you want to see really great models, please take a look at
 * **Revell** sanding sticks
 * **Modelcraft** pliers and side-cutter
 * **Trumpeter** MasterTools PhotoEtch parts bender
-* **Sparmax DH-103** airbrush
+* **Iwata Revolution CR** airbrush, previously was using **Sparmax DH-103**
 * **Swann-Morton** scalpel
 * Some sanding paper (200-2000 grit), tweezers, micro-drill, various brushes, pipets.
 
