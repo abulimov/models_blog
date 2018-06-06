@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://models.bulimov.ru/models/airfix-albion-refueller/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://models.bulimov.ru/models/zvezda-sovremenny/</loc>
     <lastmod>2018-05-05T00:00:00+00:00</lastmod>
   </url>
@@ -56,7 +61,7 @@
   
   <url>
     <loc>http://models.bulimov.ru/tags/1/48/</loc>
-    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -84,7 +89,7 @@
   
   <url>
     <loc>http://models.bulimov.ru/tags/airfix/</loc>
-    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -96,7 +101,7 @@
   
   <url>
     <loc>http://models.bulimov.ru/</loc>
-    <lastmod>2018-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -114,7 +119,7 @@
   
   <url>
     <loc>http://models.bulimov.ru/post/</loc>
-    <lastmod>2018-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -144,13 +149,13 @@
   
   <url>
     <loc>http://models.bulimov.ru/categories/vehicles/</loc>
-    <lastmod>2018-03-02T19:23:23+00:00</lastmod>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://models.bulimov.ru/tags/wip/</loc>
-    <lastmod>2018-03-02T19:23:23+00:00</lastmod>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
