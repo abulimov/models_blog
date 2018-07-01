@@ -1,9 +1,9 @@
 ---
-title: "[WIP] Albion 3-Point Refueller, 1/48, Airfix, 2018"
+title: "Albion 3-Point Refueller, 1/48, Airfix, 2018"
 slug: airfix-albion-refueller
-date: 2018-06-06
-tags: [Airfix, 1/48, WIP]
-image: images/models/airfix-albion-refueller/decals_2_1920.jpg
+date: 2018-07-01
+tags: [Airfix, 1/48]
+image: images/models/airfix-albion-refueller/finished_7_1920.jpg
 categories: [vehicles]
 ---
 
@@ -42,4 +42,19 @@ Applied decals over gloss coat, then airbrushed Tamiya XF-86 Flat Clear.
 ![decals 1](/images/models/airfix-albion-refueller/decals_1_1920.jpg)
 ![decals 2](/images/models/airfix-albion-refueller/decals_2_1920.jpg)
 
-**To be continued...**
+Weathered with artistic oils from *Windsor&Newton* and various weathering effects from AK Interactive.
+Initially I was quite dubious if those weathering stuff was really worth it, but it turned out to be very quick and easy to use. I totally loved it and will definitely buy more of their stuff, as it lasts forever and saves me lots of time and effort mixing stuff.
+
+## Conclusion
+
+Another awesome modern kit from Airfix, had great time building it, and also enjoyed using AK Interactive weathering products for the first time.
+Overall I think I'm much more confident about weathering AFV models now, and it's much easier then I expected it to be.
+
+## Gallery
+![finished 1](/images/models/airfix-albion-refueller/finished_1_1920.jpg)
+![finished 2](/images/models/airfix-albion-refueller/finished_2_1920.jpg)
+![finished 3](/images/models/airfix-albion-refueller/finished_3_1920.jpg)
+![finished 4](/images/models/airfix-albion-refueller/finished_4_1920.jpg)
+![finished 5](/images/models/airfix-albion-refueller/finished_5_1920.jpg)
+![finished 6](/images/models/airfix-albion-refueller/finished_6_1920.jpg)
+![finished 7](/images/models/airfix-albion-refueller/finished_7_1920.jpg)
