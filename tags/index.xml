@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Alexander Bulimov&#39;s Models</title>
+    <title>Tags on </title>
     <link>http://models.bulimov.ru/tags/</link>
-    <description>Recent content in Tags on Alexander Bulimov&#39;s Models</description>
+    <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <copyright>&lt;br/&gt;&lt;small&gt;&lt;small&gt;  &lt;a rel=&#34;license&#34; href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;//i.creativecommons.org/l/by-sa/4.0/80x15.png&#34;&gt;&lt;/a&gt;
-      Content licensed under a &lt;a rel=&#34;license&#34; href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;, except where indicated otherwise.
-        &lt;/small&gt;&lt;/small&gt;</copyright>
     <lastBuildDate>Fri, 28 Jul 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://models.bulimov.ru/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -53,7 +50,7 @@
     <item>
       <title>1/72</title>
       <link>http://models.bulimov.ru/tags/1/72/</link>
-      <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>http://models.bulimov.ru/tags/1/72/</guid>
       <description></description>
@@ -87,6 +84,15 @@
     </item>
     
     <item>
+      <title>Master Korabel</title>
+      <link>http://models.bulimov.ru/tags/master-korabel/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://models.bulimov.ru/tags/master-korabel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Revell</title>
       <link>http://models.bulimov.ru/tags/revell/</link>
       <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
@@ -107,9 +113,18 @@
     <item>
       <title>Wip</title>
       <link>http://models.bulimov.ru/tags/wip/</link>
-      <pubDate>Fri, 02 Mar 2018 19:23:23 +0000</pubDate>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>http://models.bulimov.ru/tags/wip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Woodenkit</title>
+      <link>http://models.bulimov.ru/tags/woodenkit/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://models.bulimov.ru/tags/woodenkit/</guid>
       <description></description>
     </item>
     
