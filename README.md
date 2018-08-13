@@ -18,15 +18,8 @@ Uses [Hugo static site generator](gohugo.io)
 
 ### Picture
 
-Single:
-
-`convert image.jpg -strip -resize 1920 static/images/models/some-slug/image_1920.jpg`
-
-Multiple:
-
-`for i in img1.jpg img2.jpg; do convert $i -strip -resize 1920 "static/images/models/some-slug/${i%.*}_1920.jpg"; done`
-
-
+Install 'Wand' module for python with `pip3 install Wand`, and use provided script:
+`./add_img.py some-slug /path/to/new/file_1.jpg /path/to/new/file_2.jpg`
 
 
 ## Publishing
