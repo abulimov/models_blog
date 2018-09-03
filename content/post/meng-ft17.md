@@ -1,6 +1,6 @@
 ---
 title: "[WIP] FT-17, 1/35, Meng, 2018"
-date: 2018-08-14
+date: 2018-09-03
 slug: meng-ft17
 tags: [WIP, 1/35, Meng]
 image: images/models/meng-ft17/00_engine_wip_1920.jpg
@@ -19,5 +19,10 @@ So far it's the best kit I've ever built. Also it's worth mentioning that kit pr
 Completed assembly for engine and transmission. Looks very cool, and really fun to build. Even though most of it will be hidden in full model, it's still worth building just to understand the engineering solutions used in this influential tank.
 
 ![engine WIP](/images/models/meng-ft17/00_engine_wip_1920.jpg)
+
+Assembled workable suspension, absolutely awesome experience.
+I've read on the internet that lots of people had problems with it, or found it overengineered, but for me it was a very fun and relatively easy build.
+
+![suspension WIP](/images/models/meng-ft17/01_suspension_wip_1920.jpg)
 
 **To be continued..**

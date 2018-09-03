@@ -1,6 +1,6 @@
 ---
-title: "[WIP] Cannon Yolle 1801, 1/72, Master Korabel, 2018"
-date: 2018-08-12
+title: "[WIP] Cannon Jolle 1801, 1/72, Master Korabel, 2018"
+date: 2018-09-02
 slug: mk-cannon-yolle
 tags: ["WIP", "WoodenKit", "1/72", "Master Korabel"]
 categories: [ships]
@@ -53,5 +53,18 @@ Then I glued all deck pieces, and at this point most of the hull works were done
 
 Working with PhotoEtch was the first part of a build process I already had experience with, so from now on I was much more confident. Here is the most complicated PE part - rudder. The only **new** thing here for me was making of tiny 'nails' from a metal wire, and I have to admit that it's kind of cool to nail PE parts down to the wood.
 ![rudder](/images/models/mk-cannon-yolle/05_rudder_1920.jpg)
+
+
+Finished working with hull, stained some parts to improve the look. Installed the gun, everything is ready for rigging.
+![deck done](/images/models/mk-cannon-yolle/08_deck_done_1920.jpg)
+![side done](/images/models/mk-cannon-yolle/09_side_done_1920.jpg)
+
+Unfortunately kit's producer decided to save like 2 Euros on threads, so the kit comes with synthetic threads of following colours: *golden* (**?!**), *brown* and *metallic white* (all very shiny).
+
+It's even funnier to think of because illustrated manual clearly shows that you'll need *black* (which is absent from the box), brown and white.
+After a quick research on this subject I've learned that real ropes were tared to protect them, so were different shades of brown and black.
+
+Anyway, even the brown one that I tried to use is too shiny, so I ordered some proper threads by *Amati*.
+
 
 **To be continued...**
