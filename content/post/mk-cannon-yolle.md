@@ -1,10 +1,10 @@
 ---
 title: "[WIP] Cannon Jolle 1801, 1/72, Master Korabel, 2018"
-date: 2018-09-02
+date: 2018-09-15
 slug: mk-cannon-yolle
 tags: ["WIP", "WoodenKit", "1/72", "Master Korabel"]
 categories: [ships]
-image: images/models/mk-cannon-yolle/05_rudder_1920.jpg
+image: images/models/mk-cannon-yolle/11_rudder_lines_top_1920.jpg
 ---
 
 My first ever wooden kit, yay!
@@ -66,5 +66,12 @@ After a quick research on this subject I've learned that real ropes were tared t
 
 Anyway, even the brown one that I tried to use is too shiny, so I ordered some proper threads by *Amati*.
 
+While I was waiting for new threads I practiced doing seizing and rope coils, so when they've arrived I was at least in some way prepared.
+But even after this little practice doing rigging proved to be just as time consuming and hard as I've expected.
+
+For example, attaching these lines to rudder took me around 3.5 hours with coiling.
+
+![rudder_lines_top](/images/models/mk-cannon-yolle/11_rudder_lines_top_1920.jpg)
+![rudder_lines_side](/images/models/mk-cannon-yolle/10_rudder_lines_side_1920.jpg)
 
 **To be continued...**

@@ -1,9 +1,9 @@
 ---
 title: "[WIP] FT-17, 1/35, Meng, 2018"
-date: 2018-09-03
+date: 2018-09-10
 slug: meng-ft17
 tags: [WIP, 1/35, Meng]
-image: images/models/meng-ft17/00_engine_wip_1920.jpg
+image: images/models/meng-ft17/03_interior_top_wip_1920.jpg
 categories: [Vehicles]
 ---
 
@@ -24,5 +24,10 @@ Assembled workable suspension, absolutely awesome experience.
 I've read on the internet that lots of people had problems with it, or found it overengineered, but for me it was a very fun and relatively easy build.
 
 ![suspension WIP](/images/models/meng-ft17/01_suspension_wip_1920.jpg)
+
+Painted interior walls with Cremmeweise, painted chips with sponge, weathered with AK Interactive washes.
+Engine is not yet weathered on the picture, but I'm not going to spend much time on it as it will be barely visible on a finished model.
+
+![interior top WIP](/images/models/meng-ft17/03_interior_top_wip_1920.jpg)
 
 **To be continued..**
