@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on </title>
-    <link>http://models.bulimov.ru/categories/</link>
+    <link>//models.bulimov.ru/categories/</link>
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 30 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://models.bulimov.ru/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//models.bulimov.ru/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Airplanes</title>
-      <link>http://models.bulimov.ru/categories/airplanes/</link>
+      <link>//models.bulimov.ru/categories/airplanes/</link>
       <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://models.bulimov.ru/categories/airplanes/</guid>
+      <guid>//models.bulimov.ru/categories/airplanes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ships</title>
-      <link>http://models.bulimov.ru/categories/ships/</link>
+      <link>//models.bulimov.ru/categories/ships/</link>
       <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://models.bulimov.ru/categories/ships/</guid>
+      <guid>//models.bulimov.ru/categories/ships/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vehicles</title>
-      <link>http://models.bulimov.ru/categories/vehicles/</link>
+      <link>//models.bulimov.ru/categories/vehicles/</link>
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://models.bulimov.ru/categories/vehicles/</guid>
+      <guid>//models.bulimov.ru/categories/vehicles/</guid>
       <description></description>
     </item>
     
