@@ -1,10 +1,10 @@
 ---
-title: "[WIP] Cannon Jolle 1801, 1/72, Master Korabel, 2018"
-date: 2018-09-15
+title: "Cannon Jolle 1801, 1/72, Master Korabel, 2018"
+date: 2018-10-18
 slug: mk-cannon-yolle
-tags: ["WIP", "WoodenKit", "1/72", "Master Korabel"]
+tags: ["WoodenKit", "1/72", "Master Korabel"]
 categories: [ships]
-image: images/models/mk-cannon-yolle/11_rudder_lines_top_1920.jpg
+image: images/models/mk-cannon-yolle/finished_07_1920.jpg
 ---
 
 My first ever wooden kit, yay!
@@ -62,7 +62,7 @@ Finished working with hull, stained some parts to improve the look. Installed th
 Unfortunately kit's producer decided to save like 2 Euros on threads, so the kit comes with synthetic threads of following colours: *golden* (**?!**), *brown* and *metallic white* (all very shiny).
 
 It's even funnier to think of because illustrated manual clearly shows that you'll need *black* (which is absent from the box), brown and white.
-After a quick research on this subject I've learned that real ropes were tared to protect them, so were different shades of brown and black.
+After a quick research on this subject I've learned that real ropes were tared to protect them, so were different shades of beige, brown and black.
 
 Anyway, even the brown one that I tried to use is too shiny, so I ordered some proper threads by *Amati*.
 
@@ -74,4 +74,18 @@ For example, attaching these lines to rudder took me around 3.5 hours with coili
 ![rudder_lines_top](/images/models/mk-cannon-yolle/11_rudder_lines_top_1920.jpg)
 ![rudder_lines_side](/images/models/mk-cannon-yolle/10_rudder_lines_side_1920.jpg)
 
-**To be continued...**
+Overall I'd say that rigging took me about the time I spent on everything else, and it was definitely the most challenging part.
+
+## Conclusion
+
+I'm really happy with the result, especially given that it's my first wooden kit.
+I enjoyed working with wood, and as the kit is very modern and highly detailed I can't say it's by any means less rich in details or accurate than plastic models.
+
+## Gallery
+
+![finished 06](/images/models/mk-cannon-yolle/finished_06_1920.jpg)
+![finished 02](/images/models/mk-cannon-yolle/finished_02_1920.jpg)
+![finished 03](/images/models/mk-cannon-yolle/finished_03_1920.jpg)
+![finished 04](/images/models/mk-cannon-yolle/finished_04_1920.jpg)
+![finished 05](/images/models/mk-cannon-yolle/finished_05_1920.jpg)
+![finished 07](/images/models/mk-cannon-yolle/finished_07_1920.jpg)
