@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>//models.bulimov.ru/models/italery-dukw/</loc>
+    <lastmod>2018-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>//models.bulimov.ru/models/mk-launch/</loc>
     <lastmod>2018-11-29T00:00:00+00:00</lastmod>
   </url>
@@ -25,11 +30,6 @@
   <url>
     <loc>//models.bulimov.ru/models/zvezda-sovremenny/</loc>
     <lastmod>2018-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//models.bulimov.ru/models/italery-dukw/</loc>
-    <lastmod>2018-03-02T19:23:23+00:00</lastmod>
   </url>
   
   <url>
@@ -64,7 +64,7 @@
   
   <url>
     <loc>//models.bulimov.ru/</loc>
-    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -76,7 +76,7 @@
   
   <url>
     <loc>//models.bulimov.ru/tags/1/35/</loc>
-    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -128,7 +128,7 @@
   
   <url>
     <loc>//models.bulimov.ru/tags/italery/</loc>
-    <lastmod>2018-03-02T19:23:23+00:00</lastmod>
+    <lastmod>2018-12-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -146,7 +146,7 @@
   
   <url>
     <loc>//models.bulimov.ru/post/</loc>
-    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -176,13 +176,13 @@
   
   <url>
     <loc>//models.bulimov.ru/categories/vehicles/</loc>
-    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>//models.bulimov.ru/tags/wip/</loc>
-    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
