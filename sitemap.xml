@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>//models.bulimov.ru/models/mantua-english-carronade/</loc>
+    <lastmod>2018-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>//models.bulimov.ru/models/italery-dukw/</loc>
     <lastmod>2018-12-16T00:00:00+00:00</lastmod>
   </url>
@@ -64,13 +69,19 @@
   
   <url>
     <loc>//models.bulimov.ru/</loc>
-    <lastmod>2018-12-16T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>//models.bulimov.ru/tags/1/108/</loc>
     <lastmod>2017-07-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//models.bulimov.ru/tags/1/17/</loc>
+    <lastmod>2018-12-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -133,6 +144,12 @@
   </url>
   
   <url>
+    <loc>//models.bulimov.ru/tags/mantua/</loc>
+    <lastmod>2018-12-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>//models.bulimov.ru/tags/master-korabel/</loc>
     <lastmod>2018-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -146,7 +163,7 @@
   
   <url>
     <loc>//models.bulimov.ru/post/</loc>
-    <lastmod>2018-12-16T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -164,7 +181,7 @@
   
   <url>
     <loc>//models.bulimov.ru/categories/ships/</loc>
-    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -188,7 +205,7 @@
   
   <url>
     <loc>//models.bulimov.ru/tags/woodenkit/</loc>
-    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
