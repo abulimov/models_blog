@@ -25,5 +25,36 @@ Even by looking at the amount of bulkheads for stern and aft you can tell how th
 
 Once bulkheads were installed I proceeded with the first layer of planking:
 ![wip_02](/images/models/mk-st-gabriel/wip_02_1920.jpg)
+![wip_04](/images/models/mk-st-gabriel/wip_04_1920.jpg)
+
+
+First planking layer is done, time for the second layer - beautiful colour this time.
+
+![wip_05](/images/models/mk-st-gabriel/wip_05_1920.jpg)
+![wip_06](/images/models/mk-st-gabriel/wip_06_1920.jpg)
+
+And finally planking is done!
+
+![wip_07](/images/models/mk-st-gabriel/wip_07_1920.jpg)
+
+Then I glued in the deck and proceeded with detailing the hull, like making a rudder blade and all the hatches.
+
+![wip_08](/images/models/mk-st-gabriel/wip_08_1920.jpg)
+
+More details are added...
+![wip_10](/images/models/mk-st-gabriel/wip_10_1920.jpg)
+![wip_11](/images/models/mk-st-gabriel/wip_11_1920.jpg)
+
+Until finally the ship is ready for the mast!
+
+![wip_13](/images/models/mk-st-gabriel/wip_13_1920.jpg)
+
+I decided to use the [small boat I've made last year](/models/mk-launch/) on the deck.
+
+![wip_12](/images/models/mk-st-gabriel/wip_12_1920.jpg)
+
+And made all the components for a mast, bowsprit and sailyards. It took quite some time as I had to make rounded things from square pre-cut pieces of wood.
+
+![wip_14](/images/models/mk-st-gabriel/wip_14_1920.jpg)
 
 **To be continued..**
