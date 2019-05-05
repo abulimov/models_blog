@@ -1,7 +1,6 @@
 baseurl         = "/"
 theme           = "casper-two"
 languageCode    = "en-US"
-disqusShortname = "models-bulimov-ru"
 paginate        = 6
 #SectionPagesMenu = "main"
 
