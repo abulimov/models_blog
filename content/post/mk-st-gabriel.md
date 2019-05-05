@@ -1,10 +1,10 @@
 ---
 title: "St. Gabriel, 1/72, Master Korabel, 2019"
-date: 2019-03-07
+date: 2019-05-05
 slug: mk-st-gabriel
 tags: ["WoodenKit", "1/72", "Master Korabel"]
 categories: [ships]
-image: images/models/mk-st-gabriel/wip_02_1920.jpg
+image: images/models/mk-st-gabriel/wip_12_1920.jpg
 ---
 
 For some reason wooden kits keep attracting me more and more.
