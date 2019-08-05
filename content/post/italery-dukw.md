@@ -1,9 +1,9 @@
 ---
-title: "[WIP] DUKW, 1/35, Italery, 2018"
-date: 2018-12-16
+title: "DUKW, 1/35, Italery, 2019"
+date: 2019-08-05
 slug: italery-dukw
-tags: [1/35, WIP, Italery]
-image: images/models/italery-dukw/10_decals_and_chipping_front_1920.jpg
+tags: [1/35, Italery]
+image: images/models/italery-dukw/finished_06_1920.jpg
 categories: ['vehicles']
 ---
 
@@ -82,4 +82,25 @@ After I've tried both 'hairspray' and 'sponge' chipping techniques several times
 
 Now everything is ready for next stop of weathering - adding rust, dirt and dust.
 
-**To be continued..**
+Weathering took quite some time and required another break as I was really tired with monotonous process of adding dust to this monster -
+seriously, this model is just too big!
+
+I used streaking and dust/earth products from **AK Interactive** and **AMMO Mig**, didn't bother with oil paints this time.
+**Humbrol** pigments were used to add more subtle dust effects.
+
+## Conclusion
+
+I'm happy with the result, and especially with the fact that I managed to finally finish the model.
+It was first time I tried colour modulation and PhotoEtch on vehicles in 1/35.
+Loved both parts, but in future will try to stick to 1/48 scale for any WW2 armour and vehicles, 1/35 just feels too big.
+
+## Gallery
+
+![finished_06](/images/models/italery-dukw/finished_06_1920.jpg)
+![finished_02](/images/models/italery-dukw/finished_02_1920.jpg)
+![finished_03](/images/models/italery-dukw/finished_03_1920.jpg)
+![finished_04](/images/models/italery-dukw/finished_04_1920.jpg)
+![finished_08](/images/models/italery-dukw/finished_08_1920.jpg)
+![finished_07](/images/models/italery-dukw/finished_07_1920.jpg)
+![finished_05](/images/models/italery-dukw/finished_05_1920.jpg)
+![finished_01](/images/models/italery-dukw/finished_01_1920.jpg)
