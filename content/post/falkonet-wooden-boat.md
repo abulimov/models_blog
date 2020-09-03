@@ -11,7 +11,7 @@ I can't really help it - wooden models attract me more and more.
 This one is [yet another](/models/mk-launch) tiny boat kit that I
 bought for like 10 Euros on my trip to Russia.
 
-The manufacturer is [Falkonet](falkonet.ru), apparently they focus on smaller stuff like boats and yachts,
+The manufacturer is [Falkonet](http://falkonet.ru), apparently they focus on smaller stuff like boats and yachts,
 no tall ships in the catalog so far.
 
 ## Wooden boat from year 1763

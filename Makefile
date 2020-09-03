@@ -12,10 +12,22 @@ help:
 	@echo '                                                                       '
 	@echo '                                                                       '
 
+check:
+	@echo 'checking for bad links';\
+	grep -P -R '\[.+\]\((?:(?!http|\/)).+\)' content/post/;\
+	EXIT_CODE=$$?;\
+	if [ $$EXIT_CODE -eq 0 ]; \
+	then \
+		echo "found some bad links"; \
+		exit 1; \
+	else \
+		echo "No bad links found"; \
+	fi
+
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
 
-publish:
+publish: check
 	hugo -b //models.bulimov.ru/
 
 github: publish

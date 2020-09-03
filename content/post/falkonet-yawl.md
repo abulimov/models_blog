@@ -9,7 +9,7 @@ categories: [ships]
 
 Another wooden model. The more I build them, the more I love doing it.
 
-The manufacturer is a Russian company called [Falkonet](falkonet.ru), they specialize in extremely detailed kits.
+The manufacturer is a Russian company called [Falkonet](http://falkonet.ru), they specialize in extremely detailed kits.
 
 ## Four-oared yawl of XIX century
 Not much to say about the subject, it's a fairly typical yawl from that age.
