@@ -4,7 +4,7 @@ date: 2020-12-11
 slug: al-whaleboat
 tags: ["WoodenKit", "1/25", "Artesania Latina"]
 categories: [ships]
-image: images/models/al-whaleboat/finished_02_1920.jpg
+feature_image: /images/models/al-whaleboat/finished_02_1920.jpg
 ---
 
 With this small and simple kit I wanted to get a break from rigging [HMS Terror I've been building for over a year now](/models/occre-terror/).

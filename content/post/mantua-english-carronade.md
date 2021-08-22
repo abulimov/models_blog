@@ -4,7 +4,7 @@ date: 2018-12-23
 slug: mantua-english-carronade
 tags: ["WoodenKit", "1/17", "Mantua"]
 categories: [ships]
-image: images/models/mantua-english-carronade/05_finished_1920.jpg
+feature_image: /images/models/mantua-english-carronade/05_finished_1920.jpg
 ---
 After I visited famous [HMS Victory](https://en.wikipedia.org/wiki/HMS_Victory) in Portsmouth this summer, I wanted to build something related to her.
 

@@ -3,7 +3,7 @@ title: "HMS Hood, 1/720, Italery/Zvezda, 2018"
 date: 2018-03-02
 slug: zvezda-hood
 tags: [Zvezda, Italery, 1/720]
-image: images/models/hms-hood/finished_05_1920.jpg
+feature_image: /images/models/hms-hood/finished_05_1920.jpg
 categories: [ships]
 ---
 

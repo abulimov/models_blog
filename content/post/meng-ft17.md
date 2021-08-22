@@ -3,7 +3,7 @@ title: "[WIP] FT-17, 1/35, Meng, 2018"
 date: 2018-09-10
 slug: meng-ft17
 tags: [WIP, 1/35, Meng]
-image: images/models/meng-ft17/03_interior_top_wip_1920.jpg
+feature_image: /images/models/meng-ft17/03_interior_top_wip_1920.jpg
 categories: [Vehicles]
 ---
 

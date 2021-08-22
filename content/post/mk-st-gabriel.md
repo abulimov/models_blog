@@ -4,7 +4,7 @@ date: 2019-07-30
 slug: mk-st-gabriel
 tags: ["WoodenKit", "1/72", "Master Korabel"]
 categories: [ships]
-image: images/models/mk-st-gabriel/finished_02_1920.jpg
+feature_image: /images/models/mk-st-gabriel/finished_02_1920.jpg
 ---
 
 For some reason wooden kits keep attracting me more and more.

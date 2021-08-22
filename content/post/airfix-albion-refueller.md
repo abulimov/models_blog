@@ -3,7 +3,7 @@ title: "Albion 3-Point Refueller, 1/48, Airfix, 2018"
 slug: airfix-albion-refueller
 date: 2018-07-01
 tags: [Airfix, 1/48]
-image: images/models/airfix-albion-refueller/finished_7_1920.jpg
+feature_image: /images/models/airfix-albion-refueller/finished_7_1920.jpg
 categories: [vehicles]
 ---
 

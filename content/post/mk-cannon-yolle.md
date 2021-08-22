@@ -4,7 +4,7 @@ date: 2018-10-18
 slug: mk-cannon-yolle
 tags: ["WoodenKit", "1/72", "Master Korabel"]
 categories: [ships]
-image: images/models/mk-cannon-yolle/finished_07_1920.jpg
+feature_image: /images/models/mk-cannon-yolle/finished_07_1920.jpg
 ---
 
 My first ever wooden kit, yay!

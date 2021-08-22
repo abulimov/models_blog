@@ -4,7 +4,7 @@ date: 2019-09-24
 slug: falkonet-wooden-boat
 tags: ["WoodenKit", "1/72", "Falkonet"]
 categories: [ships]
-image: images/models/falkonet-wooden-boat/finished_03_1920.jpg
+feature_image: /images/models/falkonet-wooden-boat/finished_03_1920.jpg
 ---
 
 I can't really help it - wooden models attract me more and more.

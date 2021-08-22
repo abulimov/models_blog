@@ -4,7 +4,7 @@ date: 2020-02-03
 slug: occre-terror
 tags: ["WIP", "WoodenKit", "1/75", "OcCre"]
 categories: [ships]
-image: images/models/occre-terror/wip_06_1920.jpg
+feature_image: /images/models/occre-terror/wip_06_1920.jpg
 ---
 
 Once I built up some confidence with [wooden kits](/tags/woodenkit/), especially after [St. Gabriel](/models/mk-st-gabriel/) I felt

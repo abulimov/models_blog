@@ -3,7 +3,7 @@ date: 2017-01-30
 title: I-4, 1/72, Zvezda, 2017
 slug: zvezda-i-4
 tags: [Zvezda, 1/72]
-image: images/models/i-4/IMG_4363_1920.jpg
+feature_image: /images/models/i-4/IMG_4363_1920.jpg
 categories: [airplanes]
 ---
 

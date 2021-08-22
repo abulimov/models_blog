@@ -2,7 +2,7 @@
 title: "Albatros W.4, 1/72, Roden, 2016"
 slug: roden-albatros-w4
 date: 2016-11-21
-image: images/models/albatros-w4/albatros_done_2_1920.jpg
+feature_image: /images/models/albatros-w4/albatros_done_2_1920.jpg
 tags: [Roden, 1/72]
 categories: [airplanes]
 ---

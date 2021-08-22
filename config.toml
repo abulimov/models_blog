@@ -1,22 +1,19 @@
 baseurl         = "/"
-theme           = "casper-two"
+theme           = "casper3"
 languageCode    = "en-US"
 paginate        = 6
 googleAnalytics = "UA-113451260-1"
+title       = "Alexander Bulimov's Models"
+subtitle    = "Personal gallery"
+copyright = '<br/><small><small>  <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-sa/4.0/80x15.png"></a> Content licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>, except where indicated otherwise.</small></small>'
 
 [params]
-  title       = "Alexander Bulimov's Models"
-  subtitle    = "Personal gallery"
-
-  cover       = "images/bench_28_1920.jpg"
 
   description = "Just a small collection of scale models I've built."
-  metaDescription = ""
-  customCSS = []
   RSSLink = ""
 
-  fbName = "abulimov"
-  githubName = "abulimov"
+  facebook = "https://www.facebook.com/abulimov"
+  github = "https://github.com/abulimov"
   redditName = "abulimov"
   scalematesID = 38867
 
@@ -29,7 +26,6 @@ googleAnalytics = "UA-113451260-1"
   authorLocation = "Dublin, Ireland"
   authorWebsite = "https://bulimov.ru"
   authorDescription = "Amateur modelist"
-  copyright = '<br/><small><small>  <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-sa/4.0/80x15.png"></a> Content licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>, except where indicated otherwise.</small></small>'
 
   pageNotFoundTitle = "404 - Page not found"
 
@@ -47,32 +43,33 @@ googleAnalytics = "UA-113451260-1"
 [permalinks]
   post = "/models/:slug/"
 
+[menu]
 [[menu.main]]
   name = "Home"
   url = "/"
-  weight = 200
+  weight = 10
 
 [[menu.main]]
   name = "Tags"
   url = "/tags/"
-  weight = 100
+  weight = 20
 
 [[menu.main]]
   name = "Airplanes"
   url = "/categories/airplanes/"
-  weight = 99
+  weight = 30
 
 [[menu.main]]
   name = "Ships"
   url = "/categories/ships/"
-  weight = 98
+  weight = 31
 
 [[menu.main]]
   name = "Vehicles"
   url = "/categories/vehicles/"
-  weight = 97
+  weight = 32
 
 [[menu.main]]
   name = "IT Blog"
   url = "http://bulimov.ru/"
-  weight = 95
+  weight = 40

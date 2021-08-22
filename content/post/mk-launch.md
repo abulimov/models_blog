@@ -4,7 +4,7 @@ date: 2018-11-29
 slug: mk-launch
 tags: ["WoodenKit", "1/72", "Master Korabel"]
 categories: [ships]
-image: images/models/mk-launch/finished_01_1920.jpg
+feature_image: /images/models/mk-launch/finished_01_1920.jpg
 ---
 
 As I had great fun building my [first wooden kit](/models/mk-cannon-yolle/), on my next trip to Russia I bought a bunch of other kits from local manufacturers.

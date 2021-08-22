@@ -3,7 +3,7 @@ title: "Sovremenny (Современный) Russian Destroyer, 1/700, Zvezda, 20
 date: 2018-05-05
 slug: zvezda-sovremenny
 tags: [Zvezda, 1/700]
-image: images/models/zvezda-sovremenny/finished_03_1920.jpg
+feature_image: /images/models/zvezda-sovremenny/finished_03_1920.jpg
 categories: [ships]
 ---
 

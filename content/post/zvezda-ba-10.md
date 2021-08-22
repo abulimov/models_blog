@@ -3,7 +3,7 @@ title: "BA-10 (БА-10), 1/35, Zvezda, 2016"
 date: 2016-10-22
 slug: zvezda-ba-10
 tags: [Zvezda, 1/35]
-image: images/models/ba-10/ba_10_1_1920.jpg
+feature_image: /images/models/ba-10/ba_10_1_1920.jpg
 categories: [vehicles]
 ---
 

@@ -4,7 +4,7 @@ date: 2020-03-13
 slug: trumpeter-liberty-ship
 tags: ["1/700", "Trumpeter"]
 categories: [ships]
-image: images/models/trumpeter-liberty-ship/finished_01_1920.jpg
+feature_image: /images/models/trumpeter-liberty-ship/finished_01_1920.jpg
 ---
 
 ## SS Jeremiah O'Brien
