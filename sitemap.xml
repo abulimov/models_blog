@@ -1,269 +1,164 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>//models.bulimov.ru/</loc>
-    <lastmod>2020-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//models.bulimov.ru/tags/1/25/</loc>
-    <lastmod>2020-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//models.bulimov.ru/tags/amati/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//models.bulimov.ru/categories/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//models.bulimov.ru/models/amati-lady-nelson/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//models.bulimov.ru/post/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//models.bulimov.ru/categories/ships/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//models.bulimov.ru/tags/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//models.bulimov.ru/tags/victory-models/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//models.bulimov.ru/tags/woodenkit/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//models.bulimov.ru/tags/artesania-latina/</loc>
     <lastmod>2020-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//models.bulimov.ru/categories/</loc>
-    <lastmod>2020-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//models.bulimov.ru/post/</loc>
-    <lastmod>2020-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/models/al-whaleboat/</loc>
     <lastmod>2020-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//models.bulimov.ru/categories/ships/</loc>
-    <lastmod>2020-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//models.bulimov.ru/tags/</loc>
-    <lastmod>2020-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//models.bulimov.ru/tags/woodenkit/</loc>
-    <lastmod>2020-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//models.bulimov.ru/tags/1/24/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/tags/falkonet/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/models/falkonet-yawl/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//models.bulimov.ru/tags/1/72/</loc>
-    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/tags/airfix/</loc>
     <lastmod>2020-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/categories/airplanes/</loc>
     <lastmod>2020-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/models/airfix-be2c/</loc>
     <lastmod>2020-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//models.bulimov.ru/tags/1/700/</loc>
-    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/models/trumpeter-liberty-ship/</loc>
     <lastmod>2020-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/tags/trumpeter/</loc>
     <lastmod>2020-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//models.bulimov.ru/tags/1/75/</loc>
-    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/models/occre-terror/</loc>
     <lastmod>2020-02-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/tags/occre/</loc>
     <lastmod>2020-02-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/tags/wip/</loc>
     <lastmod>2020-02-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/models/falkonet-wooden-boat/</loc>
     <lastmod>2019-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//models.bulimov.ru/tags/1/35/</loc>
-    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/models/italery-dukw/</loc>
     <lastmod>2019-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/tags/italery/</loc>
     <lastmod>2019-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/categories/vehicles/</loc>
     <lastmod>2019-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/tags/master-korabel/</loc>
     <lastmod>2019-07-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/models/mk-st-gabriel/</loc>
     <lastmod>2019-07-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/models/zvezda-medieval-lifeboat/</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/tags/zvezda/</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//models.bulimov.ru/tags/1/17/</loc>
-    <lastmod>2018-12-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/models/mantua-english-carronade/</loc>
     <lastmod>2018-12-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/tags/mantua/</loc>
     <lastmod>2018-12-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/models/mk-launch/</loc>
     <lastmod>2018-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/models/mk-cannon-yolle/</loc>
     <lastmod>2018-10-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/models/meng-ft17/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/tags/meng/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//models.bulimov.ru/tags/1/48/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/models/airfix-albion-refueller/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/models/zvezda-sovremenny/</loc>
     <lastmod>2018-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//models.bulimov.ru/tags/1/720/</loc>
-    <lastmod>2018-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/models/zvezda-hood/</loc>
     <lastmod>2018-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/models/airfix-bedford-mwd/</loc>
     <lastmod>2018-02-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//models.bulimov.ru/tags/1/108/</loc>
-    <lastmod>2017-07-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/models/revell-harbour-tug/</loc>
     <lastmod>2017-07-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/tags/revell/</loc>
     <lastmod>2017-07-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/models/zvezda-i-4/</loc>
     <lastmod>2017-01-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/models/roden-albatros-w4/</loc>
     <lastmod>2016-11-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/tags/roden/</loc>
     <lastmod>2016-11-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//models.bulimov.ru/models/zvezda-ba-10/</loc>
     <lastmod>2016-10-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>//models.bulimov.ru/tags/1/108/</loc>
+  </url><url>
+    <loc>//models.bulimov.ru/tags/1/17/</loc>
+  </url><url>
+    <loc>//models.bulimov.ru/tags/1/24/</loc>
+  </url><url>
+    <loc>//models.bulimov.ru/tags/1/25/</loc>
+  </url><url>
+    <loc>//models.bulimov.ru/tags/1/35/</loc>
+  </url><url>
+    <loc>//models.bulimov.ru/tags/1/48/</loc>
+  </url><url>
+    <loc>//models.bulimov.ru/tags/1/64/</loc>
+  </url><url>
+    <loc>//models.bulimov.ru/tags/1/700/</loc>
+  </url><url>
+    <loc>//models.bulimov.ru/tags/1/72/</loc>
+  </url><url>
+    <loc>//models.bulimov.ru/tags/1/720/</loc>
+  </url><url>
+    <loc>//models.bulimov.ru/tags/1/75/</loc>
+  </url><url>
     <loc>//models.bulimov.ru/about/</loc>
   </url>
-  
 </urlset>
