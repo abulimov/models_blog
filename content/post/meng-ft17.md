@@ -1,9 +1,9 @@
 ---
 title: "[WIP] FT-17, 1/35, Meng, 2018"
-date: 2018-09-10
+date: 2021-11-03
 slug: meng-ft17
 tags: [WIP, 1/35, Meng]
-feature_image: /images/models/meng-ft17/03_interior_top_wip_1920.jpg
+feature_image: /images/models/meng-ft17/04_assembled_wip_1920.jpg
 categories: [Vehicles]
 ---
 
@@ -29,5 +29,16 @@ Painted interior walls with Cremmeweise, painted chips with sponge, weathered wi
 Engine is not yet weathered on the picture, but I'm not going to spend much time on it as it will be barely visible on a finished model.
 
 ![interior top WIP](/images/models/meng-ft17/03_interior_top_wip_1920.jpg)
+
+Next I started to actually assemble the tank, along with suspension. And suspension in this model turned out to be very fiddly to install,
+despite being fun to assemble. First I managed to partially attach suspension in a way that allows painting, and painted the body in tri-colour
+camouflage. When fixing the suspension in it's proper position I ended up using CA glue just to make it all hold together.
+
+Afterwards I started painting the black lines separating all the colours, but at this point I was quite tired with the model, and simply put everything in a candy box and on the shelve.
+
+Fast forward to 2021, I discovered the stashed unfinished model, and continued to work on it.
+Few days of work, few re-painted parts, and the tank is fully assembled, painted and ready for weathering!
+
+![assembled WIP](/images/models/meng-ft17/04_assembled_wip_1920.jpg)
 
 **To be continued..**
