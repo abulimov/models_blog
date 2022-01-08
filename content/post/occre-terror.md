@@ -1,10 +1,10 @@
 ---
 title: "[WIP] HMS Terror, 1/75, OcCre"
-date: 2020-02-03
+date: 2021-12-01
 slug: occre-terror
 tags: ["WIP", "WoodenKit", "1/75", "OcCre", 2020, 2021]
 categories: [ships]
-feature_image: /images/models/occre-terror/wip_06_1920.jpg
+feature_image: /images/models/occre-terror/wip_12_1920.jpg
 ---
 
 Once I built up some confidence with [wooden kits](/tags/woodenkit/), especially after [St. Gabriel](/models/mk-st-gabriel/) I felt
@@ -92,5 +92,19 @@ Next I worked on transom decoration and rudder, which you can see on next photo.
 ![wip_10](/images/models/occre-terror/wip_10_1920.jpg)
 
 I'm glad OcCre supplies pre-formed hinges for the rudder, somehow Master Korabel does not, and making those from metal strips is not super fun.
+
+Anyway, next I painted the hull and rubbing strakes, added the catheads, discovered that I placed the transom windows in the wrong place, and had to re-do the whole thing.
+
+Many more hours were then spent on the deck furniture.
+
+![wip_13](/images/models/occre-terror/wip_13_1920.jpg)
+
+And finally I was ready to work on the masts and spars. Turns out, dressing the yards takes a lot of time, who could have though!
+
+![wip_11](/images/models/occre-terror/wip_11_1920.jpg)
+
+But at last the bowsprit is installed.
+
+![wip_12](/images/models/occre-terror/wip_12_1920.jpg)
 
 **To be continued..**
