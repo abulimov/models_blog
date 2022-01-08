@@ -1,8 +1,8 @@
 ---
-title: "Royal Aircraft Factory BE2c, 1/72, Airfix, 2019"
+title: "Royal Aircraft Factory BE2c, 1/72, Airfix"
 slug: airfix-be2c
 date: 2020-03-17
-tags: [Airfix, 1/72]
+tags: [Airfix, 1/72, 2019]
 feature_image: /images/models/airfix-be2c/finished_05_1920.jpg
 categories: [airplanes]
 ---

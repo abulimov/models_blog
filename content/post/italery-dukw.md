@@ -1,8 +1,8 @@
 ---
-title: "DUKW, 1/35, Italery, 2019"
+title: "DUKW, 1/35, Italery"
 date: 2019-08-05
 slug: italery-dukw
-tags: [1/35, Italery]
+tags: [1/35, Italery, 2019]
 feature_image: /images/models/italery-dukw/finished_06_1920.jpg
 categories: ['vehicles']
 ---

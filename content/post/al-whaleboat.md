@@ -1,8 +1,8 @@
 ---
-title: "Providence Whaleboat, 1/25, Artesania Latina, 2020"
+title: "Providence Whaleboat, 1/25, Artesania Latina"
 date: 2020-12-11
 slug: al-whaleboat
-tags: ["WoodenKit", "1/25", "Artesania Latina"]
+tags: ["WoodenKit", "1/25", "Artesania Latina", 2020]
 categories: [ships]
 feature_image: /images/models/al-whaleboat/finished_02_1920.jpg
 ---

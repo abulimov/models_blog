@@ -1,8 +1,8 @@
 ---
-title: "[WIP] FT-17, 1/35, Meng, 2018"
+title: "[WIP] FT-17, 1/35, Meng"
 date: 2021-11-03
 slug: meng-ft17
-tags: [WIP, 1/35, Meng]
+tags: [WIP, 1/35, Meng, 2018, 2021]
 feature_image: /images/models/meng-ft17/04_assembled_wip_1920.jpg
 categories: [Vehicles]
 ---

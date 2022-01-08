@@ -1,8 +1,8 @@
 ---
-title: "[WIP] HMS Terror, 1/75, OcCre, 2020"
+title: "[WIP] HMS Terror, 1/75, OcCre"
 date: 2020-02-03
 slug: occre-terror
-tags: ["WIP", "WoodenKit", "1/75", "OcCre"]
+tags: ["WIP", "WoodenKit", "1/75", "OcCre", 2020, 2021]
 categories: [ships]
 feature_image: /images/models/occre-terror/wip_06_1920.jpg
 ---

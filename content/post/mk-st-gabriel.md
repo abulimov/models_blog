@@ -1,8 +1,8 @@
 ---
-title: "St. Gabriel, 1/72, Master Korabel, 2019"
+title: "St. Gabriel, 1/72, Master Korabel"
 date: 2019-07-30
 slug: mk-st-gabriel
-tags: ["WoodenKit", "1/72", "Master Korabel"]
+tags: ["WoodenKit", "1/72", "Master Korabel", 2019]
 categories: [ships]
 feature_image: /images/models/mk-st-gabriel/finished_02_1920.jpg
 ---

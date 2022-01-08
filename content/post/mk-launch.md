@@ -1,8 +1,8 @@
 ---
-title: "Launch, 1/72, Master Korabel, 2018"
+title: "Launch, 1/72, Master Korabel"
 date: 2018-11-29
 slug: mk-launch
-tags: ["WoodenKit", "1/72", "Master Korabel"]
+tags: ["WoodenKit", "1/72", "Master Korabel", 2018]
 categories: [ships]
 feature_image: /images/models/mk-launch/finished_01_1920.jpg
 ---

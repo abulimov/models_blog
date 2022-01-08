@@ -1,8 +1,8 @@
 ---
-title: "Harbour Tug boat 'Lucky XI', 1/108, Revell, 2016"
+title: "Harbour Tug boat 'Lucky XI', 1/108, Revell"
 slug: revell-harbour-tug
 date: 2017-07-28
-tags: [Revell, 1/108]
+tags: [Revell, 1/108, 2016]
 feature_image: /images/models/harbour-tug/tug_done_5_1920.jpg
 categories: [ships]
 ---

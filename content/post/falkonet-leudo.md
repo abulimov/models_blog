@@ -1,8 +1,8 @@
 ---
-title: "[WIP] Leudo, 1/48, Falkonet, 2021"
+title: "[WIP] Leudo, 1/48, Falkonet"
 date: 2021-11-03
 slug: falkonet-leudo
-tags: ["WIP", "WoodenKit", "1/48", "Falkonet"]
+tags: ["WIP", "WoodenKit", "1/48", "Falkonet", 2021]
 categories: [ships]
 feature_image: /images/models/falkonet-leudo/wip_05_1920.jpg
 ---

@@ -1,8 +1,8 @@
 ---
-title: "Bedford MWD, 1/48, Airfix, 2018"
+title: "Bedford MWD, 1/48, Airfix"
 slug: airfix-bedford-mwd
 date: 2018-02-26
-tags: [Airfix, 1/48]
+tags: [Airfix, 1/48, 2018]
 feature_image: /images/models/bedford-mwd/finished_05_1920.jpg
 categories: [vehicles]
 ---

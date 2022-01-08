@@ -1,8 +1,8 @@
 ---
-title: "Medieval Lifeboat, 1/72, Zvezda, 2019"
+title: "Medieval Lifeboat, 1/72, Zvezda"
 date: 2019-03-07
 slug: zvezda-medieval-lifeboat
-tags: ["1/72", "Zvezda"]
+tags: ["1/72", "Zvezda", 2019]
 categories: [ships]
 feature_image: /images/models/zvezda-medieval-lifeboat/01_finished_1920.jpg
 ---

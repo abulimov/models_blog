@@ -1,8 +1,8 @@
 ---
-title: "Lady Nelson, 1/64, Amati, 2021"
+title: "Lady Nelson, 1/64, Amati"
 date: 2021-08-22
 slug: amati-lady-nelson
-tags: ["WoodenKit", "1/64", "Amati", "Victory Models"]
+tags: ["WoodenKit", "1/64", "Amati", "Victory Models", 2021]
 categories: [ships]
 feature_image: /images/models/amati-lady-nelson/finished_04_1920.jpg
 ---

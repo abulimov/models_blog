@@ -1,8 +1,8 @@
 ---
-title: "English Carronade, 1/17, Mantua, 2018"
+title: "English Carronade, 1/17, Mantua"
 date: 2018-12-23
 slug: mantua-english-carronade
-tags: ["WoodenKit", "1/17", "Mantua"]
+tags: ["WoodenKit", "1/17", "Mantua", 2018]
 categories: [ships]
 feature_image: /images/models/mantua-english-carronade/05_finished_1920.jpg
 ---

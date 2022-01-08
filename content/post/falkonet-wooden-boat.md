@@ -1,8 +1,8 @@
 ---
-title: "Boat 1763, 1/72, Falkonet, 2019"
+title: "Boat 1763, 1/72, Falkonet"
 date: 2019-09-24
 slug: falkonet-wooden-boat
-tags: ["WoodenKit", "1/72", "Falkonet"]
+tags: ["WoodenKit", "1/72", "Falkonet", 2019]
 categories: [ships]
 feature_image: /images/models/falkonet-wooden-boat/finished_03_1920.jpg
 ---

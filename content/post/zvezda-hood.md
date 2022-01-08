@@ -1,8 +1,8 @@
 ---
-title: "HMS Hood, 1/720, Italery/Zvezda, 2018"
+title: "HMS Hood, 1/720, Italery/Zvezda"
 date: 2018-03-02
 slug: zvezda-hood
-tags: [Zvezda, Italery, 1/720]
+tags: [Zvezda, Italery, 1/720, 2018]
 feature_image: /images/models/hms-hood/finished_05_1920.jpg
 categories: [ships]
 ---

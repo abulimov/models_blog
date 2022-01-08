@@ -1,8 +1,8 @@
 ---
-title: "SS Jeremiah O'Brien Liberty Ship, 1/700, Trumpeter, 2019"
+title: "SS Jeremiah O'Brien Liberty Ship, 1/700, Trumpeter"
 date: 2020-03-13
 slug: trumpeter-liberty-ship
-tags: ["1/700", "Trumpeter"]
+tags: ["1/700", "Trumpeter", 2019, 2020]
 categories: [ships]
 feature_image: /images/models/trumpeter-liberty-ship/finished_01_1920.jpg
 ---

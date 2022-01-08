@@ -1,8 +1,8 @@
 ---
-title: "Four-oared yawl of XIX century, 1/24, Falkonet, 2020"
+title: "Four-oared yawl of XIX century, 1/24, Falkonet"
 slug: falkonet-yawl
 date: 2020-09-01
-tags: ["WoodenKit", "1/24", "Falkonet"]
+tags: ["WoodenKit", "1/24", "Falkonet", 2020]
 feature_image: /images/models/falkonet-yawl/finished_06_1920.jpg
 categories: [ships]
 ---
