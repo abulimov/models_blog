@@ -18,7 +18,7 @@ So just to get my grip on it back, I've finished this one.
 
 Well, it's a relatively old Zvezda model... Which normally mean huge fit issue, extractor marks in bad places, thick decals and confusing instructions. All of which was present in this one.
 For example, engine couldn't possibly fit inside armour hull. Apparently Zvezda used existing **GAZ-AAA**
-truck model for the frame and engine parts (as there are unused truck parts on sprues). Anyways the overall mold quality is okish, and fit issues are easy to overcome.
+truck model for the frame and engine parts (as there are unused truck parts on sprues). Anyways the overall mold quality is ok-ish, and fit issues are easy to overcome.
 
 ## Build notes
 
@@ -27,7 +27,7 @@ By the time I got back to this model I didn't even have original paint I've used
 As I was mostly interested to practice, I decided to skip repainting.
 And as it was my first model painted with airbrush, I made all possible mistakes.
 For instance, I've painted small parts separately, and then tried to attach them to fully painted hull.
-Which went terribly wrong with headlights, which kept falling off. And I wasn't able to find markings to attach some of the smaller details under the primer and paint...
+Which went terribly wrong with headlights, which kept falling off. And I wasn't able to find markings to attach some smaller details under the primer and paint...
 
 I've also tried Humbrol DecalFix for the first time with this model, but thick yellowish Zvezda decals that stayed in an open box for 7 years were still tough to deal with.
 

@@ -10,7 +10,7 @@ categories: [airplanes]
 ## Royal Aircraft Factory BE2c3
 > The Royal Aircraft Factory B.E.2 was a British single-engine tractor two-seat biplane designed and developed at the Royal Aircraft Factory. Most production aircraft were constructed under contract by various private companies, both established aircraft manufacturers and firms that had not previously built aircraft. Around 3,500 were manufactured in all. 
 
-from [wikipedia](https://en.wikipedia.org/wiki/Royal_Aircraft_Factory_B.E.2).
+from [Wikipedia](https://en.wikipedia.org/wiki/Royal_Aircraft_Factory_B.E.2).
 
 I picked this model on my visit to [Royal Air Force Museum London](https://www.rafmuseum.org.uk/london/).
 The museum is absolutely awesome, and they even have [BE2b aircraft](https://www.rafmuseum.org.uk/research/collections/royal-aircraft-factory-be2b/) on display.
@@ -21,7 +21,7 @@ It's great, Airfix new moulds at their best.
 Model is well designed, no flash, crispy details.
 
 ## Build notes
-Pretty much nothing to write about. Very straightforward build and I didn't want to overcomplicate it with rigging or elaborate decals.
+Pretty much nothing to write about. Very straightforward build and I didn't want to over-complicate it with rigging or elaborate decals.
 
 Painted with **Tamiya** *Wooden Deck Tan*, weathering and colour modulation with oils.
 

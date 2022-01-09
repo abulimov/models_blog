@@ -25,7 +25,7 @@ And unfortunately some parts had gaps due to insufficient amount of plastic put 
 The build is quite straightforward, the only fit issue I've got was with lower and upper halves of the hull.
 
 It was the first model I've tried **Tamiya Flexible Masking Tape**, and it's a life saver for ship painting.
-It makes painting waterline and deck sooo much easier.
+It makes painting waterline and deck so much easier.
 
 
 ![hood wip 1](/images/models/hms-hood/hood_wip_1_1920.jpg)
@@ -34,7 +34,7 @@ I've drilled the gun barrels, and it was like the best 5 minutes spent on model.
  
 ![hood wip 2](/images/models/hms-hood/hood_wip_2_1920.jpg)
 
-Also I've decided to use photoetch for the first time. Got some **Tom's Modelworks** 1/700 railings, and while using PE is far more tedious than drilling the barrels, the result is quite rewarding and brings the model to the next level.
+Also I've decided to use PhotoEtch for the first time. Got some **Tom's Modelworks** 1/700 railings, and while using PE is far more tedious than drilling the barrels, the result is quite rewarding and brings the model to the next level.
 
 Before and after PE railings:
 ![hood wip 3](/images/models/hms-hood/hood_wip_3_1920.jpg)

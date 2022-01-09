@@ -53,7 +53,7 @@ All the parts are laser-cut, fit was perfect, and lots of photo-etch details.
 Finally, what's left was rigging and making of oars.
 
 As it usually is with Russian kit manufacturers, they don't provide dowels. You have to round provided pre-cut square pieces,
-and I'm not a big fan of this approach. It's just boring! I don't get why in cheap Occre kit I have tons of dowels for every need,
+and I'm not a big fan of this approach. It's just boring! I don't get why in cheap OcCre kit I have tons of dowels for every need,
 but here in top-tier kit with fantastic level of details there are none. It's like no one can make a dowel in Russia.
 
 Making the other nice things like a water barrel, lantern and compass was much more fun, and I think those small touches add a lot to the final look of the model.

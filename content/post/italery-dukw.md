@@ -68,7 +68,7 @@ It was my first time using *colour modulation* technique I read about in fantast
 ![colour_modulation_top](/images/models/italery-dukw/08_colour_modulation_top_1920.jpg)
 
 
-Then I sprayed **Tamiya** *Semi Gloss Clear* in the places I needed to apply decals, and used **Humbrol** *DecalFix* to set them. Afterwards I made the surface flat again with **Tamiya** *Flat Clear*.
+Then I sprayed **Tamiya** *Semi Gloss Clear* in the places I needed to apply decals, and used **Humbrol** *DecalFix* to set them. Afterward I made the surface flat again with **Tamiya** *Flat Clear*.
 
 Once all cured I spent couple of hours painting tools, winch and jerry cans.
 Then I've spent another couple of hours with a sponge and AMMO MIG Chipping colour adding metal chips on all edges and corners,

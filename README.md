@@ -22,6 +22,11 @@ Install 'Wand' module for python with `pip3 install Wand`, and use provided scri
 `./add_img.py some-slug /path/to/new/file_1.jpg /path/to/new/file_2.jpg`
 
 
+## Linting
+
+Install [**Vale**](https://github.com/errata-ai/vale), run `make check`.
+
+
 ## Publishing
 
 ```

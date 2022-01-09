@@ -10,7 +10,7 @@ feature_image: /images/models/mk-st-gabriel/finished_02_1920.jpg
 For some reason wooden kits keep attracting me more and more.
 This one is the third I'm building, all from the same Russian company called [Master Korabel (Мастер Корабел)](http://master-korabel.ru/).
 
-## St. Gabriel deck-boat
+## St Gabriel deck-boat
 This was the main ship of the [First Kamchatka Expedition](https://en.wikipedia.org/wiki/First_Kamchatka_expedition) lead by Danish explorer [Vitus Bering](https://en.wikipedia.org/wiki/Vitus_Bering) for Russian Tsar Peter The Great in 1724-1730.
 
 ## Model quality

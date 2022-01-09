@@ -15,7 +15,7 @@ to take many months. After careful considerations and reading [Model Ship World]
 
 I chose it for several reasons: 
 
-* First and foremost, I really really like the look of the ship
+* First and foremost, I really like the look of the ship
 * I was already in the Arctic expedition's theme, thanks to Bering's ship [St. Gabriel](/models/mk-st-gabriel/)
 * OcCre as a company had relatively good reviews and feedback on modelling forums
 * OcCre did a whole series of 111 YouTube videos showing the construction of this model
@@ -32,8 +32,8 @@ so one more reason to pick this subject.
 
 Previously I only had experience with Russian manufacturers and Mantua. I was quite disappointed with Mantua and impressed by both Master Korabel and Falkonet.
 This time I'm happy to admit that OcCre didn't disappoint me one bit. All the wood is high quality, and it's given in abundance
-(really, I can plank another ship with leftovers). All cast details are also nice quality, and nails are just perfect
-(especially compared to terrible onces from Master Korabel).
+(I can plank another ship with leftovers). All cast details are also nice quality, and nails are just perfect
+(especially compared to terrible ones from Master Korabel).
 
 
 ## Build notes

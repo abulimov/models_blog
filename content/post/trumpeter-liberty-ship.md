@@ -30,7 +30,7 @@ It didn't go well, so I tried to scrape the paint, but it only damaged the tiny 
 
 I gave up on the hull, but after investing so many hours in superstructure PE details I decided to buy a second model (luckily it costs only ~16 Euros) only for a hull.
 
-However before second one arrived I stashed all the stuff that I built and left it for a long long time - more than a year and a half.
+However before second one arrived I stashed all the stuff that I built and left it for a long time - more than a year and a half.
 I simply couldn't bring myself to work on it again, and it sat in the corner of the shelf as a quiet reminder of my mistakes.
 
 Luckily recently I saw same model finished on Reddit's **[r/modelmakers](https://www.reddit.com/r/modelmakers/)**, and this gave me much needed incentive to work on the ship again.

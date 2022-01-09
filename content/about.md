@@ -11,10 +11,17 @@ menu:
 ---
 
 I'm an amateur scale modeller/IT engineer, living in Dublin, Ireland.
-I build models for fun, it's my main and favourite hobby.
-I'm by no means pro, so don't anticipate anything special here.
-If you want to see really great models, please take a look at
-[Adam Wilder](http://wilder.su) or [Mig Jimenez](http://migjimenez.com) works.
+I build models for fun, it's my main and favourite hobby since the 90s.
+
+[Me at scalemates.com](https://www.scalemates.com/profiles/mate.php?id=38867).
+
+## Who I follow on the internet
+
+If you want to see truly great models, please take a look at:
+* [Adam Wilder](http://wilder.su)
+* [Rick Lawler](http://ricklawler-propaganda.com/propaganda/)
+* [Mig Jimenez](http://migjimenez.com)
+* [The Modelling News](https://www.themodellingnews.com/)
 
 ## What I use:
 
@@ -25,7 +32,7 @@ If you want to see really great models, please take a look at
 * **Trumpeter** MasterTools PhotoEtch parts bender
 * **Iwata Revolution CR** airbrush, previously was using **Sparmax DH-103**
 * **Swann-Morton** scalpel
-* Some sanding paper (200-2000 grit), tweezers, micro-drill, various brushes, pipets.
+* Some sanding paper, tweezers, micro-drill, various brushes, pipettes.
 
 ### Glue
 
@@ -42,6 +49,8 @@ If you want to see really great models, please take a look at
 
 * **Mr. Hobby** Mr. Surfacer 500, 1000, 1200
 * **Tamiya** Primer (rattlecan)
+* **AK Interactive** Acrylic Primer
+* **AMMO Mig** One-shot Primer
 
 ### Paint
 * **Tamiya**
@@ -50,4 +59,6 @@ If you want to see really great models, please take a look at
 
 ### Weathering
 * **Humbrol** weathering powders
+* **AK Interactive** weathering solutions
+* **AMMO Mig** weathering solutions
 * **Winsor & Newton** Winton oil colours

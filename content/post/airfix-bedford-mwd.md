@@ -33,7 +33,7 @@ Here is the model before the actual chipping:
 
 ![base coat](/images/models/bedford-mwd/base_coat_1920.jpg)
 
-And here it is after I've wetted the surface and used old paintbrush to chip the Khaki coat:
+And here it is after I've dampened the surface and used old paintbrush to chip the Khaki coat:
 
 ![chipping 1](/images/models/bedford-mwd/scratched_1_1920.jpg)
 ![chipping 2](/images/models/bedford-mwd/scratched_2_1920.jpg)

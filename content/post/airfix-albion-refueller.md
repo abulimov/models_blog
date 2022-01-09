@@ -35,7 +35,7 @@ I'm quite pleased with the result, looks good enough for me.
 
 ![camo](/images/models/airfix-albion-refueller/camo_1920.jpg)
 
-Once the camo was done I wetted the surface and chipped the paint with a stiff brush, then used a piece of kitchen sponge and AMMO Chipping (A.MIG-044) colour to add chips on the edges.
+Once the camo was done I dampened the surface and chipped the paint with a stiff brush, then used a piece of kitchen sponge and AMMO Chipping (A.MIG-044) colour to add chips on the edges.
 
 Applied decals over gloss coat, then airbrushed Tamiya XF-86 Flat Clear.
 

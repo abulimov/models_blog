@@ -64,11 +64,11 @@ Rigging was done with provided blocks and Amati thread. I switched to the black 
 **I scratch-built few parts:**
 * tiller is hand-carved from some leftover walnut (because provided laser-cut part was too crude and out-of-scale)
 * anchor stock is made out of leftover cherry I had (because I didn't want to bother painting provided cast metal part to look like wood when it can actually be made of wood)
-* chimney is made from 3mm dovels (because from all the ship-building books I read and references I found there definitely should be a chimney)
+* chimney is made from 3mm dowels (because from all the ship-building books I read and references I found there definitely should be a chimney)
 
 ## Conclusion
 
-I had great time with this kit, and absolutely love the end result. The whole build took about 8 months, and I enjoyed every step of it, except for the ratlines of course (it's just so mind-numbingly booooring...).
+I had great time with this kit, and absolutely love the end result. The whole build took about 8 months, and I enjoyed every step of it, except for the ratlines of course (it's just so mind-numbingly boring...).
 
 It was my first time scratch-building stuff out of wood, it was fun and I'm pretty chuffed with the result.
 

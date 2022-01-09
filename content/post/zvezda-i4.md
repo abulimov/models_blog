@@ -32,7 +32,7 @@ Primed, painted base coats, set upper wing. It was tricky, as the wing is twice 
 
 ![base paint](/images/models/i-4/base-paint_1920.jpg)
 
-I had some unexpected issues with Humbrol Clear Varnish on this model, I applied it with brush, recoated it too soon, and got milky stains in the areas it pooled. Fixed by airbrushing another couple of coats.
+I had some unexpected issues with Humbrol Clear Varnish on this model, I applied it with brush, re-coated it too soon, and got milky stains in the areas it pooled. Fixed by airbrushing another couple of coats.
 
 Used Humbrol DecalFix to add decals, this time decals were better than in BA-10, but still too thick.
 And the control panel decal was so horribly cartoonish, that painted panel with pin wash looked much better without it.
@@ -51,7 +51,7 @@ Looked a bit better after I've added some oil filters and added rust on exhausts
 ## Conclusion
 
 Overall the model is just bad - lack of details, thick details. But I've tried scratchbuilding because of it,
-and it's not that hard or scary as I thought. Also it's the first time I've tried oil filters, and it turned to be soooo easy.
+and it's not that hard or scary as I thought. Also it's the first time I've tried oil filters, and it turned to be so easy.
 
 ## Gallery
 
