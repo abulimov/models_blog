@@ -1,4 +1,4 @@
-# Sources for models.bulimov.ru site
+# Sources for models.bulimov.me site
 
 Uses [Hugo static site generator](gohugo.io)
 

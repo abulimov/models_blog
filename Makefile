@@ -29,7 +29,7 @@ clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
 
 publish: check
-	hugo -b //models.bulimov.ru/
+	hugo -b //models.bulimov.me/
 
 github: publish
 	ghp-import -m 'Updated blog' -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)

@@ -71,8 +71,8 @@ But even after this little practice doing rigging proved to be just as time cons
 
 For example, attaching these lines to rudder took me around 3.5 hours with coiling.
 
-![rudder_lines_top](/images/models/mk-cannon-yolle/11_rudder_lines_top_1920.jpg)
-![rudder_lines_side](/images/models/mk-cannon-yolle/10_rudder_lines_side_1920.jpg)
+![rudder lines top](/images/models/mk-cannon-yolle/11_rudder_lines_top_1920.jpg)
+![rudder lines side](/images/models/mk-cannon-yolle/10_rudder_lines_side_1920.jpg)
 
 Overall I'd say that rigging took me about the time I spent on everything else, and it was definitely the most challenging part.
 

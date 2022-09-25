@@ -31,7 +31,7 @@ It makes painting waterline and deck so much easier.
 ![hood wip 1](/images/models/hms-hood/hood_wip_1_1920.jpg)
 
 I've drilled the gun barrels, and it was like the best 5 minutes spent on model. The difference is just fantastic:
- 
+
 ![hood wip 2](/images/models/hms-hood/hood_wip_2_1920.jpg)
 
 Also I've decided to use PhotoEtch for the first time. Got some **Tom's Modelworks** 1/700 railings, and while using PE is far more tedious than drilling the barrels, the result is quite rewarding and brings the model to the next level.
@@ -46,7 +46,7 @@ Added more PE on the superstructure, looks much better with it:
 Had some spare PE inclined ladders from **Tom's Modelworks**, decided to replace plastic ones after quick comparison.
 
 PE ladders vs plastic:
-![ladders_comparison](/images/models/hms-hood/ladders_comparison_1920.jpg)
+![ladders comparison](/images/models/hms-hood/ladders_comparison_1920.jpg)
 
 Spent whole weekend adding PE railings, I think the result is definitely worth it.
 

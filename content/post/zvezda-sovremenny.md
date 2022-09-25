@@ -12,7 +12,7 @@ I've enjoyed building it a lot, much more than I expected - normally I don't do 
 
 ## Russian Destroyer "Sovremenny" (Современный).
 
-Commissioned in 1980, this ship was the first destroyer built by USSR in 20 years. This fact is reflected in ships's name - 'Sovremenny' means 'modern', 'contemporary'. Due to lack of funds, only 5 out of 18 commissioned ships of this class are now in service.
+Commissioned in 1980, this ship was the first destroyer built by USSR in 20 years. This fact is reflected in ships name - 'Sovremenny' means 'modern', 'contemporary'. Due to lack of funds, only 5 out of 18 commissioned ships of this class are now in service.
 
 ## Model quality
 
@@ -22,7 +22,7 @@ It's pretty great, details are really crispy. Tiny Ka-27 helicopter is just ador
 
 Finished the assembly, ready for priming. You can spot half-painted Ka-27 helicopter.
 
-![before_priming](/images/models/zvezda-sovremenny/before_priming_1920.jpg)
+![before priming](/images/models/zvezda-sovremenny/before_priming_1920.jpg)
 
 Primed with **Mr. Surfacer 1200** rattlecan.
 

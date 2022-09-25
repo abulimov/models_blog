@@ -7,7 +7,7 @@ categories: [ships]
 feature_image: /images/models/amati-lady-nelson/finished_04_1920.jpg
 ---
 
-I wanted to build a cutter since I first saw someone else's build in the [modelshipworld.com](https://modelshipworld.com/) gallery.
+I wanted to build a cutter since I first saw someone else build in the [modelshipworld.com](https://modelshipworld.com/) gallery.
 They look very graceful and elegant and *fast*!
 
 ## HM Cutter Lady Nelson
