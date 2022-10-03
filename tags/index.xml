@@ -7,11 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>&lt;br/&gt;&lt;small&gt;&lt;small&gt;  &lt;a rel=&#34;license&#34; href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;//i.creativecommons.org/l/by-sa/4.0/80x15.png&#34;&gt;&lt;/a&gt; Content licensed under a &lt;a rel=&#34;license&#34; href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;, except where indicated otherwise.&lt;/small&gt;&lt;/small&gt;</copyright>
-    <lastBuildDate>Fri, 10 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="//models.bulimov.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="//models.bulimov.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2022</title>
       <link>//models.bulimov.me/tags/2022/</link>
-      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>//models.bulimov.me/tags/2022/</guid>
       <description></description>
@@ -20,7 +20,7 @@
     <item>
       <title>Eduard</title>
       <link>//models.bulimov.me/tags/eduard/</link>
-      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>//models.bulimov.me/tags/eduard/</guid>
       <description></description>
@@ -29,25 +29,16 @@
     <item>
       <title>Varyag</title>
       <link>//models.bulimov.me/tags/varyag/</link>
-      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>//models.bulimov.me/tags/varyag/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>WIP</title>
-      <link>//models.bulimov.me/tags/wip/</link>
-      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>//models.bulimov.me/tags/wip/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Zvezda</title>
       <link>//models.bulimov.me/tags/zvezda/</link>
-      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>//models.bulimov.me/tags/zvezda/</guid>
       <description></description>
@@ -86,6 +77,15 @@
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>//models.bulimov.me/tags/occre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WIP</title>
+      <link>//models.bulimov.me/tags/wip/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//models.bulimov.me/tags/wip/</guid>
       <description></description>
     </item>
     
