@@ -1,9 +1,9 @@
 ---
-title: "[WIP] Varyag, 1/350, Zvezda"
-date: 2022-06-10
+title: "Varyag, 1/350, Zvezda"
+date: 2022-10-03
 slug: zvezda-varyag
-tags: [WIP, Zvezda, Varyag, "1/350", 2022, Eduard]
-feature_image: /images/models/zvezda-varyag/wip_09_1920.jpg
+tags: [Zvezda, Varyag, "1/350", 2022, Eduard]
+feature_image: /images/models/zvezda-varyag/finished_01_1920.jpg
 categories: [ships]
 ---
 
@@ -12,7 +12,7 @@ Built in USA in 1899 for the Imperial Russian Navy,
 [Varyag](https://en.wikipedia.org/wiki/Russian_cruiser_Varyag_(1899)) became very famous
 in Russia after the Battle of Chemulpo Bay. In that battle, she got trapped
 in the bay and tried to break out by fighting against Japanese squadron.
-Sadly she scored no hits on the enemy, 
+Sadly she scored no hits on the enemy,
 lost 31 men dead and 191 injured, returned back to the bay and got scuttled.
 
 The Russian government took the opportunity to turn this very unsuccessful battle
@@ -120,4 +120,39 @@ most of the stuff fit right in.
 
 ![wip_09](/images/models/zvezda-varyag/wip_09_1920.jpg)
 
-**To be continued..**
+After the detailing, it was time for weathering.
+
+As always, I used oil paint by *Windsor&Newton*. I think rust streaks turned out very nicely,
+and black-ish grime just as well. White salt deposits are quite subtle, but add nice variation.
+
+None of the weathering (except for white) is visible on the lower (red-brown) part of the hull,
+but I was expecting this and thus was not disappointed.
+
+Once the weathering was done, I reluctantly proceeded with rigging.
+In this scale it's very far from my favorite part of the build, but without it
+the ship looked unfinished.
+It didn't help that instructions are extremely basic in regards of rigging, and are pretty much
+useless.
+
+With the help of some photos from the internet and reference books, I was able to make something
+relatively legitimate looking with a great product called **EZ-line**.
+
+At this point the model was complete, but I still needed a base for it.
+
+Recently I stated to pay more attention to the way the models are displayed,
+not only in a sense of using protective acrylic display cases.
+
+I've noticed that proper display stand adds a lot to the look of the finished model,
+and with the amount of effort (wooden deck, tons of PE) that went into Varyag I wanted it to look as good as possible.
+
+After searching the internet for the example pictures and showing them to my wife,
+it was agreed that wooden base with brass pedestals is the only way to go.
+
+I went to the nearest Woodies to look at laminated floors, as it seems like the easiest option to source
+flat piece of good looking wood. Instead, I found a better, more natural looking thing - 'pine board', which I promptly bought.
+
+Finally, hand saw and hand plane were used to shape it, and wooden dye to tone it. Brass pedestals came from eBay.
+
+I absolutely love the result, natural wooden base really adds to the look of the model.
+
+![finished 01](/images/models/zvezda-varyag/finished_01_1920.jpg)
