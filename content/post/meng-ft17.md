@@ -1,9 +1,9 @@
 ---
-title: "[WIP] FT-17, 1/35, Meng"
-date: 2021-11-03
+title: "FT-17, 1/35, Meng"
+date: 2023-04-26
 slug: meng-ft17
-tags: [WIP, 1/35, Meng, 2018, 2021]
-feature_image: /images/models/meng-ft17/04_assembled_wip_1920.jpg
+tags: [1/35, Meng, 2018, 2021, 2022]
+feature_image: /images/models/meng-ft17/finished_01_1920.jpg
 categories: [Vehicles]
 ---
 
@@ -12,7 +12,7 @@ It's so tiny by modern standards that 1/35 model feels like 1/48. That's why it'
 
 ## Model quality
 It's just *perfect*, even compared to modern [Airfix](/tags/airfix) kits. No flash, very dense and hard plastic allowing amazing level of details, and very detailed build manual.
-So far it's the best kit I've ever built. Also it's worth mentioning that kit provides workable tracks and suspension (even with tiny metal spring for amortization).
+It's the best plastic kit I've ever built. Also it's worth mentioning that kit provides workable tracks and suspension (even with tiny metal spring for amortization).
 
 ## Build notes
 
@@ -41,4 +41,37 @@ Few days of work, few re-painted parts, and the tank is fully assembled, painted
 
 ![assembled WIP](/images/models/meng-ft17/04_assembled_wip_1920.jpg)
 
-**To be continued..**
+But that was about all I could do in 2021, thanks to work and me dreading the weathering step, so the model went back to the box.
+
+Finally, in 2022, after moving houses I discovered the FT-17 box once again, and this time I was determined to reduce the stash of boxes by at least this one.
+
+I gathered my will and set for the most dreaded step of all - weathering.
+After watching a bunch of Uncle Night Shift videos, followed by a healthy dose of Rick Lawler, I was (at least mentally) ready.
+
+Luckily I had all the necessary products to do the job, so no excuses to postpone it once again.
+
+Most importantly, I had some sort of a grey powder from AK Interactive to thicken the paint to make mud.
+It was rather fun making the 'mud' and applying it to the tank, but I can't say that I enjoyed it.
+
+Weathering requires lots of creativity and artistic powers, which I simply don't possess.
+Still, I persevered and had some fun, and the whole weathering only took few evenings.
+
+I used oils for filters weathering and rust streaks, acrylic paint with thickener for mud, and same acrylic paint for splashes.
+I think I overdid the mud, but still I'm rather pleased with the result.
+
+## Conclusion
+Fantastic model overall, and I'm very happy to finally finish it.
+Yes, it took me at least 3 attempts to it, and yes, I dreaded both painting and weathering.
+
+But it was the first model with interior that I've built, first tank model in close to 20 years, and first time I did anything resembling heavy weathering with mud.
+All of this makes me rather proud with the end result.
+
+And most importantly, even after all the setbacks, year-long pauses and fear of screwing it up - I finished it.
+
+## Gallery
+
+![finished_04](/images/models/meng-ft17/finished_04_1920.jpg)
+![finished_01](/images/models/meng-ft17/finished_01_1920.jpg)
+![finished_02](/images/models/meng-ft17/finished_02_1920.jpg)
+![finished_03](/images/models/meng-ft17/finished_03_1920.jpg)
+![finished_05](/images/models/meng-ft17/finished_05_1920.jpg)
