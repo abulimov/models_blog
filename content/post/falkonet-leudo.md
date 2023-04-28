@@ -1,10 +1,10 @@
 ---
-title: "[WIP] Leudo, 1/48, Falkonet"
-date: 2021-11-03
+title: "Leudo, 1/48, Falkonet"
+date: 2023-04-28
 slug: falkonet-leudo
-tags: ["WIP", "WoodenKit", "1/48", "Falkonet", 2021]
+tags: ["WoodenKit", "1/48", "Falkonet", 2021]
 categories: [ships]
-feature_image: /images/models/falkonet-leudo/wip_05_1920.jpg
+feature_image: /images/models/falkonet-leudo/finished_05_1920.jpg
 ---
 ## Leudo
 
@@ -37,18 +37,44 @@ I could have easily just done it myself with normal planks, without endless sand
 ## Build notes
 
 This is a form that is used to shape the hull:
+
 ![wip_01](/images/models/falkonet-leudo/wip_01_1920.jpg)
 
 Planking is double, with even the first layer being laser cut and pre-spiled.
+
 ![wip_02](/images/models/falkonet-leudo/wip_02_1920.jpg)
 
 Planking of the lower hull complete, first layer of the deck installed.
+
 ![wip_03](/images/models/falkonet-leudo/wip_03_1920.jpg)
 
 Another form is used to plank the bulwarks, and even with the form it's quite fiddly, really hard to achieve good fit despite planks being pre-spiled.
+
 ![wip_04](/images/models/falkonet-leudo/wip_04_1920.jpg)
 
 Deck planking in progress, you can clearly see that each individual plank is laser-cut and needs to be cleaned up and glued separately.
+
 ![wip_05](/images/models/falkonet-leudo/wip_05_1920.jpg)
 
-**To be continued..**
+As is common with Russian manufacturers, there are no dowels for the masts. Instead, one needs to work with provided laser-cut parts, which is rather annoying.
+It's not a big deal, but I find this type of work to be extremely boring.
+
+Rigging was rather simple, only four shrouds and no ratlines.
+
+Finally, the kit also includes parts for four big barrels.
+I started to assemble one, and quickly gave up. It was fiddly and boring and I was already tired with this model (too much char cleanup, dubious engineering),
+so maybe one day I'll upgrade the model with the barrels. For now, it's good enough for me.
+
+## Conclusion
+Very interesting subject, but rather disappointing model. Photo instructions were insufficient, some assembly steps were unclear, fiddly and/or over-engineered, and overall
+I didn't enjoy the build.
+
+The end result still looks nice to me, and I love unusual the subject, especially the peaceful, hedonistic nature of wine cargo ship.
+
+## Gallery
+
+![finished_01](/images/models/falkonet-leudo/finished_01_1920.jpg)
+![finished_02](/images/models/falkonet-leudo/finished_02_1920.jpg)
+![finished_03](/images/models/falkonet-leudo/finished_03_1920.jpg)
+![finished_04](/images/models/falkonet-leudo/finished_04_1920.jpg)
+![finished_05](/images/models/falkonet-leudo/finished_05_1920.jpg)
