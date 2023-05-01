@@ -155,4 +155,20 @@ Finally, hand saw and hand plane were used to shape it, and wooden dye to tone i
 
 I absolutely love the result, natural wooden base really adds to the look of the model.
 
+## Conclusion
+Not a bad model to start with, really improved by the wooden deck and PhotoEtch.
+I enjoyed the build, and how it didn't take years to finish (looking at my [wooden ships builds](/tags/woodenkit/)...).
+
+I already was sure that PE railings are a must for any plastic ship build, now I'm also convinced that wooden deck is mandatory.
+It's not terribly expensive, relatively easy to use, and makes the model look much more interesting.
+With my lack of artistic talent, I simply cannot achieve anything comparable with the paint job.
+
+## Gallery
+
 ![finished 01](/images/models/zvezda-varyag/finished_01_1920.jpg)
+![finished 02](/images/models/zvezda-varyag/finished_02_1920.jpg)
+![finished 03](/images/models/zvezda-varyag/finished_03_1920.jpg)
+![finished 07](/images/models/zvezda-varyag/finished_07_1920.jpg)
+![finished 04](/images/models/zvezda-varyag/finished_04_1920.jpg)
+![finished 05](/images/models/zvezda-varyag/finished_05_1920.jpg)
+![finished 06](/images/models/zvezda-varyag/finished_06_1920.jpg)
