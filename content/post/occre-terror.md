@@ -1,8 +1,8 @@
 ---
 title: "[WIP] HMS Terror, 1/75, OcCre"
-date: 2021-12-01
+date: 2023-06-16
 slug: occre-terror
-tags: ["WIP", "WoodenKit", "1/75", "OcCre", 2020, 2021]
+tags: ["WIP", "WoodenKit", "1/75", "OcCre", 2020, 2021, 2022, 2023]
 categories: [ships]
 feature_image: /images/models/occre-terror/wip_12_1920.jpg
 ---
@@ -106,5 +106,27 @@ And finally I was ready to work on the masts and spars. Turns out, dressing the 
 But at last the bowsprit is installed.
 
 ![wip_12](/images/models/occre-terror/wip_12_1920.jpg)
+
+In 2022, the long awaited book "HMS Terror" by *Matthew Betts* finally got released.
+I immediately bought and read it (along with somewhat complimentary "Erebus: The Story of a Ship" book by Michael Palin).
+
+Terror book proved to be a wonderful source of details for the ship, along with the detailed plans.
+
+It became very clear that while OcCre's model is mostly accurate enough, some important parts are either missing or are greatly simplified.
+
+As I am already at the very late stages of the build, I decided to only alter/address the most obvious issues.
+
+For me, the main such issue was davits - I just hated the over-simplified version from the kit, even before I knew how the real thing should look like.
+Promptly the kit-provided stuff was removed, and work began on scratch-building a proper replacement, faithful to the book.
+
+![wip_14](/images/models/occre-terror/wip_14_1920.jpg)
+
+Making davits themselves was easy. I made a very simple jig from scrap wood and nails to bend the curved arms of the davits to shape.
+Metal parts were more challenging, but I had some PhotoEtch leftovers, and used them to craft hinges.
+I simply made on free-hand with a file and pliers, and then traced it to make another 7.
+
+I think new davits already look thousand times better than the old ones, so rather happy with my decision to make a replacement.
+
+Another big thing missing from the kit was *ahem* toilets, located aft on both sides. The should be relatively easy to make - not a very complex shape, and only two of them - no need for special jigs.
 
 **To be continued..**
