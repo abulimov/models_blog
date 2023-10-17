@@ -40,3 +40,6 @@ overspray
 feature_image
 Betts
 Palin
+Lennarth
+Petersson
+deadeyes
