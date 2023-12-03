@@ -1,10 +1,10 @@
 ---
-title: "[WIP] HMS Terror, 1/75, OcCre"
-date: 2023-06-16
+title: "HMS Terror, 1/75, OcCre"
+date: 2023-12-03
 slug: occre-terror
-tags: ["WIP", "WoodenKit", "1/75", "OcCre", 2019, 2020, 2021, 2022, 2023]
+tags: ["WoodenKit", "1/75", "OcCre", 2019, 2020, 2021, 2022, 2023]
 categories: [ships]
-feature_image: /images/models/occre-terror/wip_16_1920.jpg
+feature_image: /images/models/occre-terror/finished_02_1920.jpg
 ---
 
 Once I built up some confidence with [wooden kits](/tags/woodenkit/), especially after [St. Gabriel](/models/mk-st-gabriel/) I felt
@@ -179,6 +179,52 @@ Again, I would like to notice how generous OcCre was with materials, with plenty
 You may also have noticed that I removed ship boat from the deck - that is by choice, as I was unhappy with its looks.
 After all, it is cast metal, and I'm no artist to make it look like wood.
 
-Instead, I bought a proper wooden boat kit from *Vanguard Models* which I will work on once Terror itself is finished. I hope it will be not only a good addition to this model, but also a nice palette cleanser after a long and tedious months of rigging.
+Instead, I bought a proper wooden boat kit from *Vanguard Models* which I will work on once Terror itself is finished. I hoped it will be not only a good addition to this model, but also a nice palette cleanser after a long and tedious months of rigging.
 
-**To be continued...**
+I was right, [building the boat](/models/vanguard-24ft-cutter) was a very pleasant experience, and it looks orders of magnitude better than the cast metal one.
+
+![boat comparison](/images/models/vanguard-24ft-cutter/finished_04_1920.jpg)
+
+Once the new ship boat was tied into place I touched up the paint job that got a bit damaged over the years, and called the project complete.
+I opted out of building the stern water closets, at least for now.
+Neither did I add rope coils in this case - too many to make, I don't feel it is worth the effort.
+
+Just couldn't make myself work one more minute on this model.
+
+## Conclusion
+
+This model took four years to finish, with big breaks in between the active build phases. And I built few more ship models as well, all while this build was still in progress.
+Of course, I learned a lot, both from this model, and from all the others finished in those four years.
+
+I really burned out with Terror (I guess the name is well deserved, ha!), and ended up having a love-hate relationship with it.
+On one hand, it looks pretty good when finished, if I dare say so myself. And it is a decent kit as well.
+On the other hand, its rigging (too many shrouds and ratlines) was not fun to work on, and definitely was the main cause of burnout.
+
+Also, I learned so much about tall ships and building wooden models since I started the build, and improved my skills considerably, which means I can now see plenty of things that I would have done differently.
+Some I re-did at the final stages of the build, some were impossible to change on a nearly complete model, some were inherent to the kit design (like missing deck camber, characteristic to all OcCre models).
+
+It was also somewhat funny reaching the steps when that I needed to build some things, starting looking for materials just to realize that I already built them few years ago
+and the parts were simply waiting for the installation.
+
+In the end I'm very happy that I found the willpower and energy to finish this model. I'm mostly happy with the way it looks, and glad that I improved the rigging compared to kit's instructions.
+
+And I definitely learned my lesson - when I picked all other kits, I made sure the rigging is much simpler than Terror.
+
+## Gallery
+
+![finished_01](/images/models/occre-terror/finished_01_1920.jpg)
+![finished_04](/images/models/occre-terror/finished_04_1920.jpg)
+![finished_02](/images/models/occre-terror/finished_02_1920.jpg)
+![finished_05](/images/models/occre-terror/finished_05_1920.jpg)
+![finished_06](/images/models/occre-terror/finished_06_1920.jpg)
+![finished_07](/images/models/occre-terror/finished_07_1920.jpg)
+![finished_08](/images/models/occre-terror/finished_08_1920.jpg)
+![finished_09](/images/models/occre-terror/finished_09_1920.jpg)
+![finished_10](/images/models/occre-terror/finished_10_1920.jpg)
+![finished_11](/images/models/occre-terror/finished_11_1920.jpg)
+![finished_12](/images/models/occre-terror/finished_12_1920.jpg)
+![finished_14](/images/models/occre-terror/finished_14_1920.jpg)
+![finished_13](/images/models/occre-terror/finished_13_1920.jpg)
+![finished_15](/images/models/occre-terror/finished_15_1920.jpg)
+![finished_16](/images/models/occre-terror/finished_16_1920.jpg)
+![finished_03](/images/models/occre-terror/finished_03_1920.jpg)
