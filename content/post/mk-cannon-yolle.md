@@ -43,13 +43,13 @@ Following the manual I assembled the hull stringers on a special wooden piece of
 ![base](/images/models/mk-cannon-yolle/01_base_1920.jpg)
 
 Once the 'skeleton' of the hull was complete I started with planking.
-![planking WIP](/images/models/mk-cannon-yolle/02_planking_wip_1920.jpg)
+![planking work in progress](/images/models/mk-cannon-yolle/02_planking_wip_1920.jpg)
 
 It took me two evenings to complete planking even on this small (215mm length) ship.
 ![planking done](/images/models/mk-cannon-yolle/03_planking_done_1920.jpg)
 
 Then I glued all deck pieces, and at this point most of the hull works were done.
-![deck WIP](/images/models/mk-cannon-yolle/04_deck_wip_1920.jpg)
+![deck work in progress](/images/models/mk-cannon-yolle/04_deck_wip_1920.jpg)
 
 Working with PhotoEtch was the first part of a build process I already had experience with, so from now on I was much more confident. Here is the most complicated PE part - rudder. The only **new** thing here for me was making of tiny 'nails' from a metal wire, and I have to admit that it's kind of cool to nail PE parts down to the wood.
 ![rudder](/images/models/mk-cannon-yolle/05_rudder_1920.jpg)

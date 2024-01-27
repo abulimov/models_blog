@@ -18,17 +18,17 @@ It's the best plastic kit I've ever built. Also it's worth mentioning that kit p
 
 Completed assembly for engine and transmission. Looks very cool, and really fun to build. Even though most of it will be hidden in full model, it's still worth building just to understand the engineering solutions used in this influential tank.
 
-![engine WIP](/images/models/meng-ft17/00_engine_wip_1920.jpg)
+![engine](/images/models/meng-ft17/00_engine_wip_1920.jpg)
 
 Assembled workable suspension, absolutely awesome experience.
 I've read on the internet that lots of people had problems with it, or found it over-engineered, but for me it was a very fun and relatively easy build.
 
-![suspension WIP](/images/models/meng-ft17/01_suspension_wip_1920.jpg)
+![suspension](/images/models/meng-ft17/01_suspension_wip_1920.jpg)
 
 Painted interior walls with Cremmeweisse, painted chips with sponge, weathered with AK Interactive washes.
 Engine is not yet weathered on the picture, but I'm not going to spend much time on it as it will be barely visible on a finished model.
 
-![interior top WIP](/images/models/meng-ft17/03_interior_top_wip_1920.jpg)
+![interior top](/images/models/meng-ft17/03_interior_top_wip_1920.jpg)
 
 Next I started to actually assemble the tank, along with suspension. And suspension in this model turned out to be very fiddly to install,
 despite being fun to assemble. First I managed to partially attach suspension in a way that allows painting, and painted the body in tri-colour
@@ -39,7 +39,7 @@ Afterward I started painting the black lines separating all the colours, but at 
 Fast forward to 2021, I discovered the stashed unfinished model, and continued to work on it.
 Few days of work, few re-painted parts, and the tank is fully assembled, painted and ready for weathering!
 
-![assembled WIP](/images/models/meng-ft17/04_assembled_wip_1920.jpg)
+![assembled](/images/models/meng-ft17/04_assembled_wip_1920.jpg)
 
 But that was about all I could do in 2021, thanks to work and me dreading the weathering step, so the model went back to the box.
 

@@ -24,7 +24,7 @@ And there was not enough 0.75mm tread in the box, I had to order some extra just
 
 
 ## Build notes
-It's a very simple kit, so nothing really to write about, and I didn't take much WIP photos.
+It's a very simple kit, so nothing really to write about, and I didn't take much in-progress photos.
 
 
 Here you can see fully planked part of ship's hull, along with prepared parts of the gun carriage and the gun itself.
