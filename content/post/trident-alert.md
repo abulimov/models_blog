@@ -1,6 +1,6 @@
 ---
 title: "[WIP] HMS Alert, 1/48, Trident Models"
-date: 2024-01-27
+date: 2024-02-09
 slug: trident-alert
 tags: ["WIP", "WoodenKit", "1/48", "Trident Models", "Plank on Frame", "POF", 2024]
 categories: [ships]
@@ -101,12 +101,42 @@ careful and all this was done by hand.
 The complete keel assembly turned out great, and after a small rabbet line clean up and a couple of fillings
 with dark wood filler I call it done.
 
-Next step is installing the keel in a building jig, and assembling this jig is a serious task. It took me 2h
+Next step is installing the keel in a building jig, and assembling this jig is a serious task. It took me at least 3 hours
 to build it, with big chunk of time spent on sanding all the joints ever so slightly, otherwise the fit was too tight. I sanded the parts where keel
-touched the jig, and then brushed a coat of acrylic varnish to make sure there will be no char marks on the keel.
+touches the jig, and then brushed a coat of acrylic varnish to make sure there will be no char marks on the keel.
+Same varnish was applied where frames will sit in the cradle.
 
 ![wip_07](/images/models/trident-alert/wip_07_1920.jpg)
 
 ![wip_08](/images/models/trident-alert/wip_08_1920.jpg)
+
+After assembling the cradle and the keel, I can say that **the engineering of this kit makes me very happy**.
+As an engineer myself I definitely dig the design and all the thought that went into it.
+
+Like how with cant frames (those at the bow of ship) the kit provides sticker templates that help with shaping the frames.
+As a result I prepared and installed two foremost frames in just one hour, without any stress, just pleasant careful woodworking. Simply awesome, and cradle makes sure they are properly positioned.
+
+![wip_09](/images/models/trident-alert/wip_09_1920.jpg)
+
+Although I have to say that those foremost cant frames are a tricky thing.
+It took some serious effort to install the rest of them (especially number 3), and plenty of tinkering and tweaking the shapes, so it all sits properly.
+I'm almost happy with the fit, just couple of frames (damn frame number 3!) has noticeable gap between its foot and the keel, mostly because wood on those two pieces crumbled when I tried to shape the sharp point.
+
+Thankfully I learned to accept my mistakes and imperfections and move on. I'll add some filler or a plug at the finishing stage, so it becomes practically invisible.
+
+Surprisingly frames 5+ are a joy to install, very easy to shape with the provided templates, and equally easy to install into the deadwood with some trivial adjustments necessary.
+
+Frames 7+ are where the fun begins in earnest, as they are the first compound frames, each built from three pieces.
+
+Thankfully the excellent design of this kit made building them as easy as possible.
+
+Not only the kit provides the shaping templates, but also the laser-cut jigs to perfectly and effortlessly build those compound frames.
+
+Just a little plastic food wrap for the isolation layer, and first two pairs of multi-part cant frames are assembled.
+
+You may notice that one of the frame 7 is a bit out of shape - this is the first error in the kit that I've encountered, where one of the two 7-1 parts was weirdly cut. As far as I can tell, after the final shaping it doesn't look too bad, so I will not re-do it.
+
+![wip_10](/images/models/trident-alert/wip_10_1920.jpg)
+
 
 **To be continued...**
