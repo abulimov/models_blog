@@ -1,10 +1,10 @@
 ---
 title: "[WIP] HMS Flirt, 1/64, Vanguard Models"
-date: 2024-01-16
+date: 2024-02-09
 slug: vanguard-flirt
 tags: ["WIP", "WoodenKit", "1/64", "Vanguard Models", 2023, 2024]
 categories: [ships]
-feature_image: /images/models/vanguard-flirt/wip_08_1920.jpg
+feature_image: /images/models/vanguard-flirt/wip_09_1920.jpg
 ---
 
 This model attracted me because of graceful, beautiful lines, and my desire to try a recent model by famous **Chris Watton**.
@@ -111,5 +111,45 @@ Glued in the stempost piece, decent fit, although I expected better. Even before
 Left the glue to dry overnight as per instructions, glued in the rest of the keel next day, and fully painted the bulwarks. I love using the *Admiralty Models* paint, it is pretty much perfect for the brush application on wood.
 
 ![wip_08](/images/models/vanguard-flirt/wip_08_1920.jpg)
+
+
+Made a rudder with the tiller handle, interesting how the pintles are designed as a separate PE part, first time I'm seeing something like this.
+
+Masked the hull to paint the wales, used Tamiya tape as always. Did the same for the hull at the waterline.
+Both black and white paint are acrylics, and this time I didn't bother with the airbrush - just took a big brush and painted the hull white in several coats.
+
+Took longer, but I had few reasons to do it like this:
+* First, my 'paint' (which is actually an *AK Interactive* White Primer) is old, and last time I tried to use it with the airbrush it clogged a lot, and cleaning the airbrush was really hard and miserable.
+* Second, my whole mindset when working on the wooden models is to focus on doing the actual woodworking. Hand tools, absolute minimum of painting. If I can avoid disrupting this state of mind - I will, and using airbrush with all the noise and extra prep/cleanup definitely feels quite invasive to me.
+So doing multiple passes with the brush is much better for me, and it's quite meditative for me - double win.
+* And lastly, I try to do good job with my hull planking, which means I don't want to hide it with filler/paint. I don't get the smooth finish on the wooden models when they depict an actual wooden hull. My planking is decent, no wedges, nice curved and edge bent planks - I want it to be somewhat visible under the paint.
+
+Next step was adding some bow and stern decorations, very easy and pleasant. Did some touch-ups in wales, and now it is time for the capping rails.
+
+![wip_09](/images/models/vanguard-flirt/wip_09_1920.jpg)
+
+Installing them was a bit tricky, at least in my case. Maybe I messed up a bit with the hull shape, but I definitely had to edge bend the pre-cut rails to fit.
+It turned out decent, although a bit of trimming/sanding of the top planks was required to have decent and even overhand.
+
+Here is the most problematic part of the hull before the adjustment.
+
+![wip_10](/images/models/vanguard-flirt/wip_10_1920.jpg)
+
+And here is the same part after I scraped and sanded the planks beneath the cap rail so allow reasonable overhang.
+
+![wip_11](/images/models/vanguard-flirt/wip_11_1920.jpg)
+
+By the way I really liked the method to install the rails described in the instructions - using brass pins to ensure proper fit and alignment, it worked very well and allowed me to use PVA.
+
+I also pre-painted top plank in blue, because about half of the planks above the wales would be painted this colour, and this way I can avoid delicate painting around the capping rails.
+
+After installing the cap rail, I started marking the border for the blue paint using the decoration pieces.
+Then I realised that I will be much easier to scrape the excess rather than add missing paint, so painted a bit more so that I definitely don't have unpainted surface above the decorations. 
+The decorations themselves were painted black while spread on a piece of masking tape.
+Gluing them in place proved to be rather laborious, as they are quite flexible and thus can easily get twisted or bent, so the alignment needed close attention.
+
+All in all I think that pre-painting the planks blue was unnecessary.
+The act of gluing the decorative pieces inevitably leaves glue residue.
+I used PVA, and even with careful cleanup some traces still affected the paint. I can imagine it would have been even worse with CA. Which of course meant adding another coat of blue paint, and related paint touch ups of black paint. If I had skipped the pre-painting step, I would avoid scraping the extra blue paint below the decorative pieces.
 
 **To be continued...**
