@@ -1,10 +1,10 @@
 ---
 title: "[WIP] HMS Flirt, 1/64, Vanguard Models"
-date: 2024-02-09
+date: 2024-03-02
 slug: vanguard-flirt
 tags: ["WIP", "WoodenKit", "1/64", "Vanguard Models", 2023, 2024]
 categories: [ships]
-feature_image: /images/models/vanguard-flirt/wip_09_1920.jpg
+feature_image: /images/models/vanguard-flirt/wip_12_1920.jpg
 ---
 
 This model attracted me because of graceful, beautiful lines, and my desire to try a recent model by famous **Chris Watton**.
@@ -20,9 +20,7 @@ There is nothing remarkable about ship herself. She was built in 1782 and had a 
 
 The design seems quite good so far, but the plank quality was all over the place, and there was barely enough of them.
 
-
 ## Build notes
-
 
 Built all the bulkheads and false keel in just one day, including lower deck and false deck installation.
 
@@ -71,9 +69,9 @@ Second layer is made from pear, which is a very pleasant wood to work with.
 
 I'm a rather disappointed with the plank quality in the kit. While all the planks have equal width, thinness varies, and plenty of planks have imperfections like dents or saw marks.
 
-Still it is a nice wood, and quite pliable as well, which allowed me to continue spiling the planks free-hand so to speak, without using specialised jigs or soaking planks in hot water. I did the usual calculations for the spiling (what width should the plank be at which bulkhead), but based on my experience with the first planking layer I went with 'natural flow' approach. First layer went so well and the hull shape is really easy to plank that the natural planking looks, well, more natural!
+Still it is a nice wood, and quite pliable as well, which allowed me to continue spiling the planks free-hand so to speak, without using specialized jigs or soaking planks in hot water. I did the usual calculations for the spiling (what width should the plank be at which bulkhead), but based on my experience with the first planking layer I went with 'natural flow' approach. First layer went so well and the hull shape is really easy to plank that the natural planking looks, well, more natural!
 
-Second planing went quite well. 'Natural' method worked remarkably well, the bow looks pretty good. First time used stealer planks for the stern (I simply used wedges before as this area is painted anyway)  simply because I wanted to try it. Doesn't look half bad, and wasn't much harder to make than wedges.
+Second planing went quite well. 'Natural' method worked remarkably well, the bow looks pretty good. First time used stealer planks for the stern (I simply used wedges before as this area is painted anyway) simply because I wanted to try it. Doesn't look half bad, and wasn't much harder to make than wedges.
 
 Very happy that this messy, lengthy, tricky process is over. It is too easy to mess up, and it just takes so long, plus I am tired of having my fingers covered with CA glue. And in general I much prefer PVA, but with it the planking would have taken forever.
 
@@ -144,12 +142,33 @@ By the way I really liked the method to install the rails described in the instr
 I also pre-painted top plank in blue, because about half of the planks above the wales would be painted this colour, and this way I can avoid delicate painting around the capping rails.
 
 After installing the cap rail, I started marking the border for the blue paint using the decoration pieces.
-Then I realised that I will be much easier to scrape the excess rather than add missing paint, so painted a bit more so that I definitely don't have unpainted surface above the decorations. 
+Then I realized that I will be much easier to scrape the excess rather than add missing paint, so painted a bit more so that I definitely don't have unpainted surface above the decorations. 
 The decorations themselves were painted black while spread on a piece of masking tape.
 Gluing them in place proved to be rather laborious, as they are quite flexible and thus can easily get twisted or bent, so the alignment needed close attention.
 
 All in all I think that pre-painting the planks blue was unnecessary.
 The act of gluing the decorative pieces inevitably leaves glue residue.
-I used PVA, and even with careful cleanup some traces still affected the paint. I can imagine it would have been even worse with CA. Which of course meant adding another coat of blue paint, and related paint touch ups of black paint. If I had skipped the pre-painting step, I would avoid scraping the extra blue paint below the decorative pieces.
+I used PVA, and even with careful clean up some traces still affected the paint. I can imagine it would have been even worse with CA. Which of course meant adding another coat of blue paint, and related paint touch ups of black paint. If I had skipped the pre-painting step, I would avoid scraping the extra blue paint below the decorative pieces.
+
+Similar impression left adding the decoration pieces, which you first paint yellow ochre, then glue to the hull.
+Nice in theory, but in practice with glue residue and paint scratches there is significant amount of touch ups required.
+I think it would have been better to just glue them, mask around with tape and paint in-place.
+
+But now with cap rail painted and decorations added the ship looks quite nice and clean.
+
+![wip_13](/images/models/vanguard-flirt/wip_13_1920.jpg)
+
+I have installed the catheads, which was rather easy.
+I'm disappointed because the instructions do not call for imitating the sheaves there, which is quite puzzling as any other kit I built had them.
+Of course, I still drilled the holes and cut the groves to imitate the sheaves, just puzzled as to why is this detail omitted in such highly detailed kit.
+Especially given that catheads have PE cleats and amazing PE crowns that look fantastic.
+
+Adding the bow decorations was also easy, although I stepped away from the instructions again.
+The way it is proposed to add the wooden side pieces makes little sense - there is almost no contact between them and the hull,
+and adding a cathead knee *on top* of that is just ridiculous (and it looks silly in the instructions photo).
+Instead, I cut out pieces of existing black wood side decorations, so that the new curved pieces can be properly glued below the cathead, laying flat.
+This way not only it looks more logical, but also the knee has something to rest on.
+
+![wip_12](/images/models/vanguard-flirt/wip_12_1920.jpg)
 
 **To be continued...**
