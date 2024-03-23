@@ -1,10 +1,10 @@
 ---
 title: "[WIP] HMS Alert, 1/48, Trident Models"
-date: 2024-02-09
+date: 2024-03-23
 slug: trident-alert
 tags: ["WIP", "WoodenKit", "1/48", "Trident Models", "Plank on Frame", "POF", 2024]
 categories: [ships]
-feature_image: /images/models/trident-alert/wip_04_1920.jpg
+feature_image: /images/models/trident-alert/wip_11_1920.jpg
 ---
 
 Since I started building wooden kits, I looked at the Plank-on-Frame models with great awe.
@@ -132,11 +132,41 @@ Thankfully the excellent design of this kit made building them as easy as possib
 
 Not only the kit provides the shaping templates, but also the laser-cut jigs to perfectly and effortlessly build those compound frames.
 
-Just a little plastic food wrap for the isolation layer, and first two pairs of multi-part cant frames are assembled.
+Just a little plastic food wrap for the isolation layer, and first two pairs of multipart cant frames are assembled.
 
-You may notice that one of the frame 7 is a bit out of shape - this is the first error in the kit that I've encountered, where one of the two 7-1 parts was weirdly cut. As far as I can tell, after the final shaping it doesn't look too bad, so I will not re-do it.
+You may notice that one of the frame 7 is a bit out of shape - this is the first error in the kit that I've encountered,
+where one of the two 7-1 parts was weirdly cut. As far as I can tell, after the final shaping it doesn't look too bad, so I didn't plan to re-do it.
 
 ![wip_10](/images/models/trident-alert/wip_10_1920.jpg)
 
+Little did I know! Few days later I was shaping the second frame 7, the one for port side, and didn't notice that I applied the templates incorrectly.
+As a result, I ended up with two starboard side frames number 7, and to make the best of this situation I replaced the slightly misshapen one with the second I erroneously made.
+
+The correct port side frame had to be built from scratch, using the shaping templates and wood from the side of the plates containing the CNC cut frames.
+Nothing too complicated - a bit of coping saw action and whittling plus sanding.
+Quite proud with myself, the result looks indistinguishable from the original one, and given that I only used hand tools it is pretty neat
+
+Would be better if it was required because of my silly mistake, but at least I was able to fix it myself.
+
+From my observations it takes about 2 hours to find parts for, prepare and glue 4 pairs of cant frames.
+I don't know if laser cut frames would take longer, but at least I don't need to sand anything, so CNC cut parts seem preferable.
+
+Shaping and glueing in one cant frame takes another 20 minutes, so the set of 4 pairs will take about 3 hours to shape and install.
+Combining those numbers shows that just the 16 pairs of cant frames in the bow of the ship took me about 20 hours to install, which is quite impressive
+given that typically a medium-sized model like [HMS Flirt](/models/vanguard-flirt) takes around 100 hours to complete, including rigging.
+
+But after initial struggles, I found the process of building the Plank-on-Frame model very calming and soothing.
+Making small progress in roughly one hour is perfect for how I approach model building, and with each frame being unique it doesn't become boring like ratlines for example.
+
+Here is the bow of the ship complete with all cant frames in place. It will receive some light sanding once all frames are installed,
+but even now it looks quite 'fair' thanks to the provided templates. Excellent engineering from **Trident Models**.
+
+![wip_11](/images/models/trident-alert/wip_11_1920.jpg)
+![wip_12](/images/models/trident-alert/wip_12_1920.jpg)
+
+You may notice that I decided to add imitation of bolts to the frame chocks. Used 0.4 mm brass wire, and 0.3 mm drill.
+As it proved to be impossible to properly align exit holes, I decided to drill both sides individually half way, to simply imitate the through bolts.
+Very happy with the resulting look, after sanding it looks spectacular.
+Working on the bolts finally got me to use Stanley desk mount vice and Archimedes drill which I had for years but hardly used.
 
 **To be continued...**
