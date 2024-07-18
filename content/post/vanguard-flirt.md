@@ -1,10 +1,10 @@
 ---
 title: "[WIP] HMS Flirt, 1/64, Vanguard Models"
-date: 2024-03-02
+date: 2024-07-18
 slug: vanguard-flirt
 tags: ["WIP", "WoodenKit", "1/64", "Vanguard Models", 2023, 2024]
 categories: [ships]
-feature_image: /images/models/vanguard-flirt/wip_12_1920.jpg
+feature_image: /images/models/vanguard-flirt/wip_15_1920.jpg
 ---
 
 This model attracted me because of graceful, beautiful lines, and my desire to try a recent model by famous **Chris Watton**.
@@ -170,5 +170,48 @@ Instead, I cut out pieces of existing black wood side decorations, so that the n
 This way not only it looks more logical, but also the knee has something to rest on.
 
 ![wip_12](/images/models/vanguard-flirt/wip_12_1920.jpg)
+
+Adding steps and depth marks was easy, simply marked the exact spots (determined with the ruler) with the pencil, and carefully glued things.
+
+Varnished the painted part of the hull with Humbrol Matt Cote, my favourite varnish ever.
+Smells horribly, but leaves awesome hard matte finish and really protects the paint.
+
+I painted the depth marks copper (True Metal, wax based paint that looks great when polished with a cotton bud).
+
+I also re-painted the rudder pintles and gudgeons black instead of white that instructions called for.
+With this I took some artistic licence, but after looking at my Lady Nelson model where I did the same I realized that it adds such a nice accent on a white hull underside that I couldn't resist doing the same here.
+
+Next thing I did was installing the belaying pin rails, which was an easy job, and preparing all the photo etch.
+As it requires blackening, which is a somewhat messy procedure involving poisonous stuff, I prefer to do all parts at once.
+So I removed all the parts (which is a lot), cleaned them, and blackened using Brass Black.
+Preparation took 3 days, quite mind-numbing if I'm being honest, but now it's done, and I can proceed with the other deck furniture and fixtures.
+
+Adding the ring bolts was easy once all is blackened, drilling holes is trivial, and having a full ship plans in the same scale as the model is just delightful as it is so easy to check where anything is.
+So much better than modern step-by-step video instructions which can leave you guessing the exact position of the part!
+
+Similarly installing the chains was easy, all marked on the plans and the chain boards are nicely laser cut.
+
+Now it was time for the deck furniture, capstans and hatches. And here the kit absolutely shines.
+
+The capstan is a delightfully designed, very cool sub-assembly and looks awesome.
+Hatches and grates are laser-cut, no way to make mistakes, very easy assembly.
+All the bitts and stuff are laser cut as well, and are a joy to put together.
+
+Very happy with this stage of the build!
+
+![wip_14](/images/models/vanguard-flirt/wip_16_1920.jpg)
+
+Once all the deck furniture was in place I could finally apply the Danish oil on the deck and sides of the hull.
+
+I love the finish and protection oil gives, the only problem is that you can't properly use glue with the oiled wood, so it can only be applied after the assembly is done, or it would need to be scraped off at the glue joint.
+
+Of course oiled pear looks amazing, very happy with how the hull turned out.
+
+The one-piece laser cut deck on the other hand looks too uniform to me, I actually prefer when the deck is made from the individual planks.
+It is much more work to produce, but the slight colour variation between each plank makes a big difference in my eyes.
+
+![wip_15](/images/models/vanguard-flirt/wip_15_1920.jpg)
+
+![wip_14](/images/models/vanguard-flirt/wip_14_1920.jpg)
 
 **To be continued...**
