@@ -4,7 +4,7 @@ date: 2024-01-15
 slug: 2023-year-in-review
 tags: [year-in-review, 2023]
 categories: [year-in-review]
-#feature_image: /images/2021.png
+feature_image: /images/2023.png
 ---
 
 Continuing the [series of retrospectives](/tags/year-in-review/), let's take a look at year 2023.
@@ -16,6 +16,8 @@ But it's the model that count, not the total number.
 
 ## [HMS Terror](/models/occre-terror)
 
+![HMS Terror](/images/models/occre-terror/finished_03_1920.jpg)
+
 I'm delighted that the dreaded HMS Terror is finally finished!
 It was always bothering me that the model is not yet complete after all the years, and mentally blocked me from working on other big protects, like [HMS Flirt](/models/vanguard-flirt).
 
@@ -23,9 +25,14 @@ Now that it's done and put safely under the display case, I'm happily working on
 
 ## [24ft cutter](/models/vanguard-24ft-cutter)
 
+![Cutter](/images/models/vanguard-24ft-cutter/finished_03_1920.jpg)
+
 A very pleasant palate cleanser that gave me a quick win, improved the look of HMS Terror and restored my sanity after all the mind-numbing rigging.
 
 ## [HMS Flirt](/models/vanguard-flirt)
+
+![HMS Flirt](/images/models/vanguard-flirt/wip_06_1920.jpg)
+
 Started this one in November, quite happy with the progress made this year. In just two months I was done with the planking, and for the modern kits like this one it is what takes most of the time, simply because the rest is laser-cut.
 
 But most importantly it is great to finally be able to work on this model that I had in stash for years, and which was blocked by the never ending HMS Terror slog.
