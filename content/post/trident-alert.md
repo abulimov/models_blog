@@ -1,10 +1,10 @@
 ---
 title: "[WIP] HMS Alert, 1/48, Trident Models"
-date: 2024-03-23
+date: 2025-05-25
 slug: trident-alert
-tags: ["WIP", "WoodenKit", "1/48", "Trident Models", "Plank on Frame", "POF", 2024]
+tags: ["WIP", "WoodenKit", "1/48", "Trident Models", "Plank on Frame", "POF", 2024, 2025]
 categories: [ships]
-feature_image: /images/models/trident-alert/wip_11_1920.jpg
+feature_image: /images/models/trident-alert/wip_13_1920.jpg
 ---
 
 Since I started building wooden kits, I looked at the Plank-on-Frame models with great awe.
@@ -54,6 +54,9 @@ I didn't clear the sawdust, it would have taken another hour.
 
 I'm frankly intimidated by the complexity of this relatively small Plank-on-Frame kit.
 
+
+### Keel
+
 Started with the keel assembly, as per instructions.
 It consists of around 20 parts, as on the real ship. Can't get much cooler than that!
 It was daunting for sure, but very exciting and satisfying differently from the [HMS Flirt](/models/vanguard-flirt/) which I'm building in parallel.
@@ -101,6 +104,9 @@ careful and all this was done by hand.
 The complete keel assembly turned out great, and after a small rabbet line clean up and a couple of fillings
 with dark wood filler I call it done.
 
+
+### Jig
+
 Next step is installing the keel in a building jig, and assembling this jig is a serious task. It took me at least 3 hours
 to build it, with big chunk of time spent on sanding all the joints ever so slightly, otherwise the fit was too tight. I sanded the parts where keel
 touches the jig, and then brushed a coat of acrylic varnish to make sure there will be no char marks on the keel.
@@ -109,6 +115,9 @@ Same varnish was applied where frames will sit in the cradle.
 ![wip_07](/images/models/trident-alert/wip_07_1920.jpg)
 
 ![wip_08](/images/models/trident-alert/wip_08_1920.jpg)
+
+
+### Bow cant frames
 
 After assembling the cradle and the keel, I can say that **the engineering of this kit makes me very happy**.
 As an engineer myself I definitely dig the design and all the thought that went into it.
@@ -168,5 +177,44 @@ You may notice that I decided to add imitation of bolts to the frame chocks. Use
 As it proved to be impossible to properly align exit holes, I decided to drill both sides individually half way, to simply imitate the through bolts.
 Very happy with the resulting look, after sanding it looks spectacular.
 Working on the bolts finally got me to use Stanley desk mount vice and Archimedes drill which I had for years but hardly used.
+
+
+### Aft cant frames and transom
+
+Installing the first stern cant frame was quite exciting - it needed to fit both frame supports and wing transom at precise locations, tricky stuff.
+The more exciting it made the process, and the result looks fantastic.
+
+Adding another transom with side supports was even more challenging.
+
+It took good couple of hours to shape and install those three parts, and side supports are actually laminated to get the required thickness.
+
+Thankfully the kit provides sticker templates to shape them, as they are quite tricky to manufacture.
+
+Still managed to complete this part to a satisfactory level, with little finishing sanding required.
+
+Overall working on the stern details was as much fun and challenge as I imagined.
+Definitely a great experience, and another reminder of how fragile the stern assembly was on a real ship compared to the rest of the hull.
+
+When working on the other cant frames, I managed to ruin yet another part by absent-mindedly cutting off the important piece while removing one of the stubs.
+Had to make a replacement from scratch, which was not hard but took awhile.
+
+In general, the work continues slowly but steadily.
+
+As I've said before, shaping and glueing in one pair of cant frames takes up to one hour,
+and that's on top of actually finding, cleaning and gluing the frame parts together.
+
+Eventually I've got to the point when all the cant frames, both bow and stern, are now manufactured, fared and glued in place.
+
+The stern looks pretty good to me, and all together the aft cant frames installation went rather well, nothing particularly tricky, which is good. 
+
+![wip_13](/images/models/trident-alert/wip_13_1920.jpg)
+
+
+### Full frames
+
+Gluing up the full frames turned out to be not that different from the cant frames.
+It's just a touch more difficult since I'm dealing with the bigger pieces, and the glue-up itself takes two steps.
+
+![wip_14](/images/models/trident-alert/wip_14_1920.jpg)
 
 **To be continued...**

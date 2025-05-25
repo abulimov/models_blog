@@ -17,6 +17,7 @@ Contacta
 Surfacer
 rattlecan
 cathead
+catheads
 Falkonet
 Sovremenny
 Modelworks
@@ -44,8 +45,11 @@ Petersson
 deadeyes
 spile
 gunport
+gunports
 spiling
 stempost
 shitshow
 RNLI
 Laoghaire
+spiled
+Refuellers
