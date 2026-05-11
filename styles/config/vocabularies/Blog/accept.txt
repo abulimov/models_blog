@@ -56,3 +56,6 @@ Refuellers
 Eilis
 Petroni
 Dossena
+Snowrunner
+KrAZ
+Tayga
