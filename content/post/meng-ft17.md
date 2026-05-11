@@ -3,7 +3,7 @@ title: "FT-17, 1/35, Meng"
 date: 2023-04-26
 slug: meng-ft17
 tags: [1/35, Meng, 2018, 2021, 2022]
-feature_image: /images/models/meng-ft17/finished_01_1920.jpg
+feature_image: /images/models/meng-ft17/finished_01_1920.webp
 categories: [Vehicles]
 ---
 
@@ -18,17 +18,17 @@ It's the best plastic kit I've ever built. Also it's worth mentioning that kit p
 
 Completed assembly for engine and transmission. Looks very cool, and really fun to build. Even though most of it will be hidden in full model, it's still worth building just to understand the engineering solutions used in this influential tank.
 
-![engine](/images/models/meng-ft17/00_engine_wip_1920.jpg)
+![engine](/images/models/meng-ft17/00_engine_wip_1920.webp)
 
 Assembled workable suspension, absolutely awesome experience.
 I've read on the internet that lots of people had problems with it, or found it over-engineered, but for me it was a very fun and relatively easy build.
 
-![suspension](/images/models/meng-ft17/01_suspension_wip_1920.jpg)
+![suspension](/images/models/meng-ft17/01_suspension_wip_1920.webp)
 
 Painted interior walls with Cremmeweisse, painted chips with sponge, weathered with AK Interactive washes.
 Engine is not yet weathered on the picture, but I'm not going to spend much time on it as it will be barely visible on a finished model.
 
-![interior top](/images/models/meng-ft17/03_interior_top_wip_1920.jpg)
+![interior top](/images/models/meng-ft17/03_interior_top_wip_1920.webp)
 
 Next I started to actually assemble the tank, along with suspension. And suspension in this model turned out to be very fiddly to install,
 despite being fun to assemble. First I managed to partially attach suspension in a way that allows painting, and painted the body in tri-colour
@@ -39,7 +39,7 @@ Afterward I started painting the black lines separating all the colours, but at 
 Fast forward to 2021, I discovered the stashed unfinished model, and continued to work on it.
 Few days of work, few re-painted parts, and the tank is fully assembled, painted and ready for weathering!
 
-![assembled](/images/models/meng-ft17/04_assembled_wip_1920.jpg)
+![assembled](/images/models/meng-ft17/04_assembled_wip_1920.webp)
 
 But that was about all I could do in 2021, thanks to work and me dreading the weathering step, so the model went back to the box.
 
@@ -70,8 +70,8 @@ And most importantly, even after all the setbacks, year-long pauses and fear of 
 
 ## Gallery
 
-![finished_04](/images/models/meng-ft17/finished_04_1920.jpg)
-![finished_01](/images/models/meng-ft17/finished_01_1920.jpg)
-![finished_02](/images/models/meng-ft17/finished_02_1920.jpg)
-![finished_03](/images/models/meng-ft17/finished_03_1920.jpg)
-![finished_05](/images/models/meng-ft17/finished_05_1920.jpg)
+![finished_04](/images/models/meng-ft17/finished_04_1920.webp)
+![finished_01](/images/models/meng-ft17/finished_01_1920.webp)
+![finished_02](/images/models/meng-ft17/finished_02_1920.webp)
+![finished_03](/images/models/meng-ft17/finished_03_1920.webp)
+![finished_05](/images/models/meng-ft17/finished_05_1920.webp)

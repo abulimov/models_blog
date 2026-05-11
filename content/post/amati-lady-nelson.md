@@ -4,7 +4,7 @@ date: 2021-08-22
 slug: amati-lady-nelson
 tags: ["WoodenKit", "1/64", "Amati", "Victory Models", 2021]
 categories: [ships]
-feature_image: /images/models/amati-lady-nelson/finished_04_1920.jpg
+feature_image: /images/models/amati-lady-nelson/finished_04_1920.webp
 ---
 
 I wanted to build a cutter since I first saw someone else build in the [modelshipworld.com](https://modelshipworld.com/) gallery.
@@ -36,28 +36,28 @@ All and all, despite few shortcomings, the kit is very well designed, has adequa
 This is my [9th wooden model](/tags/woodenkit/), and a relatively simple subject, which combined with very good design of this kit lead to a smooth and very enjoyable build.
 
 Here you can see first planking layer finished, with walnut planks being sorted by colour for the second planking.
-![wip_01](/images/models/amati-lady-nelson/wip_01_1920.jpg)
+![wip_01](/images/models/amati-lady-nelson/wip_01_1920.webp)
 
 Second planing complete. I deliberately used darkest planks for the bottom of the ship, as everything below the waterline will be painted anyway.
-![wip_03](/images/models/amati-lady-nelson/wip_03_1920.jpg)
+![wip_03](/images/models/amati-lady-nelson/wip_03_1920.webp)
 
 Deck planked, I used somewhat arbitrary 3-plank pattern based on books on sailing ships I read, as the plans for such beginners kit doesn't provide any pattern at all.
-![wip_07](/images/models/amati-lady-nelson/wip_07_1920.jpg)
+![wip_07](/images/models/amati-lady-nelson/wip_07_1920.webp)
 
 Added hinges to the deck furniture, made from black artist cardboard.
-![wip_08](/images/models/amati-lady-nelson/wip_08_1920.jpg)
+![wip_08](/images/models/amati-lady-nelson/wip_08_1920.webp)
 
 And here is the biggest mistake I made during the build - was building after hard day at work and installed chains in the wrong position.
 
-![wip_09](/images/models/amati-lady-nelson/wip_09_1920.jpg)
+![wip_09](/images/models/amati-lady-nelson/wip_09_1920.webp)
 
 Had to re-do it next day when I realized how stupid I was, filling and sanding and staining the holes took quite some effort.
 Here is the corrected version, where chains are attached to the whales.
-![wip_10](/images/models/amati-lady-nelson/wip_10_1920.jpg)
+![wip_10](/images/models/amati-lady-nelson/wip_10_1920.webp)
 
 Here all the gun carriages are already rigged. As you may notice, catheads are gone. They are made from very fragile walnut sheet,
 and I kept breaking them while working on the ship. After glueing them third time and breaking again, I decided to leave them for the final step of the build.
-![wip_11](/images/models/amati-lady-nelson/wip_11_1920.jpg)
+![wip_11](/images/models/amati-lady-nelson/wip_11_1920.webp)
 
 Rigging was done with provided blocks and Amati thread. I switched to the black Amati thread I already had whenever plans suggested staining provided beige thread just to save time.
 
@@ -76,16 +76,16 @@ Overall, pretty good and inexpensive beginner's kit that depicts a stunningly be
 
 ## Gallery
 
-![finished_01](/images/models/amati-lady-nelson/finished_01_1920.jpg)
-![finished_02](/images/models/amati-lady-nelson/finished_02_1920.jpg)
-![finished_04](/images/models/amati-lady-nelson/finished_04_1920.jpg)
-![finished_05](/images/models/amati-lady-nelson/finished_05_1920.jpg)
-![finished_06](/images/models/amati-lady-nelson/finished_06_1920.jpg)
-![finished_07](/images/models/amati-lady-nelson/finished_07_1920.jpg)
-![finished_08](/images/models/amati-lady-nelson/finished_08_1920.jpg)
-![finished_09](/images/models/amati-lady-nelson/finished_09_1920.jpg)
-![finished_10](/images/models/amati-lady-nelson/finished_10_1920.jpg)
-![finished_11](/images/models/amati-lady-nelson/finished_11_1920.jpg)
-![finished_12](/images/models/amati-lady-nelson/finished_12_1920.jpg)
-![finished_13](/images/models/amati-lady-nelson/finished_13_1920.jpg)
-![finished_03](/images/models/amati-lady-nelson/finished_03_1920.jpg)
+![finished_01](/images/models/amati-lady-nelson/finished_01_1920.webp)
+![finished_02](/images/models/amati-lady-nelson/finished_02_1920.webp)
+![finished_04](/images/models/amati-lady-nelson/finished_04_1920.webp)
+![finished_05](/images/models/amati-lady-nelson/finished_05_1920.webp)
+![finished_06](/images/models/amati-lady-nelson/finished_06_1920.webp)
+![finished_07](/images/models/amati-lady-nelson/finished_07_1920.webp)
+![finished_08](/images/models/amati-lady-nelson/finished_08_1920.webp)
+![finished_09](/images/models/amati-lady-nelson/finished_09_1920.webp)
+![finished_10](/images/models/amati-lady-nelson/finished_10_1920.webp)
+![finished_11](/images/models/amati-lady-nelson/finished_11_1920.webp)
+![finished_12](/images/models/amati-lady-nelson/finished_12_1920.webp)
+![finished_13](/images/models/amati-lady-nelson/finished_13_1920.webp)
+![finished_03](/images/models/amati-lady-nelson/finished_03_1920.webp)

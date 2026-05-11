@@ -4,7 +4,7 @@ date: 2020-12-11
 slug: al-whaleboat
 tags: ["WoodenKit", "1/25", "Artesania Latina", 2020]
 categories: [ships]
-feature_image: /images/models/al-whaleboat/finished_02_1920.jpg
+feature_image: /images/models/al-whaleboat/finished_02_1920.webp
 ---
 
 With this small and simple kit I wanted to get a break from rigging [HMS Terror I've been building for over a year now](/models/occre-terror/).
@@ -35,20 +35,20 @@ Here you can see bow and stern reinforcement plates being mistakenly glued
 lower than they should be, because instructions give misleading information on
 doing this. I had to remove them and glue flush to the top of main keel piece.
 
-![wip_01](/images/models/al-whaleboat/wip_01_1920.jpg)
+![wip_01](/images/models/al-whaleboat/wip_01_1920.webp)
 
 Next thing that really surprised me was the amount of material that needs to be
 sanded off the keel prior to planking (about 1cm). It's a very strange design
 decision, and instructions don't really explain it, you have to figure it out
 from pictures.
 
-![wip_03](/images/models/al-whaleboat/wip_03_1920.jpg)
+![wip_03](/images/models/al-whaleboat/wip_03_1920.webp)
 
 Planking (arguably the most important step when building a clinker-built boat)
 is barely explained, luckily this being my fifth model I had no issues with it.
 Calculated and marked all plank sizes, glued with thick CA glue.
 
-![wip_04](/images/models/al-whaleboat/wip_04_1920.jpg)
+![wip_04](/images/models/al-whaleboat/wip_04_1920.webp)
 
 Reasonably happy with the result, didn't bother much with getting it perfect
 because all of it will be pained white as per instructions.
@@ -57,8 +57,8 @@ On next photo you can spot a strange horizontal plank on the bow bulkhead. It's
 made from 0.6mm scrap piece from HMS Terror build and is covering the ugly end
 of the plywood keel that would be otherwise visible on a finished model.
 
-![wip_05](/images/models/al-whaleboat/wip_05_1920.jpg)
-![wip_06](/images/models/al-whaleboat/wip_06_1920.jpg)
+![wip_05](/images/models/al-whaleboat/wip_05_1920.webp)
+![wip_06](/images/models/al-whaleboat/wip_06_1920.webp)
 
 Installed the benches, and this step really showed the problems with the kit.
 You see, with all those elements (bulkheads, benches) being laser-cut, one
@@ -73,7 +73,7 @@ Especially given how easy is to adjust source files for laser cutting (it's not
 like it's ejection molding and you have to make new forms), there is no excuse
 for such quality issues.
 
-![wip_07](/images/models/al-whaleboat/wip_07_1920.jpg)
+![wip_07](/images/models/al-whaleboat/wip_07_1920.webp)
 
 On a positive side, I loved the use of cherry for the benches and other
 details, beautiful colour. Although the wood quality for cherry parts is all
@@ -84,12 +84,12 @@ As usual with paint job, it's one hour of masking followed by 5 minutes of airbr
 Painted with Tamiya Flat Red, finished with Danish oil.
 Quite happy with the crisp lines.
 
-![wip_08](/images/models/al-whaleboat/wip_08_1920.jpg)
-![wip_09](/images/models/al-whaleboat/wip_09_1920.jpg)
+![wip_08](/images/models/al-whaleboat/wip_08_1920.webp)
+![wip_09](/images/models/al-whaleboat/wip_09_1920.webp)
 
 The instructions suggested some ridiculously simplified scheme of attaching rudder, so I had to scratch build some better version with brass strip and nails I had left from previous builds.
 
-![wip_10](/images/models/al-whaleboat/wip_10_1920.jpg)
+![wip_10](/images/models/al-whaleboat/wip_10_1920.webp)
 
 I contemplated few options to display the model - with or without the sails, or even scratch building section of a ship’s hull with davits. Ultimately because the model is so simplistic and provided sails being of average quality I settled on displaying the boat with sail furled around the mast.
 
@@ -104,10 +104,10 @@ provide much room for improvements.
 
 ## Gallery
 
-![finished_05](/images/models/al-whaleboat/finished_05_1920.jpg)
-![finished_03](/images/models/al-whaleboat/finished_03_1920.jpg)
-![finished_07](/images/models/al-whaleboat/finished_07_1920.jpg)
-![finished_01](/images/models/al-whaleboat/finished_01_1920.jpg)
-![finished_04](/images/models/al-whaleboat/finished_04_1920.jpg)
-![finished_06](/images/models/al-whaleboat/finished_06_1920.jpg)
-![finished_02](/images/models/al-whaleboat/finished_02_1920.jpg)
+![finished_05](/images/models/al-whaleboat/finished_05_1920.webp)
+![finished_03](/images/models/al-whaleboat/finished_03_1920.webp)
+![finished_07](/images/models/al-whaleboat/finished_07_1920.webp)
+![finished_01](/images/models/al-whaleboat/finished_01_1920.webp)
+![finished_04](/images/models/al-whaleboat/finished_04_1920.webp)
+![finished_06](/images/models/al-whaleboat/finished_06_1920.webp)
+![finished_02](/images/models/al-whaleboat/finished_02_1920.webp)

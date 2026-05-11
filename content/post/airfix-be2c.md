@@ -3,7 +3,7 @@ title: "Royal Aircraft Factory BE2c, 1/72, Airfix"
 slug: airfix-be2c
 date: 2020-03-17
 tags: [Airfix, 1/72, 2019]
-feature_image: /images/models/airfix-be2c/finished_05_1920.jpg
+feature_image: /images/models/airfix-be2c/finished_05_1920.webp
 categories: [airplanes]
 ---
 
@@ -25,7 +25,7 @@ Pretty much nothing to write about. Very straightforward build and I didn't want
 
 Painted with **Tamiya** *Wooden Deck Tan*, weathering and colour modulation with oils.
 
-![base coat](/images/models/airfix-be2c/wip_01_1920.jpg)
+![base coat](/images/models/airfix-be2c/wip_01_1920.webp)
 
 For shiny metal parts I used **AK Interactive** *True Metal* paint for the first time, I liked it quite a lot.
 Tried to imitate wood texture with oils over acrylics, quite happy with the result.
@@ -36,8 +36,8 @@ Sometimes it's nice to build a model that doesn't push you to the limit. Helps t
 
 ## Gallery
 
-![finished 01](/images/models/airfix-be2c/finished_01_1920.jpg)
-![finished 02](/images/models/airfix-be2c/finished_02_1920.jpg)
-![finished 03](/images/models/airfix-be2c/finished_03_1920.jpg)
-![finished 04](/images/models/airfix-be2c/finished_04_1920.jpg)
-![finished 05](/images/models/airfix-be2c/finished_05_1920.jpg)
+![finished 01](/images/models/airfix-be2c/finished_01_1920.webp)
+![finished 02](/images/models/airfix-be2c/finished_02_1920.webp)
+![finished 03](/images/models/airfix-be2c/finished_03_1920.webp)
+![finished 04](/images/models/airfix-be2c/finished_04_1920.webp)
+![finished 05](/images/models/airfix-be2c/finished_05_1920.webp)

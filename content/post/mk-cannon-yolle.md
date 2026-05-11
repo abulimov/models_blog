@@ -4,7 +4,7 @@ date: 2018-10-18
 slug: mk-cannon-yolle
 tags: ["WoodenKit", "1/72", "Master Korabel", 2018]
 categories: [ships]
-feature_image: /images/models/mk-cannon-yolle/finished_07_1920.jpg
+feature_image: /images/models/mk-cannon-yolle/finished_07_1920.webp
 ---
 
 My first ever wooden kit, yay!
@@ -34,30 +34,30 @@ I didn't experience any problems with build whatsoever, but as a wooden kit newb
 Main problem when working with wood is that you cannot just apply some putty if you've made a mistake, you cannot paint stuff - everything is exposed.
 
 All wooden parts come on laser-cut sheets, and surprising amount of Photo-Etched parts is provided. Also you can see threads and metal gun of a very nice quality, and under the wooden sheets is a piece of fabric to make sails.
-![box content](/images/models/mk-cannon-yolle/00_box_content_1920.jpg)
+![box content](/images/models/mk-cannon-yolle/00_box_content_1920.webp)
 
 Nice colored manual depicts ship in all her glory.
-![manual](/images/models/mk-cannon-yolle/00_manual_1920.jpg)
+![manual](/images/models/mk-cannon-yolle/00_manual_1920.webp)
 
 Following the manual I assembled the hull stringers on a special wooden piece of a very elaborate shape. In the front you can see the base of a gun carriage.
-![base](/images/models/mk-cannon-yolle/01_base_1920.jpg)
+![base](/images/models/mk-cannon-yolle/01_base_1920.webp)
 
 Once the 'skeleton' of the hull was complete I started with planking.
-![planking work in progress](/images/models/mk-cannon-yolle/02_planking_wip_1920.jpg)
+![planking work in progress](/images/models/mk-cannon-yolle/02_planking_wip_1920.webp)
 
 It took me two evenings to complete planking even on this small (215mm length) ship.
-![planking done](/images/models/mk-cannon-yolle/03_planking_done_1920.jpg)
+![planking done](/images/models/mk-cannon-yolle/03_planking_done_1920.webp)
 
 Then I glued all deck pieces, and at this point most of the hull works were done.
-![deck work in progress](/images/models/mk-cannon-yolle/04_deck_wip_1920.jpg)
+![deck work in progress](/images/models/mk-cannon-yolle/04_deck_wip_1920.webp)
 
 Working with PhotoEtch was the first part of a build process I already had experience with, so from now on I was much more confident. Here is the most complicated PE part - rudder. The only **new** thing here for me was making of tiny 'nails' from a metal wire, and I have to admit that it's kind of cool to nail PE parts down to the wood.
-![rudder](/images/models/mk-cannon-yolle/05_rudder_1920.jpg)
+![rudder](/images/models/mk-cannon-yolle/05_rudder_1920.webp)
 
 
 Finished working with hull, stained some parts to improve the look. Installed the gun, everything is ready for rigging.
-![deck done](/images/models/mk-cannon-yolle/08_deck_done_1920.jpg)
-![side done](/images/models/mk-cannon-yolle/09_side_done_1920.jpg)
+![deck done](/images/models/mk-cannon-yolle/08_deck_done_1920.webp)
+![side done](/images/models/mk-cannon-yolle/09_side_done_1920.webp)
 
 Unfortunately kit's producer decided to save like 2 Euros on threads, so the kit comes with synthetic threads of following colours: *golden* (**?!**), *brown* and *metallic white* (all very shiny).
 
@@ -71,8 +71,8 @@ But even after this little practice doing rigging proved to be just as time cons
 
 For example, attaching these lines to rudder took me around 3.5 hours with coiling.
 
-![rudder lines top](/images/models/mk-cannon-yolle/11_rudder_lines_top_1920.jpg)
-![rudder lines side](/images/models/mk-cannon-yolle/10_rudder_lines_side_1920.jpg)
+![rudder lines top](/images/models/mk-cannon-yolle/11_rudder_lines_top_1920.webp)
+![rudder lines side](/images/models/mk-cannon-yolle/10_rudder_lines_side_1920.webp)
 
 Overall I'd say that rigging took me about the time I spent on everything else, and it was definitely the most challenging part.
 
@@ -83,9 +83,9 @@ I enjoyed working with wood, and as the kit is very modern and highly detailed I
 
 ## Gallery
 
-![finished 06](/images/models/mk-cannon-yolle/finished_06_1920.jpg)
-![finished 02](/images/models/mk-cannon-yolle/finished_02_1920.jpg)
-![finished 03](/images/models/mk-cannon-yolle/finished_03_1920.jpg)
-![finished 04](/images/models/mk-cannon-yolle/finished_04_1920.jpg)
-![finished 05](/images/models/mk-cannon-yolle/finished_05_1920.jpg)
-![finished 07](/images/models/mk-cannon-yolle/finished_07_1920.jpg)
+![finished 06](/images/models/mk-cannon-yolle/finished_06_1920.webp)
+![finished 02](/images/models/mk-cannon-yolle/finished_02_1920.webp)
+![finished 03](/images/models/mk-cannon-yolle/finished_03_1920.webp)
+![finished 04](/images/models/mk-cannon-yolle/finished_04_1920.webp)
+![finished 05](/images/models/mk-cannon-yolle/finished_05_1920.webp)
+![finished 07](/images/models/mk-cannon-yolle/finished_07_1920.webp)

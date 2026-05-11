@@ -3,7 +3,7 @@ date: 2017-01-30
 title: I-4, 1/72, Zvezda
 slug: zvezda-i-4
 tags: [Zvezda, 1/72, 2017]
-feature_image: /images/models/i-4/IMG_4363_1920.jpg
+feature_image: /images/models/i-4/IMG_4363_1920.webp
 categories: [airplanes]
 ---
 
@@ -22,15 +22,15 @@ I've make set belts from masking tape, and painted the control panel as good as 
 
 Belts, no buckles yet as I'm lacking aluminium paint:
 
-![belts](/images/models/i-4/belts_1920.jpg)
+![belts](/images/models/i-4/belts_1920.webp)
 
 Added buckles:
 
-![belts and panel](/images/models/i-4/belts-panel_1920.jpg)
+![belts and panel](/images/models/i-4/belts-panel_1920.webp)
 
 Primed, painted base coats, set upper wing. It was tricky, as the wing is twice as heavy as the rest of the plane, so I had to put fuselage on the wing.
 
-![base paint](/images/models/i-4/base-paint_1920.jpg)
+![base paint](/images/models/i-4/base-paint_1920.webp)
 
 I had some unexpected issues with Humbrol Clear Varnish on this model, I applied it with brush, re-coated it too soon, and got milky stains in the areas it pooled. Fixed by airbrushing another couple of coats.
 
@@ -42,11 +42,11 @@ and added a headrest made from 3 layers of masking tape.
 
 Tried to add chipping effected, but I'm not happy with the result:
 
-![base weathering](/images/models/i-4/base-weathering_1920.jpg)
+![base weathering](/images/models/i-4/base-weathering_1920.webp)
 
 Looked a bit better after I've added some oil filters and added rust on exhausts using pigments:
 
-![base weathering](/images/models/i-4/base-oil_1920.jpg)
+![base weathering](/images/models/i-4/base-oil_1920.webp)
 
 ## Conclusion
 
@@ -55,14 +55,14 @@ and it's not that hard or scary as I thought. Also it's the first time I've trie
 
 ## Gallery
 
-![finished_1](/images/models/i-4/finished_1_1920.jpg)
-![finished_2](/images/models/i-4/finished_2_1920.jpg)
+![finished_1](/images/models/i-4/finished_1_1920.webp)
+![finished_2](/images/models/i-4/finished_2_1920.webp)
 
 
 ## P.S.
 
 Added a grass base, and photoed in a daylight, so the paint don't look so dark.
 
-![with_base_1](/images/models/i-4/IMG_4363_1920.jpg)
-![with_base_1](/images/models/i-4/IMG_4364_1920.jpg)
-![with_base_1](/images/models/i-4/IMG_4365_1920.jpg)
+![with_base_1](/images/models/i-4/IMG_4363_1920.webp)
+![with_base_1](/images/models/i-4/IMG_4364_1920.webp)
+![with_base_1](/images/models/i-4/IMG_4365_1920.webp)

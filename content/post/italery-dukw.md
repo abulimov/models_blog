@@ -3,7 +3,7 @@ title: "DUKW, 1/35, Italery"
 date: 2019-08-05
 slug: italery-dukw
 tags: [1/35, Italery, 2019]
-feature_image: /images/models/italery-dukw/finished_06_1920.jpg
+feature_image: /images/models/italery-dukw/finished_06_1920.webp
 categories: ['vehicles']
 ---
 
@@ -39,13 +39,13 @@ PhotoEtch kit by **Eduard** is remarkably good though.
 
 Built cabin floor, looks fantastic with PE.
 
-![cabin floor PE](/images/models/italery-dukw/01_cabin_floor_pe_1920.jpg)
+![cabin floor PE](/images/models/italery-dukw/01_cabin_floor_pe_1920.webp)
 
 
 Spent about a month building whole thing with gazillion of PE details,
 and ended up so tired of this model that I simply stashed it in a 'ready for primer' state for next 9 month.
 
-![read for primer top](/images/models/italery-dukw/03_ready_for_primer_top_1920.jpg)
+![read for primer top](/images/models/italery-dukw/03_ready_for_primer_top_1920.webp)
 
 
 While it was stashed I always worried that those delicate PE parts will fall off and become lost forever, but the sheer size of the model intimidated me enough to leave it stashed.
@@ -55,17 +55,17 @@ However after I switched from **Tamiya** rattlecan primer to *OneShot* primer fr
 So in December I dug it from the stash pile, fixed back some PE parts that came off loose, masked windows with masks provided by **Eduard** in a PE set, and finally primed it.
 
 
-![primed top](/images/models/italery-dukw/05_primed_top_1920.jpg)
+![primed top](/images/models/italery-dukw/05_primed_top_1920.webp)
 
 Looking how good this monster looks primed was a huge relief, and following paintwork came naturally.
 
-![base coat top](/images/models/italery-dukw/07_base_coat_top_1920.jpg)
+![base coat top](/images/models/italery-dukw/07_base_coat_top_1920.webp)
 
 I used brilliant *US Olive Drab* colour modulation set from **AK Interactive**, spraying straight from the bottle.
 
 It was my first time using *colour modulation* technique I read about in fantastic **Adam's Armour** book, and I'm really happy with the results.
 
-![colour modulation top](/images/models/italery-dukw/08_colour_modulation_top_1920.jpg)
+![colour modulation top](/images/models/italery-dukw/08_colour_modulation_top_1920.webp)
 
 
 Then I sprayed **Tamiya** *Semi Gloss Clear* in the places I needed to apply decals, and used **Humbrol** *DecalFix* to set them. Afterward I made the surface flat again with **Tamiya** *Flat Clear*.
@@ -76,9 +76,9 @@ and then switched to **Tamiya** *Flat Earth* and *Red Brown* for chips on wooden
 After I've tried both 'hairspray' and 'sponge' chipping techniques several times each, I definitely prefer sponge, it's much more effortless.
 
 
-![decals and chipping top](/images/models/italery-dukw/09_decals_and_chipping_top_1920.jpg)
-![decals and chipping front](/images/models/italery-dukw/10_decals_and_chipping_front_1920.jpg)
-![decals and chipping rear](/images/models/italery-dukw/11_decals_and_chipping_rear_1920.jpg)
+![decals and chipping top](/images/models/italery-dukw/09_decals_and_chipping_top_1920.webp)
+![decals and chipping front](/images/models/italery-dukw/10_decals_and_chipping_front_1920.webp)
+![decals and chipping rear](/images/models/italery-dukw/11_decals_and_chipping_rear_1920.webp)
 
 Now everything is ready for next stop of weathering - adding rust, dirt and dust.
 
@@ -96,11 +96,11 @@ Loved both parts, but in future will try to stick to 1/48 scale for any WW2 armo
 
 ## Gallery
 
-![finished_06](/images/models/italery-dukw/finished_06_1920.jpg)
-![finished_02](/images/models/italery-dukw/finished_02_1920.jpg)
-![finished_03](/images/models/italery-dukw/finished_03_1920.jpg)
-![finished_04](/images/models/italery-dukw/finished_04_1920.jpg)
-![finished_08](/images/models/italery-dukw/finished_08_1920.jpg)
-![finished_07](/images/models/italery-dukw/finished_07_1920.jpg)
-![finished_05](/images/models/italery-dukw/finished_05_1920.jpg)
-![finished_01](/images/models/italery-dukw/finished_01_1920.jpg)
+![finished_06](/images/models/italery-dukw/finished_06_1920.webp)
+![finished_02](/images/models/italery-dukw/finished_02_1920.webp)
+![finished_03](/images/models/italery-dukw/finished_03_1920.webp)
+![finished_04](/images/models/italery-dukw/finished_04_1920.webp)
+![finished_08](/images/models/italery-dukw/finished_08_1920.webp)
+![finished_07](/images/models/italery-dukw/finished_07_1920.webp)
+![finished_05](/images/models/italery-dukw/finished_05_1920.webp)
+![finished_01](/images/models/italery-dukw/finished_01_1920.webp)

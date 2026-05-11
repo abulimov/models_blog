@@ -4,7 +4,7 @@ date: 2020-03-13
 slug: trumpeter-liberty-ship
 tags: ["1/700", "Trumpeter", 2019, 2020]
 categories: [ships]
-feature_image: /images/models/trumpeter-liberty-ship/finished_01_1920.jpg
+feature_image: /images/models/trumpeter-liberty-ship/finished_01_1920.webp
 ---
 
 ## SS Jeremiah O'Brien
@@ -38,7 +38,7 @@ Luckily recently I saw same model finished on Reddit's **[r/modelmakers](https:/
 Finishing the PE work was surprisingly easy (probably I've learned quite a lot since I last touched it), and even enjoyable to some extent.
 However it's clear for me now that 1/700 **is not** my favourite scale to work with PE.
 
-![wip](/images/models/trumpeter-liberty-ship/wip_01_1920.jpg)
+![wip](/images/models/trumpeter-liberty-ship/wip_01_1920.webp)
 
 Then I quickly painted the (second) hull using much lighter grey colour (just as the first time I used **AK Interactive** paint sets for WW2 US Navy),
 and to my relief it turned out to be not too bad, even with small imperfections and scratches.
@@ -57,8 +57,8 @@ It also helped that I had reference photos of the ship that I took on my visit t
 
 ## Gallery
 
-![finished_01](/images/models/trumpeter-liberty-ship/finished_01_1920.jpg)
-![finished_02](/images/models/trumpeter-liberty-ship/finished_02_1920.jpg)
-![finished_03](/images/models/trumpeter-liberty-ship/finished_03_1920.jpg)
-![finished_04](/images/models/trumpeter-liberty-ship/finished_04_1920.jpg)
-![finished_05](/images/models/trumpeter-liberty-ship/finished_05_1920.jpg)
+![finished_01](/images/models/trumpeter-liberty-ship/finished_01_1920.webp)
+![finished_02](/images/models/trumpeter-liberty-ship/finished_02_1920.webp)
+![finished_03](/images/models/trumpeter-liberty-ship/finished_03_1920.webp)
+![finished_04](/images/models/trumpeter-liberty-ship/finished_04_1920.webp)
+![finished_05](/images/models/trumpeter-liberty-ship/finished_05_1920.webp)

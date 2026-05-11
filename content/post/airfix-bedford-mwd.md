@@ -3,7 +3,7 @@ title: "Bedford MWD, 1/48, Airfix"
 slug: airfix-bedford-mwd
 date: 2018-02-26
 tags: [Airfix, 1/48, 2018]
-feature_image: /images/models/bedford-mwd/finished_05_1920.jpg
+feature_image: /images/models/bedford-mwd/finished_05_1920.webp
 categories: [vehicles]
 ---
 
@@ -31,27 +31,27 @@ I've started with base coat of A.MIG-044 Chipping paint, then a coat of MIG chip
 
 Here is the model before the actual chipping:
 
-![base coat](/images/models/bedford-mwd/base_coat_1920.jpg)
+![base coat](/images/models/bedford-mwd/base_coat_1920.webp)
 
 And here it is after I've dampened the surface and used old paintbrush to chip the Khaki coat:
 
-![chipping 1](/images/models/bedford-mwd/scratched_1_1920.jpg)
-![chipping 2](/images/models/bedford-mwd/scratched_2_1920.jpg)
+![chipping 1](/images/models/bedford-mwd/scratched_1_1920.webp)
+![chipping 2](/images/models/bedford-mwd/scratched_2_1920.webp)
 
 It's my first time using chipping fluid, previous experiments with hairspray were a failure.
 I'm very happy with the result, looks far better than I've ever hoped for.
 
 Applied decals over gloss coat:
 
-![decals 1](/images/models/bedford-mwd/bedford_mwd_decals_1_1920.jpg)
-![decals 2](/images/models/bedford-mwd/bedford_mwd_decals_2_1920.jpg)
-![decals 3](/images/models/bedford-mwd/bedford_mwd_decals_3_1920.jpg)
+![decals 1](/images/models/bedford-mwd/bedford_mwd_decals_1_1920.webp)
+![decals 2](/images/models/bedford-mwd/bedford_mwd_decals_2_1920.webp)
+![decals 3](/images/models/bedford-mwd/bedford_mwd_decals_3_1920.webp)
 
 
 Matte coat, oil filters, then satin coat and black enamel wash:
 
-![filters_and_washes_1](/images/models/bedford-mwd/filters_and_washes_1_1920.jpg)
-![filters_and_washes_7](/images/models/bedford-mwd/filters_and_washes_7_1920.jpg)
+![filters_and_washes_1](/images/models/bedford-mwd/filters_and_washes_1_1920.webp)
+![filters_and_washes_7](/images/models/bedford-mwd/filters_and_washes_7_1920.webp)
 
 Painted the wheels, applied Earth wash on them.
 As I plan to use this model in future BOB airfield diorama, I decided that it shouldn't be too dusty and dirty, so just applied more earth wash and called it a day.
@@ -63,9 +63,9 @@ Looking forward to using it on a diorama with Hurricane.
 
 ## Gallery
 
-![finished 05](/images/models/bedford-mwd/finished_05_1920.jpg)
-![finished 07](/images/models/bedford-mwd/finished_07_1920.jpg)
-![finished 08](/images/models/bedford-mwd/finished_08_1920.jpg)
-![finished 09](/images/models/bedford-mwd/finished_09_1920.jpg)
-![finished 10](/images/models/bedford-mwd/finished_10_1920.jpg)
-![finished 13](/images/models/bedford-mwd/finished_13_1920.jpg)
+![finished 05](/images/models/bedford-mwd/finished_05_1920.webp)
+![finished 07](/images/models/bedford-mwd/finished_07_1920.webp)
+![finished 08](/images/models/bedford-mwd/finished_08_1920.webp)
+![finished 09](/images/models/bedford-mwd/finished_09_1920.webp)
+![finished 10](/images/models/bedford-mwd/finished_10_1920.webp)
+![finished 13](/images/models/bedford-mwd/finished_13_1920.webp)

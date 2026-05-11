@@ -2,7 +2,7 @@
 title: "Albatros W.4, 1/72, Roden"
 slug: roden-albatros-w4
 date: 2016-11-21
-feature_image: /images/models/albatros-w4/albatros_done_2_1920.jpg
+feature_image: /images/models/albatros-w4/albatros_done_2_1920.webp
 tags: [Roden, 1/72, 2016]
 categories: [airplanes]
 ---
@@ -24,7 +24,7 @@ I've already had some experience with airbrush, so it was a nice easy build.
 I've tried pre-shading for the first time - painted wing frame using a pencil, and then sprayed several light coats of Tamiya Deck Tan. 
 You can see the result on the upper wing, while lower is still clear on this photo.
 
-![pre-shading](/images/models/albatros-w4/albatros_1_1920.jpg)
+![pre-shading](/images/models/albatros-w4/albatros_1_1920.webp)
 
 I have had only two major problems with this model: setting up the upper wing (because it's based on 4 very thin poles, very wobbly and fragile), and decals.
 The latter went just terrible - they were very thin and fragile, and kept tearing while I tried to adjust their position on the wings.
@@ -39,15 +39,15 @@ I've learned a lot, tried pre-shading, pin wash, and Tamiya Extra Thin cement.
 
 ## Gallery
 
-![done 1](/images/models/albatros-w4/albatros_done_1_1920.jpg)
-![done 2](/images/models/albatros-w4/albatros_done_2_1920.jpg)
-![done 3](/images/models/albatros-w4/albatros_done_3_1920.jpg)
-![done 4](/images/models/albatros-w4/albatros_done_4_1920.jpg)
-![done 5](/images/models/albatros-w4/albatros_done_5_1920.jpg)
+![done 1](/images/models/albatros-w4/albatros_done_1_1920.webp)
+![done 2](/images/models/albatros-w4/albatros_done_2_1920.webp)
+![done 3](/images/models/albatros-w4/albatros_done_3_1920.webp)
+![done 4](/images/models/albatros-w4/albatros_done_4_1920.webp)
+![done 5](/images/models/albatros-w4/albatros_done_5_1920.webp)
 
 ## P.S.
 I've added a water base and a display case. The 'water' is made using silicon sealant for bathrooms, and the display case is laser-cut from 3mm transparent acrylics sheet.
 
-![water 1](/images/models/albatros-w4/albatros_water_1_1920.jpg)
-![water 2](/images/models/albatros-w4/albatros_water_2_1920.jpg)
-![water 3](/images/models/albatros-w4/albatros_water_3_1920.jpg)
+![water 1](/images/models/albatros-w4/albatros_water_1_1920.webp)
+![water 2](/images/models/albatros-w4/albatros_water_2_1920.webp)
+![water 3](/images/models/albatros-w4/albatros_water_3_1920.webp)

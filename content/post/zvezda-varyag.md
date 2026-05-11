@@ -3,7 +3,7 @@ title: "Varyag, 1/350, Zvezda"
 date: 2022-10-03
 slug: zvezda-varyag
 tags: [Zvezda, Varyag, "1/350", 2022, Eduard]
-feature_image: /images/models/zvezda-varyag/finished_01_1920.jpg
+feature_image: /images/models/zvezda-varyag/finished_01_1920.webp
 categories: [ships]
 ---
 
@@ -46,22 +46,22 @@ Here is the part of the superstructure before and after painting.
 Deck is dry fitted on the first photo. Plastic bridge was removed,
 and a more detailed PhotoEtch replacement was installed.
 
-![wip_01](/images/models/zvezda-varyag/wip_01_1920.jpg)
-![wip_02](/images/models/zvezda-varyag/wip_02_1920.jpg)
+![wip_01](/images/models/zvezda-varyag/wip_01_1920.webp)
+![wip_02](/images/models/zvezda-varyag/wip_02_1920.webp)
 
 Here is the deck parts, before and after painting and
 glueing the wooden deck on top of the plastic one.
 The difference is massive, and I could have never
 achieved the same look with paint alone.
 
-![wip_04](/images/models/zvezda-varyag/wip_04_1920.jpg)
-![wip_05](/images/models/zvezda-varyag/wip_05_1920.jpg)
+![wip_04](/images/models/zvezda-varyag/wip_04_1920.webp)
+![wip_05](/images/models/zvezda-varyag/wip_05_1920.webp)
 
 And finally a steam launch with all the PE details and drilled out funnel.
 I always drill out the gun barrels and funnels, it's easy and it adds a lot
 to the look of the model.
 
-![wip_03](/images/models/zvezda-varyag/wip_03_1920.jpg)
+![wip_03](/images/models/zvezda-varyag/wip_03_1920.webp)
 
 One of the most challenging bits was adding the stern gallery.
 It's quite flimsy, made of very fine PE, and I even had to remove some of
@@ -71,13 +71,13 @@ Also at this point I drilled all the portholes, and made two
 big mounting holes in the bottom of the hull. I then glued in
 the nuts for the display base bolts with CA glue.
 
-![wip_06](/images/models/zvezda-varyag/wip_06_1920.jpg)
+![wip_06](/images/models/zvezda-varyag/wip_06_1920.webp)
 
 I greatly appreciated the replacement parts with railings already attached,
 this made building the model more enjoyable. And if someone builds the model
 without a wooden deck - just look at the nice plank details that come with PE parts!
 
-![wip_07](/images/models/zvezda-varyag/wip_07_1920.jpg)
+![wip_07](/images/models/zvezda-varyag/wip_07_1920.webp)
 
 Here you can see hull painted, and three deck parts glued in.
 I didn't want to pain the ship white with yellow funnels
@@ -107,7 +107,7 @@ I'm happy to report that thanks to this base
 I didn't knock off any of the parts, nor did I left any paint fingerprints on the hull!
 
 
-![wip_08](/images/models/zvezda-varyag/wip_08_1920.jpg)
+![wip_08](/images/models/zvezda-varyag/wip_08_1920.webp)
 
 So once I had the decks installed it was relatively fast to get to the almost final look,
 as I had all of the parts ready to be attached.
@@ -118,7 +118,7 @@ Here you can see the ship with most of the details done
 Dealing with PE railings and ladders was not too bad - Eduard's PE is excellent,
 most of the stuff fit right in.
 
-![wip_09](/images/models/zvezda-varyag/wip_09_1920.jpg)
+![wip_09](/images/models/zvezda-varyag/wip_09_1920.webp)
 
 After the detailing, it was time for weathering.
 
@@ -165,10 +165,10 @@ With my lack of artistic talent, I simply cannot achieve anything comparable wit
 
 ## Gallery
 
-![finished 01](/images/models/zvezda-varyag/finished_01_1920.jpg)
-![finished 02](/images/models/zvezda-varyag/finished_02_1920.jpg)
-![finished 03](/images/models/zvezda-varyag/finished_03_1920.jpg)
-![finished 07](/images/models/zvezda-varyag/finished_07_1920.jpg)
-![finished 04](/images/models/zvezda-varyag/finished_04_1920.jpg)
-![finished 05](/images/models/zvezda-varyag/finished_05_1920.jpg)
-![finished 06](/images/models/zvezda-varyag/finished_06_1920.jpg)
+![finished 01](/images/models/zvezda-varyag/finished_01_1920.webp)
+![finished 02](/images/models/zvezda-varyag/finished_02_1920.webp)
+![finished 03](/images/models/zvezda-varyag/finished_03_1920.webp)
+![finished 07](/images/models/zvezda-varyag/finished_07_1920.webp)
+![finished 04](/images/models/zvezda-varyag/finished_04_1920.webp)
+![finished 05](/images/models/zvezda-varyag/finished_05_1920.webp)
+![finished 06](/images/models/zvezda-varyag/finished_06_1920.webp)

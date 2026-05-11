@@ -4,7 +4,7 @@ date: 2018-12-23
 slug: mantua-english-carronade
 tags: ["WoodenKit", "1/17", "Mantua", 2018]
 categories: [ships]
-feature_image: /images/models/mantua-english-carronade/05_finished_1920.jpg
+feature_image: /images/models/mantua-english-carronade/05_finished_1920.webp
 ---
 After I visited famous [HMS Victory](https://en.wikipedia.org/wiki/HMS_Victory) in Portsmouth this summer, I wanted to build something related to her.
 
@@ -29,7 +29,7 @@ It's a very simple kit, so nothing really to write about, and I didn't take much
 
 Here you can see fully planked part of ship's hull, along with prepared parts of the gun carriage and the gun itself.
 
-![wip](/images/models/mantua-english-carronade/01_wip_1920.jpg)
+![wip](/images/models/mantua-english-carronade/01_wip_1920.webp)
 
 ## Conclusion
 
@@ -37,7 +37,7 @@ Despite me being unhappy about the kit quality I still like the end result, and 
 
 ## Gallery
 
-![finished 01](/images/models/mantua-english-carronade/02_finished_1920.jpg)
-![finished 02](/images/models/mantua-english-carronade/03_finished_1920.jpg)
-![finished 03](/images/models/mantua-english-carronade/04_finished_1920.jpg)
-![finished 04](/images/models/mantua-english-carronade/05_finished_1920.jpg)
+![finished 01](/images/models/mantua-english-carronade/02_finished_1920.webp)
+![finished 02](/images/models/mantua-english-carronade/03_finished_1920.webp)
+![finished 03](/images/models/mantua-english-carronade/04_finished_1920.webp)
+![finished 04](/images/models/mantua-english-carronade/05_finished_1920.webp)

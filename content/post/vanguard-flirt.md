@@ -4,7 +4,7 @@ date: 2024-07-18
 slug: vanguard-flirt
 tags: ["WIP", "WoodenKit", "1/64", "Vanguard Models", 2023, 2024]
 categories: [ships]
-feature_image: /images/models/vanguard-flirt/wip_15_1920.jpg
+feature_image: /images/models/vanguard-flirt/wip_15_1920.webp
 ---
 
 This model attracted me because of graceful, beautiful lines, and my desire to try a recent model by famous **Chris Watton**.
@@ -28,13 +28,13 @@ Very good engineering throughout - longitudinal reinforcements make aligning bul
 
 All parts fit amazingly well, no gaps, no need to sand pieces to reduce thickness either.
 
-![wip_01](/images/models/vanguard-flirt/wip_01_1920.jpg)
+![wip_01](/images/models/vanguard-flirt/wip_01_1920.webp)
 
 So far the only issue I had was that the instructions said that bulkheads will have etched lines for sanding, but in my case they didn’t - I suspect that few of my plates came from Speedy which is a bit older design.
 
 And how cool is that - my first model with a lower deck, and VM provided a great looking laser etched birch deck, even with the door down there, despite it being barely visible through hatches.
 
-![wip_02](/images/models/vanguard-flirt/wip_02_1920.jpg)
+![wip_02](/images/models/vanguard-flirt/wip_02_1920.webp)
 
 Faring the hull was easy (it always is when MDF is used, plywood is *much* harder to sand), but applying gunport patterns was utter shitshow.
 I have no idea how one could bend them into submission, so they lay properly on the bulkheads.
@@ -59,11 +59,11 @@ Some days later I managed to finish the sanding without doing more damage.
 
 Thankfully after the sanding first layer of planking looks splendid, and I was eager to start with the finial layer.
 
-![wip_03](/images/models/vanguard-flirt/wip_03_1920.jpg)
+![wip_03](/images/models/vanguard-flirt/wip_03_1920.webp)
 
 Here you can see how I thinned the deadwood area in the stern. A bit too much actually, I had to build it up a bit with a wood filler before the second planking.
 
-![wip_04](/images/models/vanguard-flirt/wip_04_1920.jpg)
+![wip_04](/images/models/vanguard-flirt/wip_04_1920.webp)
 
 Second layer is made from pear, which is a very pleasant wood to work with.
 
@@ -79,11 +79,11 @@ Sanding the second layer was as boring as with the first one, but luckily there 
 
 Next photo is from the later stage, but shows the bow planking nicely.
 
-![wip_06](/images/models/vanguard-flirt/wip_06_1920.jpg)
+![wip_06](/images/models/vanguard-flirt/wip_06_1920.webp)
 
 Gluing the laser-etched deck was trivial, used plenty of clamps and some extra weight to make ensure good bond. I lightly sanded some slightly charred parts of the deck with 1200 grit sandpaper, which was enough to remove the char without damaging the etching.
 
-![wip_05](/images/models/vanguard-flirt/wip_05_1920.jpg)
+![wip_05](/images/models/vanguard-flirt/wip_05_1920.webp)
 
 Planking the inside of the bulwarks was a nice change from slightly annoying outer planking, as I switched from CA to PVA.
 I want the best possible bond around the gunports (so that the planks don't detach when I cut them open), and having glue residue is no problem as it will all be pained anyway
@@ -103,12 +103,12 @@ I'm completely fine with this small difference, it will simply mean I'll have to
 
 Building the wales was easy, although I had to build up the lower 4 mm strip from 3 pieces on both sides simply because I completely ran out of 4x1 mm pear strips. No biggie, still turned out great.
 
-![wip_07](/images/models/vanguard-flirt/wip_07_1920.jpg)
+![wip_07](/images/models/vanguard-flirt/wip_07_1920.webp)
 
 Glued in the stempost piece, decent fit, although I expected better. Even before the laser char removal there were few 1 mm gaps. Again, no biggie as it will be filled and painted anyway.
 Left the glue to dry overnight as per instructions, glued in the rest of the keel next day, and fully painted the bulwarks. I love using the *Admiralty Models* paint, it is pretty much perfect for the brush application on wood.
 
-![wip_08](/images/models/vanguard-flirt/wip_08_1920.jpg)
+![wip_08](/images/models/vanguard-flirt/wip_08_1920.webp)
 
 
 Made a rudder with the tiller handle, interesting how the pintles are designed as a separate PE part, first time I'm seeing something like this.
@@ -124,18 +124,18 @@ So doing multiple passes with the brush is much better for me, and it's quite me
 
 Next step was adding some bow and stern decorations, very easy and pleasant. Did some touch-ups in wales, and now it is time for the capping rails.
 
-![wip_09](/images/models/vanguard-flirt/wip_09_1920.jpg)
+![wip_09](/images/models/vanguard-flirt/wip_09_1920.webp)
 
 Installing them was a bit tricky, at least in my case. Maybe I messed up a bit with the hull shape, but I definitely had to edge bend the pre-cut rails to fit.
 It turned out decent, although a bit of trimming/sanding of the top planks was required to have decent and even overhand.
 
 Here is the most problematic part of the hull before the adjustment.
 
-![wip_10](/images/models/vanguard-flirt/wip_10_1920.jpg)
+![wip_10](/images/models/vanguard-flirt/wip_10_1920.webp)
 
 And here is the same part after I scraped and sanded the planks beneath the cap rail so allow reasonable overhang.
 
-![wip_11](/images/models/vanguard-flirt/wip_11_1920.jpg)
+![wip_11](/images/models/vanguard-flirt/wip_11_1920.webp)
 
 By the way I really liked the method to install the rails described in the instructions - using brass pins to ensure proper fit and alignment, it worked very well and allowed me to use PVA.
 
@@ -156,7 +156,7 @@ I think it would have been better to just glue them, mask around with tape and p
 
 But now with cap rail painted and decorations added the ship looks quite nice and clean.
 
-![wip_13](/images/models/vanguard-flirt/wip_13_1920.jpg)
+![wip_13](/images/models/vanguard-flirt/wip_13_1920.webp)
 
 I have installed the catheads, which was rather easy.
 I'm disappointed because the instructions do not call for imitating the sheaves there, which is quite puzzling as any other kit I built had them.
@@ -169,7 +169,7 @@ and adding a cathead knee *on top* of that is just ridiculous (and it looks sill
 Instead, I cut out pieces of existing black wood side decorations, so that the new curved pieces can be properly glued below the cathead, laying flat.
 This way not only it looks more logical, but also the knee has something to rest on.
 
-![wip_12](/images/models/vanguard-flirt/wip_12_1920.jpg)
+![wip_12](/images/models/vanguard-flirt/wip_12_1920.webp)
 
 Adding steps and depth marks was easy, simply marked the exact spots (determined with the ruler) with the pencil, and carefully glued things.
 
@@ -199,7 +199,7 @@ All the bitts and stuff are laser cut as well, and are a joy to put together.
 
 Very happy with this stage of the build!
 
-![wip_14](/images/models/vanguard-flirt/wip_16_1920.jpg)
+![wip_14](/images/models/vanguard-flirt/wip_16_1920.webp)
 
 Once all the deck furniture was in place I could finally apply the Danish oil on the deck and sides of the hull.
 
@@ -210,8 +210,8 @@ Of course oiled pear looks amazing, very happy with how the hull turned out.
 The one-piece laser cut deck on the other hand looks too uniform to me, I actually prefer when the deck is made from the individual planks.
 It is much more work to produce, but the slight colour variation between each plank makes a big difference in my eyes.
 
-![wip_15](/images/models/vanguard-flirt/wip_15_1920.jpg)
+![wip_15](/images/models/vanguard-flirt/wip_15_1920.webp)
 
-![wip_14](/images/models/vanguard-flirt/wip_14_1920.jpg)
+![wip_14](/images/models/vanguard-flirt/wip_14_1920.webp)
 
 **To be continued...**

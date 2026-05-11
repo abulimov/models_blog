@@ -4,7 +4,7 @@ date: 2019-09-24
 slug: falkonet-wooden-boat
 tags: ["WoodenKit", "1/72", "Falkonet", 2019]
 categories: [ships]
-feature_image: /images/models/falkonet-wooden-boat/finished_03_1920.jpg
+feature_image: /images/models/falkonet-wooden-boat/finished_03_1920.webp
 ---
 
 I can't really help it - wooden models attract me more and more.
@@ -29,7 +29,7 @@ Again with a tiny boat like this, instructions make you build a special internal
 
 Here is the picture right after I removed all of the fake supporting bulkheads and installed all of the ribs:
 
-![wip_01](/images/models/falkonet-wooden-boat/wip_01_1920.jpg)
+![wip_01](/images/models/falkonet-wooden-boat/wip_01_1920.webp)
 
 I had an 'extras' Photo Etch set for the boat, so replaced crude wooden oarlocks with brass ones, and added an anchor.
 As usual, making 1/72 oars is a huge pain in the ass, they are extremely fragile. Luckily kit had plenty of extras.
@@ -42,6 +42,6 @@ Very enjoyable build and a good looking model, I even proudly placed it on my de
 
 ## Gallery
 
-![finished_01](/images/models/falkonet-wooden-boat/finished_01_1920.jpg)
-![finished_02](/images/models/falkonet-wooden-boat/finished_02_1920.jpg)
-![finished_03](/images/models/falkonet-wooden-boat/finished_03_1920.jpg)
+![finished_01](/images/models/falkonet-wooden-boat/finished_01_1920.webp)
+![finished_02](/images/models/falkonet-wooden-boat/finished_02_1920.webp)
+![finished_03](/images/models/falkonet-wooden-boat/finished_03_1920.webp)

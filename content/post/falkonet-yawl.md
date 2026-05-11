@@ -3,7 +3,7 @@ title: "Four-oared yawl of XIX century, 1/24, Falkonet"
 slug: falkonet-yawl
 date: 2020-09-01
 tags: ["WoodenKit", "1/24", "Falkonet", 2020]
-feature_image: /images/models/falkonet-yawl/finished_06_1920.jpg
+feature_image: /images/models/falkonet-yawl/finished_06_1920.webp
 categories: [ships]
 ---
 
@@ -26,7 +26,7 @@ Like with [other Falkonet's boat I've built](/models/falkonet-wooden-boat), you 
 Even in 1/24 scale the planks are very thin, so it makes total sense.
 
 Here is this structure built, with the keel installed without glue:
-![wip_01](/images/models/falkonet-yawl/wip_01_1920.jpg)
+![wip_01](/images/models/falkonet-yawl/wip_01_1920.webp)
 
 Ribs added and planking started. Each of the ribs is made of two plies, and I didn't like this approach one bit.
 It was a huge pain in the ass to make them, because if you first glue them together, then try to bend, they can easily break.
@@ -35,20 +35,20 @@ I tried PVA, CA glue, various approaches.
 
 In the end the one approach I used was applying thick layer of PVA on one ply, adding another one,
 and then dry-fitting them in place (you can kinda fix them via supporting structure slots) while the glue is still wet and the plies can slide against each other.
-![wip_02](/images/models/falkonet-yawl/wip_02_1920.jpg)
+![wip_02](/images/models/falkonet-yawl/wip_02_1920.webp)
 
 Once the planking is done, internal supports are removed and it's amazing how light and thin the hull is.
-![wip_03](/images/models/falkonet-yawl/wip_03_1920.jpg)
+![wip_03](/images/models/falkonet-yawl/wip_03_1920.webp)
 
-![wip_04](/images/models/falkonet-yawl/wip_04_1920.jpg)
+![wip_04](/images/models/falkonet-yawl/wip_04_1920.webp)
 
 I had almost perfect fit, which is a miracle for wooden models.
 The only minor adjustment I had to do was adding this small wedge to compensate for the burn marks that I removed from each plank.
-![wip_05](/images/models/falkonet-yawl/wip_05_1920.jpg)
+![wip_05](/images/models/falkonet-yawl/wip_05_1920.webp)
 
 With the hull planking done, adding all the details was a pleasure.
 All the parts are laser-cut, fit was perfect, and lots of photo-etch details.
-![wip_06](/images/models/falkonet-yawl/wip_06_1920.jpg)
+![wip_06](/images/models/falkonet-yawl/wip_06_1920.webp)
 
 Finally, what's left was rigging and making of oars.
 
@@ -63,10 +63,10 @@ It's a truly amazing kit, with unmatched level of details and excellent engineer
 
 ## Gallery
 
-![finished_06](/images/models/falkonet-yawl/finished_06_1920.jpg)
-![finished_01](/images/models/falkonet-yawl/finished_01_1920.jpg)
-![finished_02](/images/models/falkonet-yawl/finished_02_1920.jpg)
-![finished_03](/images/models/falkonet-yawl/finished_03_1920.jpg)
-![finished_04](/images/models/falkonet-yawl/finished_04_1920.jpg)
-![finished_05](/images/models/falkonet-yawl/finished_05_1920.jpg)
-![finished_07](/images/models/falkonet-yawl/finished_07_1920.jpg)
+![finished_06](/images/models/falkonet-yawl/finished_06_1920.webp)
+![finished_01](/images/models/falkonet-yawl/finished_01_1920.webp)
+![finished_02](/images/models/falkonet-yawl/finished_02_1920.webp)
+![finished_03](/images/models/falkonet-yawl/finished_03_1920.webp)
+![finished_04](/images/models/falkonet-yawl/finished_04_1920.webp)
+![finished_05](/images/models/falkonet-yawl/finished_05_1920.webp)
+![finished_07](/images/models/falkonet-yawl/finished_07_1920.webp)

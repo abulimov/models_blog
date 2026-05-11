@@ -4,7 +4,7 @@ date: 2019-03-07
 slug: zvezda-medieval-lifeboat
 tags: ["1/72", "Zvezda", 2019]
 categories: [ships]
-feature_image: /images/models/zvezda-medieval-lifeboat/01_finished_1920.jpg
+feature_image: /images/models/zvezda-medieval-lifeboat/01_finished_1920.webp
 ---
 
 ## Boat
@@ -22,7 +22,7 @@ It was my first seriously approaching it, and after reading modelling forums I w
 I used Burnt Umber oil paint by *Windsor&Newton*, and 'Wooden deck tan' from *Tamiya*.
 
 Here you can see unpainted plastic along with freshly painted part:
-![wip](/images/models/zvezda-medieval-lifeboat/00_wip_1920.jpg)
+![wip](/images/models/zvezda-medieval-lifeboat/00_wip_1920.webp)
 
 I'm very pleased with the result, and overall ease of this method.
 
@@ -40,6 +40,6 @@ Nice little kit, nothing special but quite pleasant for build.
 
 ## Gallery
 
-![finished_01](/images/models/zvezda-medieval-lifeboat/01_finished_1920.jpg)
-![finished_02](/images/models/zvezda-medieval-lifeboat/02_finished_1920.jpg)
-![finished_03](/images/models/zvezda-medieval-lifeboat/03_finished_1920.jpg)
+![finished_01](/images/models/zvezda-medieval-lifeboat/01_finished_1920.webp)
+![finished_02](/images/models/zvezda-medieval-lifeboat/02_finished_1920.webp)
+![finished_03](/images/models/zvezda-medieval-lifeboat/03_finished_1920.webp)

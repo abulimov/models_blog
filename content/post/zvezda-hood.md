@@ -3,7 +3,7 @@ title: "HMS Hood, 1/720, Italery/Zvezda"
 date: 2018-03-02
 slug: zvezda-hood
 tags: [Zvezda, Italery, 1/720, 2018]
-feature_image: /images/models/hms-hood/finished_05_1920.jpg
+feature_image: /images/models/hms-hood/finished_05_1920.webp
 categories: [ships]
 ---
 
@@ -28,33 +28,33 @@ It was the first model I've tried **Tamiya Flexible Masking Tape**, and it's a l
 It makes painting waterline and deck so much easier.
 
 
-![hood wip 1](/images/models/hms-hood/hood_wip_1_1920.jpg)
+![hood wip 1](/images/models/hms-hood/hood_wip_1_1920.webp)
 
 I've drilled the gun barrels, and it was like the best 5 minutes spent on model. The difference is just fantastic:
 
-![hood wip 2](/images/models/hms-hood/hood_wip_2_1920.jpg)
+![hood wip 2](/images/models/hms-hood/hood_wip_2_1920.webp)
 
 Also I've decided to use PhotoEtch for the first time. Got some **Tom's Modelworks** 1/700 railings, and while using PE is far more tedious than drilling the barrels, the result is quite rewarding and brings the model to the next level.
 
 Before and after PE railings:
-![hood wip 3](/images/models/hms-hood/hood_wip_3_1920.jpg)
-![hood wip 4](/images/models/hms-hood/hood_wip_4_1920.jpg)
+![hood wip 3](/images/models/hms-hood/hood_wip_3_1920.webp)
+![hood wip 4](/images/models/hms-hood/hood_wip_4_1920.webp)
 
 Added more PE on the superstructure, looks much better with it:
-![hood superstructure PE](/images/models/hms-hood/hood_wip_5_1920.jpg)
+![hood superstructure PE](/images/models/hms-hood/hood_wip_5_1920.webp)
 
 Had some spare PE inclined ladders from **Tom's Modelworks**, decided to replace plastic ones after quick comparison.
 
 PE ladders vs plastic:
-![ladders comparison](/images/models/hms-hood/ladders_comparison_1920.jpg)
+![ladders comparison](/images/models/hms-hood/ladders_comparison_1920.webp)
 
 Spent whole weekend adding PE railings, I think the result is definitely worth it.
 
 Fully assembled model, needs only matte coat and weathering:
 
-![assembly_finished_1](/images/models/hms-hood/assembly_finished_1_1920.jpg)
-![assembly_finished_2](/images/models/hms-hood/assembly_finished_2_1920.jpg)
-![assembly_finished_3](/images/models/hms-hood/assembly_finished_3_1920.jpg)
+![assembly_finished_1](/images/models/hms-hood/assembly_finished_1_1920.webp)
+![assembly_finished_2](/images/models/hms-hood/assembly_finished_2_1920.webp)
+![assembly_finished_3](/images/models/hms-hood/assembly_finished_3_1920.webp)
 
 Applied red-brown wash on the deck, rigged with EZ-line, and weathered with oil paint.
 
@@ -65,14 +65,14 @@ Especially I liked enhancing the look of it with PhotoEtch. While it's definitel
 
 ## Gallery
 
-![finished_2](/images/models/hms-hood/finished_02_1920.jpg)
-![finished_3](/images/models/hms-hood/finished_03_1920.jpg)
-![finished_4](/images/models/hms-hood/finished_04_1920.jpg)
-![finished_5](/images/models/hms-hood/finished_05_1920.jpg)
-![finished_6](/images/models/hms-hood/finished_06_1920.jpg)
-![finished_7](/images/models/hms-hood/finished_07_1920.jpg)
-![finished_8](/images/models/hms-hood/finished_08_1920.jpg)
-![finished_9](/images/models/hms-hood/finished_09_1920.jpg)
-![finished_10](/images/models/hms-hood/finished_10_1920.jpg)
-![finished_11](/images/models/hms-hood/finished_11_1920.jpg)
-![finished_1](/images/models/hms-hood/finished_01_1920.jpg)
+![finished_2](/images/models/hms-hood/finished_02_1920.webp)
+![finished_3](/images/models/hms-hood/finished_03_1920.webp)
+![finished_4](/images/models/hms-hood/finished_04_1920.webp)
+![finished_5](/images/models/hms-hood/finished_05_1920.webp)
+![finished_6](/images/models/hms-hood/finished_06_1920.webp)
+![finished_7](/images/models/hms-hood/finished_07_1920.webp)
+![finished_8](/images/models/hms-hood/finished_08_1920.webp)
+![finished_9](/images/models/hms-hood/finished_09_1920.webp)
+![finished_10](/images/models/hms-hood/finished_10_1920.webp)
+![finished_11](/images/models/hms-hood/finished_11_1920.webp)
+![finished_1](/images/models/hms-hood/finished_01_1920.webp)

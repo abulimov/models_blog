@@ -4,7 +4,7 @@ date: 2025-05-25
 slug: trident-alert
 tags: ["WIP", "WoodenKit", "1/48", "Trident Models", "Plank on Frame", "POF", 2024, 2025]
 categories: [ships]
-feature_image: /images/models/trident-alert/wip_13_1920.jpg
+feature_image: /images/models/trident-alert/wip_13_1920.webp
 ---
 
 Since I started building wooden kits, I looked at the Plank-on-Frame models with great awe.
@@ -82,24 +82,24 @@ Nothing difficult, just slow careful work, rather enjoyable because the wood is 
 Finally, all the keel parts were glued together inside the plywood template, while laying flat on the table
 covered in plastic food wrap, and clamped with massive spring clamps. 
 
-![wip_02](/images/models/trident-alert/wip_01_1920.jpg)
+![wip_02](/images/models/trident-alert/wip_01_1920.webp)
 
-![wip_01](/images/models/trident-alert/wip_02_1920.jpg)
+![wip_01](/images/models/trident-alert/wip_02_1920.webp)
 
 Next part of the keel assembly was quite laborious and requiring very careful work.
 I needed to shape the wing transom by using (very handy) paper templates stickers. Took good few hours, but looks pretty good in my opinion,
 follows the stickers perfectly and fits right where it should.
 
-![wip_03](/images/models/trident-alert/wip_03_1920.jpg)
+![wip_03](/images/models/trident-alert/wip_03_1920.webp)
 
-![wip_04](/images/models/trident-alert/wip_04_1920.jpg)
+![wip_04](/images/models/trident-alert/wip_04_1920.webp)
 
 Shaping the cant frame supports was much easier, just a bit tedious as again I was very
 careful and all this was done by hand.
 
-![wip_05](/images/models/trident-alert/wip_05_1920.jpg)
+![wip_05](/images/models/trident-alert/wip_05_1920.webp)
 
-![wip_06](/images/models/trident-alert/wip_06_1920.jpg)
+![wip_06](/images/models/trident-alert/wip_06_1920.webp)
 
 The complete keel assembly turned out great, and after a small rabbet line clean up and a couple of fillings
 with dark wood filler I call it done.
@@ -112,9 +112,9 @@ to build it, with big chunk of time spent on sanding all the joints ever so slig
 touches the jig, and then brushed a coat of acrylic varnish to make sure there will be no char marks on the keel.
 Same varnish was applied where frames will sit in the cradle.
 
-![wip_07](/images/models/trident-alert/wip_07_1920.jpg)
+![wip_07](/images/models/trident-alert/wip_07_1920.webp)
 
-![wip_08](/images/models/trident-alert/wip_08_1920.jpg)
+![wip_08](/images/models/trident-alert/wip_08_1920.webp)
 
 
 ### Bow cant frames
@@ -125,7 +125,7 @@ As an engineer myself I definitely dig the design and all the thought that went 
 Like how with cant frames (those at the bow of ship) the kit provides sticker templates that help with shaping the frames.
 As a result I prepared and installed two foremost frames in just one hour, without any stress, just pleasant careful woodworking. Simply awesome, and cradle makes sure they are properly positioned.
 
-![wip_09](/images/models/trident-alert/wip_09_1920.jpg)
+![wip_09](/images/models/trident-alert/wip_09_1920.webp)
 
 Although I have to say that those foremost cant frames are a tricky thing.
 It took some serious effort to install the rest of them (especially number 3), and plenty of tinkering and tweaking the shapes, so it all sits properly.
@@ -146,7 +146,7 @@ Just a little plastic food wrap for the isolation layer, and first two pairs of 
 You may notice that one of the frame 7 is a bit out of shape - this is the first error in the kit that I've encountered,
 where one of the two 7-1 parts was weirdly cut. As far as I can tell, after the final shaping it doesn't look too bad, so I didn't plan to re-do it.
 
-![wip_10](/images/models/trident-alert/wip_10_1920.jpg)
+![wip_10](/images/models/trident-alert/wip_10_1920.webp)
 
 Little did I know! Few days later I was shaping the second frame 7, the one for port side, and didn't notice that I applied the templates incorrectly.
 As a result, I ended up with two starboard side frames number 7, and to make the best of this situation I replaced the slightly misshapen one with the second I erroneously made.
@@ -170,8 +170,8 @@ Making small progress in roughly one hour is perfect for how I approach model bu
 Here is the bow of the ship complete with all cant frames in place. It will receive some light sanding once all frames are installed,
 but even now it looks quite 'fair' thanks to the provided templates. Excellent engineering from **Trident Models**.
 
-![wip_11](/images/models/trident-alert/wip_11_1920.jpg)
-![wip_12](/images/models/trident-alert/wip_12_1920.jpg)
+![wip_11](/images/models/trident-alert/wip_11_1920.webp)
+![wip_12](/images/models/trident-alert/wip_12_1920.webp)
 
 You may notice that I decided to add imitation of bolts to the frame chocks. Used 0.4 mm brass wire, and 0.3 mm drill.
 As it proved to be impossible to properly align exit holes, I decided to drill both sides individually half way, to simply imitate the through bolts.
@@ -207,7 +207,7 @@ Eventually I've got to the point when all the cant frames, both bow and stern, a
 
 The stern looks pretty good to me, and all together the aft cant frames installation went rather well, nothing particularly tricky, which is good. 
 
-![wip_13](/images/models/trident-alert/wip_13_1920.jpg)
+![wip_13](/images/models/trident-alert/wip_13_1920.webp)
 
 
 ### Full frames
@@ -215,6 +215,6 @@ The stern looks pretty good to me, and all together the aft cant frames installa
 Gluing up the full frames turned out to be not that different from the cant frames.
 It's just a touch more difficult since I'm dealing with the bigger pieces, and the glue-up itself takes two steps.
 
-![wip_14](/images/models/trident-alert/wip_14_1920.jpg)
+![wip_14](/images/models/trident-alert/wip_14_1920.webp)
 
 **To be continued...**

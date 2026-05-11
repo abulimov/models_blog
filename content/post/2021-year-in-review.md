@@ -4,7 +4,7 @@ date: 2022-01-08
 slug: 2021-year-in-review
 tags: [year-in-review, 2021]
 categories: [year-in-review]
-feature_image: /images/2021.png
+feature_image: /images/2021.webp
 ---
 
 First time I’m doing this ‘year in review’ thing, decided to give it a try.

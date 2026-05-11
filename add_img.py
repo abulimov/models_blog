@@ -30,7 +30,7 @@ def main():
         with Image(filename=filename) as img:
             old_name = os.path.basename(filename)
             base_name, ext = os.path.splitext(old_name)
-            new_name = f"{base_name}_{args.size}{ext}"
+            new_name = f"{base_name}_{args.size}.webp"
             new_path = os.path.join(dir_path, new_name)
             with img.clone() as i:
                 i.compression_quality = args.quality

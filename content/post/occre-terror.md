@@ -4,7 +4,7 @@ date: 2023-12-03
 slug: occre-terror
 tags: ["WoodenKit", "1/75", "OcCre", 2019, 2020, 2021, 2022, 2023]
 categories: [ships]
-feature_image: /images/models/occre-terror/finished_02_1920.jpg
+feature_image: /images/models/occre-terror/finished_02_1920.webp
 ---
 
 Once I built up some confidence with [wooden kits](/tags/woodenkit/), especially after [St. Gabriel](/models/mk-st-gabriel/) I felt
@@ -55,7 +55,7 @@ And now to the build itself!
 
 Of course, doing planking for the first time was challenging.
 
-![wip_02](/images/models/occre-terror/wip_02_1920.jpg)
+![wip_02](/images/models/occre-terror/wip_02_1920.webp)
 
 I even had to buy a big hand file to work on the bow of the ship which you have to shape from 4 layers of wood.
 Obviously I've made plenty of mistakes, but as for the end result - I'm quite happy with it! Given it's my first time, it turned to be quite nice,
@@ -65,7 +65,7 @@ Next I worked on a second layer of planking and placed rubbing strakes. Before d
 TLDR - it's a huge pain in the ass if one really wants to replicate the look of real hull. Especially a complicated one like this.
 I decided to do it the easy way, like in the instructions. Why? Because I wanted to paint the hull anyway, and the bow will be covered with metal plates.
 
-![wip_07](/images/models/occre-terror/wip_07_1920.jpg)
+![wip_07](/images/models/occre-terror/wip_07_1920.webp)
 
 Here you can see planking complete with strakes and false keel. Looks lovely, I appreciate the choice of materials, would totally look amazing if left unpainted.
 
@@ -73,14 +73,14 @@ I loved the look of it so much that I decided to step away from the instructions
 
 Instructions say to stain it, and it looks like this:
 
-![wip_04](/images/models/occre-terror/wip_04_1920.jpg)
+![wip_04](/images/models/occre-terror/wip_04_1920.webp)
 
 Not too bad, but still kinda cheap when compared to outer planks.
 
 Thanks to abundance of material, I planked it, and couldn't be happier with new look:
 
-![wip_05](/images/models/occre-terror/wip_05_1920.jpg)
-![wip_06](/images/models/occre-terror/wip_06_1920.jpg)
+![wip_05](/images/models/occre-terror/wip_05_1920.webp)
+![wip_06](/images/models/occre-terror/wip_06_1920.webp)
 
 Once it was done I thought the most laborious part was over... I couldn't be more wrong!
 
@@ -89,13 +89,13 @@ By the end it felt like a chore, so I even had to take a couple of weeks brake f
 
 But the end result looks nice indeed, I almost reconsidered my decision to paint the hull.
 
-![wip_08](/images/models/occre-terror/wip_08_1920.jpg)
+![wip_08](/images/models/occre-terror/wip_08_1920.webp)
 
 ### 2020
 
 Next I worked on transom decoration and rudder, which you can see on next photo.
 
-![wip_10](/images/models/occre-terror/wip_10_1920.jpg)
+![wip_10](/images/models/occre-terror/wip_10_1920.webp)
 
 I'm glad OcCre supplies pre-formed hinges for the rudder, somehow Master Korabel does not, and making those from metal strips is not super fun.
 
@@ -103,15 +103,15 @@ Anyway, next I painted the hull and rubbing strakes, added the catheads, discove
 
 Many more hours were then spent on the deck furniture.
 
-![wip_13](/images/models/occre-terror/wip_13_1920.jpg)
+![wip_13](/images/models/occre-terror/wip_13_1920.webp)
 
 And finally I was ready to work on the masts and spars. Turns out, dressing the yards takes a lot of time, who could have thought!
 
-![wip_11](/images/models/occre-terror/wip_11_1920.jpg)
+![wip_11](/images/models/occre-terror/wip_11_1920.webp)
 
 But at last the bowsprit is installed.
 
-![wip_12](/images/models/occre-terror/wip_12_1920.jpg)
+![wip_12](/images/models/occre-terror/wip_12_1920.webp)
 
 Next logical step was rigging, and it broke me.
 
@@ -141,7 +141,7 @@ As I was already at the very late stages of the build, I decided to only alter/a
 For me, the main such issue was davits - I just hated the over-simplified version from the kit, even before I knew how the real thing should look like.
 Promptly the kit-provided stuff was removed, and work began on scratch-building a proper replacement, faithful to the book.
 
-![wip_14](/images/models/occre-terror/wip_14_1920.jpg)
+![wip_14](/images/models/occre-terror/wip_14_1920.webp)
 
 Making davits themselves was easy. I made a very simple jig from scrap wood and nails to bend the curved arms of the davits to shape.
 Metal parts were more challenging, but I had some PhotoEtch leftovers, and used them to craft hinges.
@@ -163,16 +163,16 @@ But still, even dreaded thousands of clove hitches went smoothly, and I finished
 
 Here you can see the simple hand-made template I was using to keep ratlines properly spaced and aligned.
 
-![wip_15](/images/models/occre-terror/wip_15_1920.jpg)
+![wip_15](/images/models/occre-terror/wip_15_1920.webp)
 
 After I finished with all ratlines, I consulted with Betts book for the rest standing rigging, just to realize that OcCre had it wrong in their plans, and last 2 or 3 pairs of shrouds should instead be backstays. Luckily I was able to remove them without re-doing the rest of the rigging, and added all backstays according to the plan provided in the book.
 
-![wip_16](/images/models/occre-terror/wip_16_1920.jpg)
+![wip_16](/images/models/occre-terror/wip_16_1920.webp)
 
 I was not happy with how OcCre wanted me to attach some of the stays, so I consulted with truly wonderful book "Rigging Period Ship Models" by *Lennarth Petersson*
 and enhanced my build with somewhat more realistic rigging, which you can see on the next photo.
 
-![wip_17](/images/models/occre-terror/wip_17_1920.jpg)
+![wip_17](/images/models/occre-terror/wip_17_1920.webp)
 
 Again, I would like to notice how generous OcCre was with materials, with plenty of blocks and deadeyes to spare, which allows for such improvements at no additional cost or stress of finding extra parts.
 
@@ -183,7 +183,7 @@ Instead, I bought a proper wooden boat kit from *Vanguard Models* which I will w
 
 I was right, [building the boat](/models/vanguard-24ft-cutter) was a very pleasant experience, and it looks orders of magnitude better than the cast metal one.
 
-![boat comparison](/images/models/vanguard-24ft-cutter/finished_04_1920.jpg)
+![boat comparison](/images/models/vanguard-24ft-cutter/finished_04_1920.webp)
 
 Once the new ship boat was tied into place I touched up the paint job that got a bit damaged over the years, and called the project complete.
 I opted out of building the stern water closets, at least for now.
@@ -212,19 +212,19 @@ And I definitely learned my lesson - when I picked all other kits, I made sure t
 
 ## Gallery
 
-![finished_01](/images/models/occre-terror/finished_01_1920.jpg)
-![finished_04](/images/models/occre-terror/finished_04_1920.jpg)
-![finished_02](/images/models/occre-terror/finished_02_1920.jpg)
-![finished_05](/images/models/occre-terror/finished_05_1920.jpg)
-![finished_06](/images/models/occre-terror/finished_06_1920.jpg)
-![finished_07](/images/models/occre-terror/finished_07_1920.jpg)
-![finished_08](/images/models/occre-terror/finished_08_1920.jpg)
-![finished_09](/images/models/occre-terror/finished_09_1920.jpg)
-![finished_10](/images/models/occre-terror/finished_10_1920.jpg)
-![finished_11](/images/models/occre-terror/finished_11_1920.jpg)
-![finished_12](/images/models/occre-terror/finished_12_1920.jpg)
-![finished_14](/images/models/occre-terror/finished_14_1920.jpg)
-![finished_13](/images/models/occre-terror/finished_13_1920.jpg)
-![finished_15](/images/models/occre-terror/finished_15_1920.jpg)
-![finished_16](/images/models/occre-terror/finished_16_1920.jpg)
-![finished_03](/images/models/occre-terror/finished_03_1920.jpg)
+![finished_01](/images/models/occre-terror/finished_01_1920.webp)
+![finished_04](/images/models/occre-terror/finished_04_1920.webp)
+![finished_02](/images/models/occre-terror/finished_02_1920.webp)
+![finished_05](/images/models/occre-terror/finished_05_1920.webp)
+![finished_06](/images/models/occre-terror/finished_06_1920.webp)
+![finished_07](/images/models/occre-terror/finished_07_1920.webp)
+![finished_08](/images/models/occre-terror/finished_08_1920.webp)
+![finished_09](/images/models/occre-terror/finished_09_1920.webp)
+![finished_10](/images/models/occre-terror/finished_10_1920.webp)
+![finished_11](/images/models/occre-terror/finished_11_1920.webp)
+![finished_12](/images/models/occre-terror/finished_12_1920.webp)
+![finished_14](/images/models/occre-terror/finished_14_1920.webp)
+![finished_13](/images/models/occre-terror/finished_13_1920.webp)
+![finished_15](/images/models/occre-terror/finished_15_1920.webp)
+![finished_16](/images/models/occre-terror/finished_16_1920.webp)
+![finished_03](/images/models/occre-terror/finished_03_1920.webp)

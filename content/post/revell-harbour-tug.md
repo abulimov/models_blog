@@ -3,7 +3,7 @@ title: "Harbour Tug boat 'Lucky XI', 1/108, Revell"
 slug: revell-harbour-tug
 date: 2017-07-28
 tags: [Revell, 1/108, 2016]
-feature_image: /images/models/harbour-tug/tug_done_5_1920.jpg
+feature_image: /images/models/harbour-tug/tug_done_5_1920.webp
 categories: [ships]
 ---
 
@@ -30,8 +30,8 @@ Honestly I was quite relieved at this point, the model looked really nice once p
 
 Weathered the lower part of the hull, applied was on the top part, deck and bridge:
 
-![wip 1](/images/models/harbour-tug/tug_1_1920.jpg)
-![wip 2](/images/models/harbour-tug/tug_2_1920.jpg)
+![wip 1](/images/models/harbour-tug/tug_1_1920.webp)
+![wip 2](/images/models/harbour-tug/tug_2_1920.webp)
 
 Used **EZ-Line** for rigging, and 3D-printed two tires to use on the bow of the ship, as the kit part was too ugly.
 
@@ -43,8 +43,8 @@ I wish there was any Photo Etch detail kit to bring better railings and more det
 
 ## Gallery
 
-![final 1](/images/models/harbour-tug/tug_done_1_1920.jpg)
-![final 2](/images/models/harbour-tug/tug_done_2_1920.jpg)
-![final 3](/images/models/harbour-tug/tug_done_3_1920.jpg)
-![final 4](/images/models/harbour-tug/tug_done_4_1920.jpg)
-![final 5](/images/models/harbour-tug/tug_done_5_1920.jpg)
+![final 1](/images/models/harbour-tug/tug_done_1_1920.webp)
+![final 2](/images/models/harbour-tug/tug_done_2_1920.webp)
+![final 3](/images/models/harbour-tug/tug_done_3_1920.webp)
+![final 4](/images/models/harbour-tug/tug_done_4_1920.webp)
+![final 5](/images/models/harbour-tug/tug_done_5_1920.webp)

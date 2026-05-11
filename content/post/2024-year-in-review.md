@@ -4,7 +4,7 @@ date: 2025-01-01
 slug: 2024-year-in-review
 tags: [year-in-review, 2024]
 categories: [year-in-review]
-feature_image: /images/2024.png
+feature_image: /images/2024.webp
 ---
 
 Continuing the [series of retrospectives](/tags/year-in-review/), let's take a look at year 2024.
@@ -17,7 +17,7 @@ While I only completed one model this year, I had great fun with those in progre
 
 ## [HMS Flirt](/models/vanguard-flirt)
 
-![HMS Flirt](/images/models/vanguard-flirt/wip_14_1920.jpg)
+![HMS Flirt](/images/models/vanguard-flirt/wip_14_1920.webp)
 
 Started this model in November 2023, and by the end of the year I was done with the planking.
 
@@ -27,7 +27,7 @@ I shelved the build at this point, since the next stage (masts, yards and riggin
 
 ## [HMS Alert POF](/models/trident-alert)
 
-![HMS Alert](/images/models/trident-alert/wip_11_1920.jpg)
+![HMS Alert](/images/models/trident-alert/wip_11_1920.webp)
 
 My first ever Plank-on-Frame model. I was so excited to start it, and continued to work on it in parallel with the Flirt build.
 
@@ -40,7 +40,7 @@ Finished the year with about 1/4 of the frames installed or at least assembled. 
 
 ## [RNLI Shannon-class Lifeboat](/models/airfix-rnli-shannon)
 
-![Lifeboat](/images/models/airfix-rnli-shannon/finished_04_1920.jpg)
+![Lifeboat](/images/models/airfix-rnli-shannon/finished_04_1920.webp)
 
 The only model I actually finished this year. Had good fun with it, great subject and a nice modern execution by Airfix.
 

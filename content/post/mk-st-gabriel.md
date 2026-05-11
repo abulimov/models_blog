@@ -4,7 +4,7 @@ date: 2019-07-30
 slug: mk-st-gabriel
 tags: ["WoodenKit", "1/72", "Master Korabel", 2019]
 categories: [ships]
-feature_image: /images/models/mk-st-gabriel/finished_02_1920.jpg
+feature_image: /images/models/mk-st-gabriel/finished_02_1920.webp
 ---
 
 For some reason wooden kits keep attracting me more and more.
@@ -29,45 +29,45 @@ that was lacking.
 This kit is POB (planks on bulkheads), and it's hull is designed to be extremely rigid and sturdy.
 Even by looking at the amount of bulkheads for stern and aft you can tell how thorough is the kit's design.
 
-![wip_01](/images/models/mk-st-gabriel/wip_01_1920.jpg)
+![wip_01](/images/models/mk-st-gabriel/wip_01_1920.webp)
 
 Once bulkheads were installed I proceeded with the first layer of planking:
-![wip_02](/images/models/mk-st-gabriel/wip_02_1920.jpg)
-![wip_04](/images/models/mk-st-gabriel/wip_04_1920.jpg)
+![wip_02](/images/models/mk-st-gabriel/wip_02_1920.webp)
+![wip_04](/images/models/mk-st-gabriel/wip_04_1920.webp)
 
 
 First planking layer is done, time for the second layer - beautiful colour this time.
 
-![wip_05](/images/models/mk-st-gabriel/wip_05_1920.jpg)
-![wip_06](/images/models/mk-st-gabriel/wip_06_1920.jpg)
+![wip_05](/images/models/mk-st-gabriel/wip_05_1920.webp)
+![wip_06](/images/models/mk-st-gabriel/wip_06_1920.webp)
 
 And finally planking is done!
 
-![wip_07](/images/models/mk-st-gabriel/wip_07_1920.jpg)
+![wip_07](/images/models/mk-st-gabriel/wip_07_1920.webp)
 
 Then I glued in the deck and proceeded with detailing the hull, like making a rudder blade and all the hatches.
 
-![wip_08](/images/models/mk-st-gabriel/wip_08_1920.jpg)
+![wip_08](/images/models/mk-st-gabriel/wip_08_1920.webp)
 
 More details are added...
-![wip_10](/images/models/mk-st-gabriel/wip_10_1920.jpg)
-![wip_11](/images/models/mk-st-gabriel/wip_11_1920.jpg)
+![wip_10](/images/models/mk-st-gabriel/wip_10_1920.webp)
+![wip_11](/images/models/mk-st-gabriel/wip_11_1920.webp)
 
 Until finally the ship is ready for the mast!
 
-![wip_13](/images/models/mk-st-gabriel/wip_13_1920.jpg)
+![wip_13](/images/models/mk-st-gabriel/wip_13_1920.webp)
 
 I decided to use the [small boat I've made last year](/models/mk-launch/) on the deck.
 
-![wip_12](/images/models/mk-st-gabriel/wip_12_1920.jpg)
+![wip_12](/images/models/mk-st-gabriel/wip_12_1920.webp)
 
 And made all the components for a mast, bowsprit and sailyards. It took quite some time as I had to make rounded things from square pre-cut pieces of wood.
 
-![wip_14](/images/models/mk-st-gabriel/wip_14_1920.jpg)
+![wip_14](/images/models/mk-st-gabriel/wip_14_1920.webp)
 
 Installed mast, bowsprit and main sail. Just making the ratlines took me 4 days.
 
-![wip_15](/images/models/mk-st-gabriel/wip_15_1920.jpg)
+![wip_15](/images/models/mk-st-gabriel/wip_15_1920.webp)
 
 And countless knots later the ship was finally finished!
 
@@ -79,18 +79,18 @@ where planks are not laser cut.
 
 ## Gallery
 
-![finished_01](/images/models/mk-st-gabriel/finished_01_1920.jpg)
-![finished_02](/images/models/mk-st-gabriel/finished_02_1920.jpg)
-![finished_03](/images/models/mk-st-gabriel/finished_03_1920.jpg)
-![finished_04](/images/models/mk-st-gabriel/finished_04_1920.jpg)
-![finished_05](/images/models/mk-st-gabriel/finished_05_1920.jpg)
-![finished_06](/images/models/mk-st-gabriel/finished_06_1920.jpg)
-![finished_07](/images/models/mk-st-gabriel/finished_07_1920.jpg)
-![finished_08](/images/models/mk-st-gabriel/finished_08_1920.jpg)
-![finished_09](/images/models/mk-st-gabriel/finished_09_1920.jpg)
-![finished_10](/images/models/mk-st-gabriel/finished_10_1920.jpg)
-![finished_11](/images/models/mk-st-gabriel/finished_11_1920.jpg)
-![finished_12](/images/models/mk-st-gabriel/finished_12_1920.jpg)
-![finished_13](/images/models/mk-st-gabriel/finished_13_1920.jpg)
-![finished_14](/images/models/mk-st-gabriel/finished_14_1920.jpg)
-![finished_15](/images/models/mk-st-gabriel/finished_15_1920.jpg)
+![finished_01](/images/models/mk-st-gabriel/finished_01_1920.webp)
+![finished_02](/images/models/mk-st-gabriel/finished_02_1920.webp)
+![finished_03](/images/models/mk-st-gabriel/finished_03_1920.webp)
+![finished_04](/images/models/mk-st-gabriel/finished_04_1920.webp)
+![finished_05](/images/models/mk-st-gabriel/finished_05_1920.webp)
+![finished_06](/images/models/mk-st-gabriel/finished_06_1920.webp)
+![finished_07](/images/models/mk-st-gabriel/finished_07_1920.webp)
+![finished_08](/images/models/mk-st-gabriel/finished_08_1920.webp)
+![finished_09](/images/models/mk-st-gabriel/finished_09_1920.webp)
+![finished_10](/images/models/mk-st-gabriel/finished_10_1920.webp)
+![finished_11](/images/models/mk-st-gabriel/finished_11_1920.webp)
+![finished_12](/images/models/mk-st-gabriel/finished_12_1920.webp)
+![finished_13](/images/models/mk-st-gabriel/finished_13_1920.webp)
+![finished_14](/images/models/mk-st-gabriel/finished_14_1920.webp)
+![finished_15](/images/models/mk-st-gabriel/finished_15_1920.webp)

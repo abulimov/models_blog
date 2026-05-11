@@ -4,7 +4,7 @@ date: 2018-11-29
 slug: mk-launch
 tags: ["WoodenKit", "1/72", "Master Korabel", 2018]
 categories: [ships]
-feature_image: /images/models/mk-launch/finished_01_1920.jpg
+feature_image: /images/models/mk-launch/finished_01_1920.webp
 ---
 
 As I had great fun building my [first wooden kit](/models/mk-cannon-yolle/), on my next trip to Russia I bought a bunch of other kits from local manufacturers.
@@ -24,21 +24,21 @@ I didn't experience any problems, if you don't consider tiny size and thinness o
 It's a 1/72 scale and everything is made of wood, so I had to be extra careful to avoid breaking parts.
 
 **box content**
-![box content](/images/models/mk-launch/box_content_1920.jpg)
+![box content](/images/models/mk-launch/box_content_1920.webp)
 
 Because everything is so tiny and fragile you have to build a special internal supporting structure before installing ribs and doing planking.
-![wip_01](/images/models/mk-launch/wip_01_1920.jpg)
+![wip_01](/images/models/mk-launch/wip_01_1920.webp)
 
 Interestingly most of the ribs are 'fake' and are installed only after planking is done. You can see the holes for them on this photo.
-![wip_02](/images/models/mk-launch/wip_02_1920.jpg)
-![wip_03](/images/models/mk-launch/wip_03_1920.jpg)
+![wip_02](/images/models/mk-launch/wip_02_1920.webp)
+![wip_03](/images/models/mk-launch/wip_03_1920.webp)
 
 It took a whole evening to complete planking, mostly because planks had to be held in hot water to make them flexible,
 and when you glue wet planks with PVA it take quite long to set.
-![wip_04](/images/models/mk-launch/wip_04_1920.jpg)
+![wip_04](/images/models/mk-launch/wip_04_1920.webp)
 
 Once planking was complete I sanded the hull, and then removed supporting structure from inside of the boat.
-![wip_05](/images/models/mk-launch/wip_05_1920.jpg)
+![wip_05](/images/models/mk-launch/wip_05_1920.webp)
 
 Then all that was left was installing deck parts, assembling rudder with some photo etch parts, and making oars.
 Kit includes 10 oars while you only need 8, and it appeared to be very thoughtful, as the oars are so thin it's very hard not to break one.
@@ -50,7 +50,7 @@ While building a wooden boat in 1/72 is definitely challenging, I feel that bigg
 
 ## Gallery
 
-![finished_04](/images/models/mk-launch/finished_04_1920.jpg)
-![finished_02](/images/models/mk-launch/finished_02_1920.jpg)
-![finished_03](/images/models/mk-launch/finished_03_1920.jpg)
-![finished_01](/images/models/mk-launch/finished_01_1920.jpg)
+![finished_04](/images/models/mk-launch/finished_04_1920.webp)
+![finished_02](/images/models/mk-launch/finished_02_1920.webp)
+![finished_03](/images/models/mk-launch/finished_03_1920.webp)
+![finished_01](/images/models/mk-launch/finished_01_1920.webp)

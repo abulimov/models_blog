@@ -4,7 +4,7 @@ date: 2023-11-13
 slug: vanguard-24ft-cutter
 tags: ["WoodenKit", "1/64", "Vanguard Models", 2023]
 categories: [ships]
-feature_image: /images/models/vanguard-24ft-cutter/finished_01_1920.jpg
+feature_image: /images/models/vanguard-24ft-cutter/finished_01_1920.webp
 ---
 
 This tiny kit was purchased to compliment [HMS Terror](/models/occre-terror).
@@ -37,26 +37,26 @@ I was a bit concerned about the proposed build method, but all my concerns were 
 Here you can see planking mostly done. Each plank was spiled to achieve realistic planking look, which is by no means necessary as the hull will be painted anyway.
 But I wanted to challenge myself and do it the right way.
 
-![wip_01](/images/models/vanguard-24ft-cutter/wip_01_1920.jpg)
+![wip_01](/images/models/vanguard-24ft-cutter/wip_01_1920.webp)
 
 This photo was taken right after I sanded the hull on the outside, and removed the jig from the inside.
 You can see that glue marks are not yet cleaned. It was surprisingly easy to clean them (I used both CA gel and PVA), and the inside of the hull turned out perfectly presentable.
 
-![wip_02](/images/models/vanguard-24ft-cutter/wip_02_1920.jpg)
+![wip_02](/images/models/vanguard-24ft-cutter/wip_02_1920.webp)
 
 Ribs took quite some time to add, I didn't expect this job to be this time-consuming. But nothing very hard about it.
 
 Floor boards come as a pre-cut and etched thin MDF board, which I painted to highlight some planks. It will be barely visible on the finished model anyway.
 Rest of the parts are made from very high quality pear.
 
-![wip_03](/images/models/vanguard-24ft-cutter/wip_03_1920.jpg)
+![wip_03](/images/models/vanguard-24ft-cutter/wip_03_1920.webp)
 
 From here, it was only a matter of adding benches, knees and painting the hull. As usual, I used Danish oil on the unpainted wood.
 
 Here you can see finished boat next to the one that came in HMS Terror kit.
 To me, the difference is dramatic, and I'm very happy with my decision to replace the ship boat.
 
-![finished_04](/images/models/vanguard-24ft-cutter/finished_04_1920.jpg)
+![finished_04](/images/models/vanguard-24ft-cutter/finished_04_1920.webp)
 
 ## Conclusion
 Great little kit, fantastic addition to any big ship model.
@@ -66,7 +66,7 @@ but detailed enough to look great as a ship boat.
 
 ## Gallery
 
-![finished_01](/images/models/vanguard-24ft-cutter/finished_01_1920.jpg)
-![finished_02](/images/models/vanguard-24ft-cutter/finished_02_1920.jpg)
-![finished_03](/images/models/vanguard-24ft-cutter/finished_03_1920.jpg)
+![finished_01](/images/models/vanguard-24ft-cutter/finished_01_1920.webp)
+![finished_02](/images/models/vanguard-24ft-cutter/finished_02_1920.webp)
+![finished_03](/images/models/vanguard-24ft-cutter/finished_03_1920.webp)
 
