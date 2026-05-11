@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    {{ $title := print .Title " · " .Site.Title }}
+    {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
+    <title>{{ $title }}</title>
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    {{ $styles := resources.Get "scss/main.scss" | resources.ExecuteAsTemplate "style.main.scss" . | toCSS | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $styles.Permalink }}" />
+
+</head>
+<body class="{{ block "body_class" . }} {{ end }}">
+
+    <div class="site-wrapper">
+        {{- block "main" . }}{{- end }}
+
+
+        <footer class="site-footer outer">
+            <div class="site-footer-content inner">
+                <section class="copyright">&copy; {{ .Site.Lastmod.Format "2006" }} <a href="{{ .Site.BaseURL }}">{{ .Site.Params.Author }}</a> {{.Site.Params.copyright | safeHTML }}</section>
+                <nav class="site-footer-nav">
+                    {{ if .Site.Params.scalematesID}}<a href="https://www.scalemates.com/profiles/mate.php?id={{ .Site.Params.scalematesID }}" target="_blank" rel="noopener">Scalemates</a>{{end}}
+                    {{ if .Site.Params.facebook }}<a href="{{ .Site.Params.facebook }}" target="_blank" rel="noopener">Facebook</a>{{ end }}
+                    {{ if .Site.Params.github }}<a href="{{ .Site.Params.github }}" target="_blank" rel="noopener">Github</a>{{ end }}
+                    <a href="https://jonathanjanssens.com" target="_blank" rel="noopener" style="opacity: 0.5;">Hugo Casper3 by Jonathan Janssens</a>
+                </nav>
+            </div>
+        </footer>
+
+    </div>
+
+</body>
+</html>
